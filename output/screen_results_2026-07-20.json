@@ -10,242 +10,185 @@
  },
  "cross": [
   {
-   "ticker": "AMAT",
-   "name": "Applied Materials",
+   "ticker": "AEP",
+   "name": "American Electric Power",
    "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 579.2515,
-   "ema90": 580.1416,
-   "close": 529.65
+   "barTime": "2026-07-20T13:30",
+   "ema36": 133.8015,
+   "ema90": 133.8284,
+   "close": 131.13
   },
   {
-   "ticker": "APH",
-   "name": "Amphenol",
+   "ticker": "AOS",
+   "name": "A. O. Smith",
    "type": "death",
-   "barTime": "2026-07-17T09:30",
-   "ema36": 158.2199,
-   "ema90": 158.3254,
-   "close": 151.86
+   "barTime": "2026-07-20T09:30",
+   "ema36": 60.1339,
+   "ema90": 60.1487,
+   "close": 58.715
   },
   {
-   "ticker": "BG",
-   "name": "Bunge Global",
+   "ticker": "BRK-B",
+   "name": "Berkshire Hathaway",
+   "type": "death",
+   "barTime": "2026-07-20T13:30",
+   "ema36": 493.5925,
+   "ema90": 493.6277,
+   "close": 491.01
+  },
+  {
+   "ticker": "CVNA",
+   "name": "Carvana",
+   "type": "death",
+   "barTime": "2026-07-20T15:30",
+   "ema36": 67.5382,
+   "ema90": 67.5916,
+   "close": 64.17
+  },
+  {
+   "ticker": "DAL",
+   "name": "Delta Air Lines",
+   "type": "death",
+   "barTime": "2026-07-20T11:30",
+   "ema36": 86.5409,
+   "ema90": 86.5456,
+   "close": 84.13
+  },
+  {
+   "ticker": "EXC",
+   "name": "Exelon",
+   "type": "death",
+   "barTime": "2026-07-20T11:30",
+   "ema36": 46.6203,
+   "ema90": 46.6411,
+   "close": 45.835
+  },
+  {
+   "ticker": "FOXA",
+   "name": "Fox Corporation (Class A)",
    "type": "golden",
-   "barTime": "2026-07-17T15:30",
-   "ema36": 115.3701,
-   "ema90": 115.3115,
-   "close": 119.13
+   "barTime": "2026-07-20T15:30",
+   "ema36": 55.9635,
+   "ema90": 55.9399,
+   "close": 57.48
   },
   {
-   "ticker": "CBOE",
-   "name": "Cboe Global Markets",
-   "type": "golden",
-   "barTime": "2026-07-17T11:30",
-   "ema36": 269.8116,
-   "ema90": 269.7715,
-   "close": 277.075
-  },
-  {
-   "ticker": "CNP",
-   "name": "CenterPoint Energy",
+   "ticker": "GE",
+   "name": "GE Aerospace",
    "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 43.5848,
-   "ema90": 43.6026,
-   "close": 43.105
-  },
-  {
-   "ticker": "COP",
-   "name": "ConocoPhillips",
-   "type": "golden",
-   "barTime": "2026-07-17T11:30",
-   "ema36": 110.3465,
-   "ema90": 110.2844,
-   "close": 113.75
-  },
-  {
-   "ticker": "DTE",
-   "name": "DTE Energy",
-   "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 149.6174,
-   "ema90": 149.6263,
-   "close": 147.83
-  },
-  {
-   "ticker": "DUK",
-   "name": "Duke Energy",
-   "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 126.0426,
-   "ema90": 126.054,
-   "close": 124.77
-  },
-  {
-   "ticker": "ELV",
-   "name": "Elevance Health",
-   "type": "death",
-   "barTime": "2026-07-17T09:30",
-   "ema36": 401.9381,
-   "ema90": 402.9359,
-   "close": 367.54
-  },
-  {
-   "ticker": "ERIE",
-   "name": "Erie Indemnity",
-   "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 236.5484,
-   "ema90": 236.6785,
-   "close": 228.77
-  },
-  {
-   "ticker": "EW",
-   "name": "Edwards Lifesciences",
-   "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 89.6042,
-   "ema90": 89.6788,
-   "close": 86.15
-  },
-  {
-   "ticker": "GOOG",
-   "name": "Alphabet Inc. (Class C)",
-   "type": "death",
-   "barTime": "2026-07-17T11:30",
-   "ema36": 357.5535,
-   "ema90": 357.8504,
-   "close": 344.89
-  },
-  {
-   "ticker": "GOOGL",
-   "name": "Alphabet Inc. (Class A)",
-   "type": "death",
-   "barTime": "2026-07-17T09:30",
-   "ema36": 360.1346,
-   "ema90": 360.3802,
-   "close": 347.16
+   "barTime": "2026-07-20T15:30",
+   "ema36": 352.9602,
+   "ema90": 353.3138,
+   "close": 341.33
   },
   {
    "ticker": "IFF",
    "name": "International Flavors & Fragrances",
    "type": "golden",
-   "barTime": "2026-07-17T15:30",
-   "ema36": 77.3933,
-   "ema90": 77.3636,
-   "close": 78.22
+   "barTime": "2026-07-20T15:30",
+   "ema36": 77.385,
+   "ema90": 77.3826,
+   "close": 77.28
   },
   {
-   "ticker": "LULU",
-   "name": "Lululemon Athletica",
+   "ticker": "INTU",
+   "name": "Intuit",
+   "type": "golden",
+   "barTime": "2026-07-20T09:30",
+   "ema36": 283.454,
+   "ema90": 283.3441,
+   "close": 288.205
+  },
+  {
+   "ticker": "LIN",
+   "name": "Linde plc",
    "type": "death",
-   "barTime": "2026-07-17T15:30",
-   "ema36": 117.3214,
-   "ema90": 117.3418,
-   "close": 116.306
+   "barTime": "2026-07-20T09:30",
+   "ema36": 521.3709,
+   "ema90": 521.53,
+   "close": 514.34
   },
   {
-   "ticker": "OXY",
-   "name": "Occidental Petroleum",
-   "type": "golden",
-   "barTime": "2026-07-17T09:30",
-   "ema36": 52.9401,
-   "ema90": 52.9203,
-   "close": 54.25
+   "ticker": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "type": "death",
+   "barTime": "2026-07-20T11:30",
+   "ema36": 19.6386,
+   "ema90": 19.6427,
+   "close": 19.435
   },
   {
-   "ticker": "TAP",
-   "name": "Molson Coors Beverage Company",
-   "type": "golden",
-   "barTime": "2026-07-17T09:30",
-   "ema36": 39.9396,
-   "ema90": 39.9037,
-   "close": 42.225
+   "ticker": "PGR",
+   "name": "Progressive Corporation",
+   "type": "death",
+   "barTime": "2026-07-20T11:30",
+   "ema36": 217.0514,
+   "ema90": 217.2723,
+   "close": 209.59
+  },
+  {
+   "ticker": "PKG",
+   "name": "Packaging Corporation of America",
+   "type": "death",
+   "barTime": "2026-07-20T15:30",
+   "ema36": 230.1552,
+   "ema90": 230.203,
+   "close": 228.49
+  },
+  {
+   "ticker": "ROK",
+   "name": "Rockwell Automation",
+   "type": "death",
+   "barTime": "2026-07-20T09:30",
+   "ema36": 465.9774,
+   "ema90": 466.1421,
+   "close": 461.78
+  },
+  {
+   "ticker": "SRE",
+   "name": "Sempra",
+   "type": "death",
+   "barTime": "2026-07-20T15:30",
+   "ema36": 92.928,
+   "ema90": 92.9791,
+   "close": 90.68
+  },
+  {
+   "ticker": "SW",
+   "name": "Smurfit Westrock",
+   "type": "death",
+   "barTime": "2026-07-20T15:30",
+   "ema36": 43.9495,
+   "ema90": 43.9719,
+   "close": 43.13
   },
   {
    "ticker": "TDY",
    "name": "Teledyne Technologies",
-   "type": "golden",
-   "barTime": "2026-07-17T11:30",
-   "ema36": 631.9983,
-   "ema90": 631.9843,
-   "close": 633.645
-  },
-  {
-   "ticker": "TRMB",
-   "name": "Trimble Inc.",
-   "type": "golden",
-   "barTime": "2026-07-17T09:30",
-   "ema36": 52.4344,
-   "ema90": 52.4274,
-   "close": 53.42
-  },
-  {
-   "ticker": "UAL",
-   "name": "United Airlines Holdings",
    "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 122.6448,
-   "ema90": 122.7023,
-   "close": 115.65
+   "barTime": "2026-07-20T11:30",
+   "ema36": 632.1814,
+   "ema90": 632.205,
+   "close": 627.99
   },
   {
-   "ticker": "ULTA",
-   "name": "Ulta Beauty",
-   "type": "golden",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 469.636,
-   "ema90": 469.6006,
-   "close": 480.61
-  },
-  {
-   "ticker": "URI",
-   "name": "United Rentals",
+   "ticker": "TT",
+   "name": "Trane Technologies",
    "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 1073.509,
-   "ema90": 1074.0128,
-   "close": 1044.05
+   "barTime": "2026-07-20T09:30",
+   "ema36": 475.7012,
+   "ema90": 476.0582,
+   "close": 461.8
   },
   {
-   "ticker": "XEL",
-   "name": "Xcel Energy",
+   "ticker": "WBD",
+   "name": "Warner Bros. Discovery",
    "type": "death",
-   "barTime": "2026-07-17T11:30",
-   "ema36": 80.0345,
-   "ema90": 80.0772,
-   "close": 78.9
-  },
-  {
-   "ticker": "YUM",
-   "name": "Yum! Brands",
-   "type": "death",
-   "barTime": "2026-07-17T13:30",
-   "ema36": 157.0813,
-   "ema90": 157.3864,
-   "close": 148.94
+   "barTime": "2026-07-20T15:30",
+   "ema36": 26.7854,
+   "ema90": 26.7998,
+   "close": 25.905
   }
  ],
- "bb": [
-  {
-   "ticker": "ISRG",
-   "name": "Intuitive Surgical",
-   "type": "below",
-   "close": 345.47,
-   "upper": 454.2603,
-   "lower": 355.4523,
-   "beta": 0.8354,
-   "betaMean": 1.034
-  },
-  {
-   "ticker": "SNPS",
-   "name": "Synopsys",
-   "type": "below",
-   "close": 384.39,
-   "upper": 500.5814,
-   "lower": 385.6855,
-   "beta": 1.4678,
-   "betaMean": 1.6034
-  }
- ]
+ "bb": []
 }
