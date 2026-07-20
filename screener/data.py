@@ -7,18 +7,26 @@ Responsibilities:
 """
 from __future__ import annotations
 
+from io import StringIO
+
 import pandas as pd
+import requests
 
 WIKI_URL = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+UA = {"User-Agent": "Mozilla/5.0 (compatible; sp500-dual-screener/1.0; educational project)"}
 
 
 def get_sp500_constituents() -> tuple[list[str], dict[str, str]]:
     """Return (tickers, {ticker: company_name}) scraped from Wikipedia.
 
-    Wikipedia uses dots in class-share tickers (BRK.B); Yahoo uses dashes
-    (BRK-B), so we normalize dots to dashes.
+    Wikipedia rejects requests without a User-Agent header (HTTP 403 from
+    datacenter IPs), so we fetch the HTML explicitly with `requests` and a
+    proper UA, then let pandas parse the tables from the raw HTML.
+    Dots in class-share tickers (BRK.B) are normalized to Yahoo's dashes (BRK-B).
     """
-    tables = pd.read_html(WIKI_URL)
+    resp = requests.get(WIKI_URL, headers=UA, timeout=30)
+    resp.raise_for_status()
+    tables = pd.read_html(StringIO(resp.text))
     df = tables[0]
     tickers = [str(t).replace(".", "-") for t in df["Symbol"]]
     names = dict(zip(tickers, df["Security"].astype(str)))
@@ -28,7 +36,6 @@ def get_sp500_constituents() -> tuple[list[str], dict[str, str]]:
 def fetch_1h(tickers: list[str], period: str = "1y") -> pd.DataFrame:
     """Download 1-hour bars for a list of tickers (regular session only).
 
-    Returns the yfinance multi-ticker frame (columns grouped by ticker).
     Imported lazily so unit tests don't require yfinance/network.
     """
     import yfinance as yf
