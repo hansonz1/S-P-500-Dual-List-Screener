@@ -47,15 +47,8 @@ most days is expected behavior, not a bug.
 
 Architecture
 
-Wikipedia ──► constituent list (503 tickers, auto-refreshed)
-Yahoo 1h bars ──► resample to 2h ──► indicators ──► dual-list screen
-                                                        │
-                              ┌─────────────────────────┤
-                              ▼                         ▼
-                     output/*.json (archive)   output/*.pdf (report)
-                              │
-                              ▼ (optional, if API key present)
-                     LLM market commentary (Claude)
+![Uploading image.png…]()
+
 
 ModuleResponsibilityscreener/data.pyConstituent scraping, 1h download, 2h resamplingscreener/indicators.pyEMA, Bollinger Bands, O(n) rolling betascreener/screen.pyThe two signal rulesscreener/report.pyPDF rendering (reportlab)screener/commentary.pyOptional LLM commentary (skipped without key)run.pyOrchestration, chunked downloads, error isolation
 
