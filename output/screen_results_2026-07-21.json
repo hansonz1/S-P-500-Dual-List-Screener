@@ -1,0 +1,311 @@
+{
+ "date": "2026-07-21",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "ECHO",
+   "HONA"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AEE",
+   "name": "Ameren",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 112.1349,
+   "ema90": 112.1791,
+   "close": 109.45
+  },
+  {
+   "ticker": "APA",
+   "name": "APA Corporation",
+   "type": "golden",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 34.3631,
+   "ema90": 34.3534,
+   "close": 35.605
+  },
+  {
+   "ticker": "BEN",
+   "name": "Franklin Resources",
+   "type": "death",
+   "barTime": "2026-07-21T13:30",
+   "ema36": 33.0588,
+   "ema90": 33.0792,
+   "close": 32.48
+  },
+  {
+   "ticker": "CDW",
+   "name": "CDW Corporation",
+   "type": "death",
+   "barTime": "2026-07-21T13:30",
+   "ema36": 134.1302,
+   "ema90": 134.2164,
+   "close": 128.4
+  },
+  {
+   "ticker": "CHD",
+   "name": "Church & Dwight",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 97.0186,
+   "ema90": 97.0506,
+   "close": 95.73
+  },
+  {
+   "ticker": "COIN",
+   "name": "Coinbase",
+   "type": "golden",
+   "barTime": "2026-07-21T11:30",
+   "ema36": 162.4444,
+   "ema90": 162.0361,
+   "close": 179.54
+  },
+  {
+   "ticker": "CPT",
+   "name": "Camden Property Trust",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 113.2301,
+   "ema90": 113.2528,
+   "close": 112.07
+  },
+  {
+   "ticker": "DECK",
+   "name": "Deckers Brands",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 105.8812,
+   "ema90": 105.9666,
+   "close": 103.38
+  },
+  {
+   "ticker": "DVN",
+   "name": "Devon Energy",
+   "type": "golden",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 43.122,
+   "ema90": 43.0854,
+   "close": 44.235
+  },
+  {
+   "ticker": "ECL",
+   "name": "Ecolab",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 272.4928,
+   "ema90": 272.5887,
+   "close": 265.96
+  },
+  {
+   "ticker": "ETR",
+   "name": "Entergy",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 113.6629,
+   "ema90": 113.7093,
+   "close": 112.215
+  },
+  {
+   "ticker": "F",
+   "name": "Ford Motor Company",
+   "type": "golden",
+   "barTime": "2026-07-21T13:30",
+   "ema36": 14.0776,
+   "ema90": 14.0757,
+   "close": 14.26
+  },
+  {
+   "ticker": "FOX",
+   "name": "Fox Corporation (Class B)",
+   "type": "golden",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 50.4143,
+   "ema90": 50.3866,
+   "close": 51.46
+  },
+  {
+   "ticker": "HST",
+   "name": "Host Hotels & Resorts",
+   "type": "golden",
+   "barTime": "2026-07-21T13:30",
+   "ema36": 23.7514,
+   "ema90": 23.7413,
+   "close": 24.325
+  },
+  {
+   "ticker": "IFF",
+   "name": "International Flavors & Fragrances",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 77.3696,
+   "ema90": 77.3779,
+   "close": 77.1
+  },
+  {
+   "ticker": "LII",
+   "name": "Lennox International",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 544.3474,
+   "ema90": 544.374,
+   "close": 529.555
+  },
+  {
+   "ticker": "LNT",
+   "name": "Alliant Energy",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 75.3556,
+   "ema90": 75.3839,
+   "close": 72.73
+  },
+  {
+   "ticker": "LYB",
+   "name": "LyondellBasell",
+   "type": "golden",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 58.6396,
+   "ema90": 58.5841,
+   "close": 61.185
+  },
+  {
+   "ticker": "MGM",
+   "name": "MGM Resorts",
+   "type": "death",
+   "barTime": "2026-07-21T13:30",
+   "ema36": 46.6687,
+   "ema90": 46.6837,
+   "close": 46.065
+  },
+  {
+   "ticker": "MRNA",
+   "name": "Moderna",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 64.8006,
+   "ema90": 64.8793,
+   "close": 59.69
+  },
+  {
+   "ticker": "MSI",
+   "name": "Motorola Solutions",
+   "type": "death",
+   "barTime": "2026-07-21T11:30",
+   "ema36": 412.9841,
+   "ema90": 413.1638,
+   "close": 402.53
+  },
+  {
+   "ticker": "NKE",
+   "name": "Nike, Inc.",
+   "type": "death",
+   "barTime": "2026-07-21T11:30",
+   "ema36": 43.4048,
+   "ema90": 43.4057,
+   "close": 43.105
+  },
+  {
+   "ticker": "NVR",
+   "name": "NVR, Inc.",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 6513.6869,
+   "ema90": 6513.7914,
+   "close": 6406.6001
+  },
+  {
+   "ticker": "PSA",
+   "name": "Public Storage",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 318.9925,
+   "ema90": 319.2765,
+   "close": 311.64
+  },
+  {
+   "ticker": "PTC",
+   "name": "PTC Inc.",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 123.7784,
+   "ema90": 123.8298,
+   "close": 120.74
+  },
+  {
+   "ticker": "RMD",
+   "name": "ResMed",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 200.3163,
+   "ema90": 200.4005,
+   "close": 195.94
+  },
+  {
+   "ticker": "SHW",
+   "name": "Sherwin-Williams",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 330.1832,
+   "ema90": 330.5662,
+   "close": 318.37
+  },
+  {
+   "ticker": "SO",
+   "name": "Southern Company",
+   "type": "death",
+   "barTime": "2026-07-21T11:30",
+   "ema36": 95.3725,
+   "ema90": 95.3727,
+   "close": 93.6801
+  },
+  {
+   "ticker": "TDY",
+   "name": "Teledyne Technologies",
+   "type": "golden",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 631.9849,
+   "ema90": 631.9724,
+   "close": 639.0
+  },
+  {
+   "ticker": "UBER",
+   "name": "Uber",
+   "type": "death",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 73.1099,
+   "ema90": 73.1314,
+   "close": 71.85
+  },
+  {
+   "ticker": "UHS",
+   "name": "Universal Health Services",
+   "type": "death",
+   "barTime": "2026-07-21T15:30",
+   "ema36": 151.0575,
+   "ema90": 151.0846,
+   "close": 149.93
+  },
+  {
+   "ticker": "VST",
+   "name": "Vistra Corp.",
+   "type": "golden",
+   "barTime": "2026-07-21T09:30",
+   "ema36": 157.1504,
+   "ema90": 157.0836,
+   "close": 162.2021
+  },
+  {
+   "ticker": "WMB",
+   "name": "Williams Companies",
+   "type": "death",
+   "barTime": "2026-07-21T13:30",
+   "ema36": 74.3197,
+   "ema90": 74.3431,
+   "close": 73.51
+  }
+ ],
+ "bb": []
+}
