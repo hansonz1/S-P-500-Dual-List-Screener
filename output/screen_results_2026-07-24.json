@@ -1,0 +1,277 @@
+{
+ "date": "2026-07-24",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "ECHO",
+   "HONA"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADSK",
+   "name": "Autodesk",
+   "type": "death",
+   "barTime": "2026-07-24T11:30",
+   "ema36": 209.2468,
+   "ema90": 209.3835,
+   "close": 205.77
+  },
+  {
+   "ticker": "AEE",
+   "name": "Ameren",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 112.1204,
+   "ema90": 112.0649,
+   "close": 114.085
+  },
+  {
+   "ticker": "AEP",
+   "name": "American Electric Power",
+   "type": "golden",
+   "barTime": "2026-07-24T13:30",
+   "ema36": 133.6016,
+   "ema90": 133.5517,
+   "close": 135.3658
+  },
+  {
+   "ticker": "CNP",
+   "name": "CenterPoint Energy",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 43.5475,
+   "ema90": 43.531,
+   "close": 44.48
+  },
+  {
+   "ticker": "DASH",
+   "name": "DoorDash",
+   "type": "death",
+   "barTime": "2026-07-24T11:30",
+   "ema36": 181.9679,
+   "ema90": 181.9873,
+   "close": 173.78
+  },
+  {
+   "ticker": "DLR",
+   "name": "Digital Realty",
+   "type": "golden",
+   "barTime": "2026-07-24T11:30",
+   "ema36": 180.6384,
+   "ema90": 180.6012,
+   "close": 203.575
+  },
+  {
+   "ticker": "EMR",
+   "name": "Emerson Electric",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 140.162,
+   "ema90": 139.9422,
+   "close": 148.84
+  },
+  {
+   "ticker": "EQT",
+   "name": "EQT Corporation",
+   "type": "golden",
+   "barTime": "2026-07-24T13:30",
+   "ema36": 51.4627,
+   "ema90": 51.4514,
+   "close": 52.935
+  },
+  {
+   "ticker": "EXR",
+   "name": "Extra Space Storage",
+   "type": "golden",
+   "barTime": "2026-07-24T11:30",
+   "ema36": 146.2088,
+   "ema90": 146.1989,
+   "close": 147.59
+  },
+  {
+   "ticker": "FOXA",
+   "name": "Fox Corporation (Class A)",
+   "type": "death",
+   "barTime": "2026-07-24T11:30",
+   "ema36": 56.0382,
+   "ema90": 56.0475,
+   "close": 55.445
+  },
+  {
+   "ticker": "FTV",
+   "name": "Fortive",
+   "type": "golden",
+   "barTime": "2026-07-24T13:30",
+   "ema36": 61.2154,
+   "ema90": 61.2051,
+   "close": 62.37
+  },
+  {
+   "ticker": "HOOD",
+   "name": "Robinhood Markets",
+   "type": "death",
+   "barTime": "2026-07-24T13:30",
+   "ema36": 104.1014,
+   "ema90": 104.272,
+   "close": 94.325
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "golden",
+   "barTime": "2026-07-24T15:30",
+   "ema36": 142.385,
+   "ema90": 142.3721,
+   "close": 143.37
+  },
+  {
+   "ticker": "MS",
+   "name": "Morgan Stanley",
+   "type": "death",
+   "barTime": "2026-07-24T11:30",
+   "ema36": 217.3715,
+   "ema90": 217.4143,
+   "close": 215.16
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "type": "death",
+   "barTime": "2026-07-24T11:30",
+   "ema36": 389.9538,
+   "ema90": 390.1461,
+   "close": 384.18
+  },
+  {
+   "ticker": "NDSN",
+   "name": "Nordson Corporation",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 290.2314,
+   "ema90": 290.1248,
+   "close": 296.41
+  },
+  {
+   "ticker": "NRG",
+   "name": "NRG Energy",
+   "type": "golden",
+   "barTime": "2026-07-24T15:30",
+   "ema36": 137.5627,
+   "ema90": 137.4627,
+   "close": 141.04
+  },
+  {
+   "ticker": "NUE",
+   "name": "Nucor",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 235.4143,
+   "ema90": 235.0562,
+   "close": 246.26
+  },
+  {
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "type": "death",
+   "barTime": "2026-07-24T13:30",
+   "ema36": 24.7725,
+   "ema90": 24.7748,
+   "close": 24.605
+  },
+  {
+   "ticker": "PKG",
+   "name": "Packaging Corporation of America",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 230.3791,
+   "ema90": 230.0955,
+   "close": 239.09
+  },
+  {
+   "ticker": "SW",
+   "name": "Smurfit Westrock",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 43.9303,
+   "ema90": 43.9085,
+   "close": 45.24
+  },
+  {
+   "ticker": "SYK",
+   "name": "Stryker Corporation",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 319.0367,
+   "ema90": 318.7028,
+   "close": 330.4
+  },
+  {
+   "ticker": "TT",
+   "name": "Trane Technologies",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 475.0459,
+   "ema90": 474.9413,
+   "close": 485.905
+  },
+  {
+   "ticker": "UHS",
+   "name": "Universal Health Services",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 150.995,
+   "ema90": 150.9059,
+   "close": 160.585
+  },
+  {
+   "ticker": "URI",
+   "name": "United Rentals",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 1071.5569,
+   "ema90": 1069.7062,
+   "close": 1136.2
+  },
+  {
+   "ticker": "VRSN",
+   "name": "Verisign",
+   "type": "golden",
+   "barTime": "2026-07-24T13:30",
+   "ema36": 268.5115,
+   "ema90": 268.4264,
+   "close": 276.5
+  },
+  {
+   "ticker": "VZ",
+   "name": "Verizon",
+   "type": "golden",
+   "barTime": "2026-07-24T15:30",
+   "ema36": 44.052,
+   "ema90": 44.0183,
+   "close": 46.425
+  },
+  {
+   "ticker": "XEL",
+   "name": "Xcel Energy",
+   "type": "golden",
+   "barTime": "2026-07-24T09:30",
+   "ema36": 79.8957,
+   "ema90": 79.8887,
+   "close": 81.65
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "WST",
+   "name": "West Pharmaceutical Services",
+   "type": "below",
+   "close": 327.99,
+   "upper": 377.7225,
+   "lower": 331.9138,
+   "beta": 0.3412,
+   "betaMean": 0.6602
+  }
+ ]
+}
