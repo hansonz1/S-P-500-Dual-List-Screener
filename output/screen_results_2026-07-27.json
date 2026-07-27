@@ -1,0 +1,302 @@
+{
+ "date": "2026-07-27",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "ECHO",
+   "HONA"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ABNB",
+   "name": "Airbnb",
+   "type": "golden",
+   "barTime": "2026-07-27T15:30",
+   "ema36": 143.629,
+   "ema90": 143.6135,
+   "close": 146.86
+  },
+  {
+   "ticker": "ACN",
+   "name": "Accenture",
+   "type": "golden",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 142.6764,
+   "ema90": 142.5813,
+   "close": 155.99
+  },
+  {
+   "ticker": "ADSK",
+   "name": "Autodesk",
+   "type": "golden",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 210.0379,
+   "ema90": 209.4118,
+   "close": 223.425
+  },
+  {
+   "ticker": "AMD",
+   "name": "Advanced Micro Devices",
+   "type": "death",
+   "barTime": "2026-07-27T13:30",
+   "ema36": 524.3775,
+   "ema90": 524.5323,
+   "close": 495.655
+  },
+  {
+   "ticker": "AOS",
+   "name": "A. O. Smith",
+   "type": "golden",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 59.9432,
+   "ema90": 59.9223,
+   "close": 62.38
+  },
+  {
+   "ticker": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "type": "golden",
+   "barTime": "2026-07-27T15:30",
+   "ema36": 50.3511,
+   "ema90": 50.3256,
+   "close": 51.405
+  },
+  {
+   "ticker": "AXP",
+   "name": "American Express",
+   "type": "death",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 343.7477,
+   "ema90": 344.0077,
+   "close": 333.95
+  },
+  {
+   "ticker": "BF-B",
+   "name": "Brown\u2013Forman",
+   "type": "golden",
+   "barTime": "2026-07-27T15:30",
+   "ema36": 26.2299,
+   "ema90": 26.1947,
+   "close": 27.39
+  },
+  {
+   "ticker": "CHD",
+   "name": "Church & Dwight",
+   "type": "golden",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 96.9708,
+   "ema90": 96.9361,
+   "close": 99.25
+  },
+  {
+   "ticker": "CLX",
+   "name": "Clorox",
+   "type": "golden",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 95.7953,
+   "ema90": 95.7715,
+   "close": 97.225
+  },
+  {
+   "ticker": "CNC",
+   "name": "Centene Corporation",
+   "type": "death",
+   "barTime": "2026-07-27T15:30",
+   "ema36": 65.1688,
+   "ema90": 65.1731,
+   "close": 64.09
+  },
+  {
+   "ticker": "CRM",
+   "name": "Salesforce",
+   "type": "golden",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 166.3771,
+   "ema90": 166.3148,
+   "close": 175.53
+  },
+  {
+   "ticker": "CTSH",
+   "name": "Cognizant",
+   "type": "golden",
+   "barTime": "2026-07-27T13:30",
+   "ema36": 44.3491,
+   "ema90": 44.3236,
+   "close": 47.445
+  },
+  {
+   "ticker": "ETN",
+   "name": "Eaton Corporation",
+   "type": "death",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 405.47,
+   "ema90": 405.9984,
+   "close": 389.12
+  },
+  {
+   "ticker": "FOXA",
+   "name": "Fox Corporation (Class A)",
+   "type": "golden",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 56.0577,
+   "ema90": 56.0196,
+   "close": 57.57
+  },
+  {
+   "ticker": "GE",
+   "name": "GE Aerospace",
+   "type": "golden",
+   "barTime": "2026-07-27T15:30",
+   "ema36": 352.0307,
+   "ema90": 352.0201,
+   "close": 361.65
+  },
+  {
+   "ticker": "INVH",
+   "name": "Invitation Homes",
+   "type": "death",
+   "barTime": "2026-07-27T13:30",
+   "ema36": 29.7879,
+   "ema90": 29.7885,
+   "close": 29.665
+  },
+  {
+   "ticker": "IT",
+   "name": "Gartner",
+   "type": "golden",
+   "barTime": "2026-07-27T13:30",
+   "ema36": 138.3881,
+   "ema90": 138.3183,
+   "close": 147.84
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "death",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 142.3188,
+   "ema90": 142.4092,
+   "close": 141.16
+  },
+  {
+   "ticker": "KEY",
+   "name": "KeyCorp",
+   "type": "death",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 22.9953,
+   "ema90": 22.9962,
+   "close": 22.425
+  },
+  {
+   "ticker": "LDOS",
+   "name": "Leidos",
+   "type": "golden",
+   "barTime": "2026-07-27T13:30",
+   "ema36": 109.3932,
+   "ema90": 109.3291,
+   "close": 114.97
+  },
+  {
+   "ticker": "MSI",
+   "name": "Motorola Solutions",
+   "type": "golden",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 411.8778,
+   "ema90": 411.8552,
+   "close": 424.51
+  },
+  {
+   "ticker": "NOC",
+   "name": "Northrop Grumman",
+   "type": "golden",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 530.8842,
+   "ema90": 530.7195,
+   "close": 547.4075
+  },
+  {
+   "ticker": "NRG",
+   "name": "NRG Energy",
+   "type": "death",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 137.5186,
+   "ema90": 137.5624,
+   "close": 136.7475
+  },
+  {
+   "ticker": "PHM",
+   "name": "PulteGroup",
+   "type": "golden",
+   "barTime": "2026-07-27T15:30",
+   "ema36": 126.7006,
+   "ema90": 126.6448,
+   "close": 130.61
+  },
+  {
+   "ticker": "PSA",
+   "name": "Public Storage",
+   "type": "golden",
+   "barTime": "2026-07-27T15:30",
+   "ema36": 318.551,
+   "ema90": 318.3834,
+   "close": 323.96
+  },
+  {
+   "ticker": "SLB",
+   "name": "Schlumberger",
+   "type": "golden",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 48.593,
+   "ema90": 48.4821,
+   "close": 52.28
+  },
+  {
+   "ticker": "STLD",
+   "name": "Steel Dynamics",
+   "type": "golden",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 238.6209,
+   "ema90": 238.3408,
+   "close": 247.83
+  },
+  {
+   "ticker": "TMUS",
+   "name": "T-Mobile US",
+   "type": "death",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 184.9921,
+   "ema90": 185.0514,
+   "close": 180.28
+  },
+  {
+   "ticker": "TRMB",
+   "name": "Trimble Inc.",
+   "type": "golden",
+   "barTime": "2026-07-27T11:30",
+   "ema36": 52.2773,
+   "ema90": 52.2589,
+   "close": 55.73
+  },
+  {
+   "ticker": "WMB",
+   "name": "Williams Companies",
+   "type": "death",
+   "barTime": "2026-07-27T09:30",
+   "ema36": 74.3381,
+   "ema90": 74.4096,
+   "close": 71.47
+  },
+  {
+   "ticker": "WST",
+   "name": "West Pharmaceutical Services",
+   "type": "death",
+   "barTime": "2026-07-27T13:30",
+   "ema36": 349.7642,
+   "ema90": 349.8539,
+   "close": 333.975
+  }
+ ],
+ "bb": []
+}
