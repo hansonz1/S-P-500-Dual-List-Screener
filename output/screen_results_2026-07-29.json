@@ -1,0 +1,342 @@
+{
+ "date": "2026-07-29",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "HONA"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AEE",
+   "name": "Ameren",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 112.2109,
+   "ema90": 112.2515,
+   "close": 109.985
+  },
+  {
+   "ticker": "AEP",
+   "name": "American Electric Power",
+   "type": "death",
+   "barTime": "2026-07-29T09:30",
+   "ema36": 133.6072,
+   "ema90": 133.6837,
+   "close": 131.4
+  },
+  {
+   "ticker": "ANET",
+   "name": "Arista Networks",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 170.4354,
+   "ema90": 170.5464,
+   "close": 161.71
+  },
+  {
+   "ticker": "BG",
+   "name": "Bunge Global",
+   "type": "death",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 116.8526,
+   "ema90": 117.0654,
+   "close": 107.83
+  },
+  {
+   "ticker": "BKR",
+   "name": "Baker Hughes",
+   "type": "golden",
+   "barTime": "2026-07-29T11:30",
+   "ema36": 57.8605,
+   "ema90": 57.8089,
+   "close": 59.865
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "golden",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 44.9834,
+   "ema90": 44.9489,
+   "close": 46.03
+  },
+  {
+   "ticker": "CHTR",
+   "name": "Charter Communications",
+   "type": "golden",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 133.7629,
+   "ema90": 133.5052,
+   "close": 145.22
+  },
+  {
+   "ticker": "COST",
+   "name": "Costco",
+   "type": "golden",
+   "barTime": "2026-07-29T09:30",
+   "ema36": 943.1645,
+   "ema90": 942.9842,
+   "close": 974.22
+  },
+  {
+   "ticker": "CPRT",
+   "name": "Copart",
+   "type": "golden",
+   "barTime": "2026-07-29T11:30",
+   "ema36": 28.8511,
+   "ema90": 28.7814,
+   "close": 31.145
+  },
+  {
+   "ticker": "DELL",
+   "name": "Dell Technologies",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 410.287,
+   "ema90": 410.979,
+   "close": 378.87
+  },
+  {
+   "ticker": "DRI",
+   "name": "Darden Restaurants",
+   "type": "golden",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 201.6166,
+   "ema90": 201.3553,
+   "close": 211.15
+  },
+  {
+   "ticker": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "type": "golden",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 82.6531,
+   "ema90": 82.6488,
+   "close": 84.27
+  },
+  {
+   "ticker": "ERIE",
+   "name": "Erie Indemnity",
+   "type": "golden",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 231.8147,
+   "ema90": 231.6718,
+   "close": 248.44
+  },
+  {
+   "ticker": "ETR",
+   "name": "Entergy",
+   "type": "death",
+   "barTime": "2026-07-29T09:30",
+   "ema36": 113.9342,
+   "ema90": 114.0241,
+   "close": 109.63
+  },
+  {
+   "ticker": "FTNT",
+   "name": "Fortinet",
+   "type": "death",
+   "barTime": "2026-07-29T09:30",
+   "ema36": 154.618,
+   "ema90": 154.7178,
+   "close": 145.75
+  },
+  {
+   "ticker": "GEHC",
+   "name": "GE HealthCare",
+   "type": "golden",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 63.8487,
+   "ema90": 63.652,
+   "close": 70.57
+  },
+  {
+   "ticker": "HD",
+   "name": "Home Depot (The)",
+   "type": "golden",
+   "barTime": "2026-07-29T11:30",
+   "ema36": 337.3035,
+   "ema90": 337.1846,
+   "close": 342.87
+  },
+  {
+   "ticker": "HUM",
+   "name": "Humana",
+   "type": "death",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 386.8279,
+   "ema90": 386.8401,
+   "close": 365.89
+  },
+  {
+   "ticker": "IFF",
+   "name": "International Flavors & Fragrances",
+   "type": "golden",
+   "barTime": "2026-07-29T11:30",
+   "ema36": 77.0758,
+   "ema90": 77.0683,
+   "close": 78.5
+  },
+  {
+   "ticker": "JBHT",
+   "name": "J.B. Hunt",
+   "type": "death",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 282.8762,
+   "ema90": 283.0478,
+   "close": 276.085
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "golden",
+   "barTime": "2026-07-29T09:30",
+   "ema36": 116.66,
+   "ema90": 116.6264,
+   "close": 118.875
+  },
+  {
+   "ticker": "LVS",
+   "name": "Las Vegas Sands",
+   "type": "golden",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 46.8489,
+   "ema90": 46.8039,
+   "close": 48.48
+  },
+  {
+   "ticker": "MAR",
+   "name": "Marriott International",
+   "type": "golden",
+   "barTime": "2026-07-29T09:30",
+   "ema36": 373.9572,
+   "ema90": 373.7194,
+   "close": 379.69
+  },
+  {
+   "ticker": "PG",
+   "name": "Procter & Gamble",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 148.1122,
+   "ema90": 148.2422,
+   "close": 144.49
+  },
+  {
+   "ticker": "PGR",
+   "name": "Progressive Corporation",
+   "type": "golden",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 215.4175,
+   "ema90": 215.2984,
+   "close": 219.99
+  },
+  {
+   "ticker": "PPG",
+   "name": "PPG Industries",
+   "type": "death",
+   "barTime": "2026-07-29T09:30",
+   "ema36": 117.1682,
+   "ema90": 117.3949,
+   "close": 111.91
+  },
+  {
+   "ticker": "PPL",
+   "name": "PPL Corporation",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 36.084,
+   "ema90": 36.0856,
+   "close": 35.79
+  },
+  {
+   "ticker": "PTC",
+   "name": "PTC Inc.",
+   "type": "golden",
+   "barTime": "2026-07-29T11:30",
+   "ema36": 122.9847,
+   "ema90": 122.8215,
+   "close": 130.18
+  },
+  {
+   "ticker": "SBUX",
+   "name": "Starbucks",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 104.1697,
+   "ema90": 104.193,
+   "close": 103.52
+  },
+  {
+   "ticker": "TRGP",
+   "name": "Targa Resources",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 274.2776,
+   "ema90": 274.3556,
+   "close": 265.55
+  },
+  {
+   "ticker": "TXT",
+   "name": "Textron",
+   "type": "death",
+   "barTime": "2026-07-29T15:30",
+   "ema36": 91.1314,
+   "ema90": 91.2335,
+   "close": 85.64
+  },
+  {
+   "ticker": "UPS",
+   "name": "United Parcel Service",
+   "type": "death",
+   "barTime": "2026-07-29T13:30",
+   "ema36": 111.4919,
+   "ema90": 111.6067,
+   "close": 104.8
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "CARR",
+   "name": "Carrier Global",
+   "type": "below",
+   "close": 59.91,
+   "upper": 77.2814,
+   "lower": 60.2593,
+   "beta": 1.4769,
+   "betaMean": 1.5515
+  },
+  {
+   "ticker": "ETR",
+   "name": "Entergy",
+   "type": "below",
+   "close": 107.82,
+   "upper": 119.0069,
+   "lower": 109.4126,
+   "beta": -0.1198,
+   "betaMean": 0.0475
+  },
+  {
+   "ticker": "PNW",
+   "name": "Pinnacle West Capital",
+   "type": "below",
+   "close": 102.3,
+   "upper": 111.5977,
+   "lower": 102.6092,
+   "beta": -0.307,
+   "betaMean": -0.1053
+  },
+  {
+   "ticker": "TT",
+   "name": "Trane Technologies",
+   "type": "below",
+   "close": 446.93,
+   "upper": 501.7227,
+   "lower": 449.621,
+   "beta": 1.2043,
+   "betaMean": 1.2946
+  }
+ ]
+}
