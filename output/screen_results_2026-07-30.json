@@ -1,0 +1,244 @@
+{
+ "date": "2026-07-30",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "HONA"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AMT",
+   "name": "American Tower",
+   "type": "golden",
+   "barTime": "2026-07-30T13:30",
+   "ema36": 170.5102,
+   "ema90": 170.4577,
+   "close": 173.97
+  },
+  {
+   "ticker": "CCL",
+   "name": "Carnival Corporation",
+   "type": "golden",
+   "barTime": "2026-07-30T13:30",
+   "ema36": 27.1309,
+   "ema90": 27.1183,
+   "close": 27.795
+  },
+  {
+   "ticker": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "type": "golden",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 33.7305,
+   "ema90": 33.5942,
+   "close": 38.73
+  },
+  {
+   "ticker": "CNP",
+   "name": "CenterPoint Energy",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 43.6607,
+   "ema90": 43.6616,
+   "close": 42.035
+  },
+  {
+   "ticker": "EQR",
+   "name": "Equity Residential",
+   "type": "death",
+   "barTime": "2026-07-30T11:30",
+   "ema36": 68.2112,
+   "ema90": 68.2307,
+   "close": 67.225
+  },
+  {
+   "ticker": "EVRG",
+   "name": "Evergy",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 85.6173,
+   "ema90": 85.739,
+   "close": 82.67
+  },
+  {
+   "ticker": "EXC",
+   "name": "Exelon",
+   "type": "death",
+   "barTime": "2026-07-30T13:30",
+   "ema36": 46.7051,
+   "ema90": 46.7192,
+   "close": 45.285
+  },
+  {
+   "ticker": "FTV",
+   "name": "Fortive",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 61.424,
+   "ema90": 61.4422,
+   "close": 58.15
+  },
+  {
+   "ticker": "HD",
+   "name": "Home Depot (The)",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 337.1901,
+   "ema90": 337.3056,
+   "close": 332.3
+  },
+  {
+   "ticker": "HII",
+   "name": "Huntington Ingalls Industries",
+   "type": "golden",
+   "barTime": "2026-07-30T11:30",
+   "ema36": 286.7031,
+   "ema90": 285.8969,
+   "close": 314.17
+  },
+  {
+   "ticker": "LHX",
+   "name": "L3Harris",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 294.4077,
+   "ema90": 294.508,
+   "close": 265.505
+  },
+  {
+   "ticker": "MAS",
+   "name": "Masco",
+   "type": "death",
+   "barTime": "2026-07-30T11:30",
+   "ema36": 77.3068,
+   "ema90": 77.4018,
+   "close": 71.495
+  },
+  {
+   "ticker": "ODFL",
+   "name": "Old Dominion",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 227.136,
+   "ema90": 227.3905,
+   "close": 209.165
+  },
+  {
+   "ticker": "OTIS",
+   "name": "Otis Worldwide",
+   "type": "death",
+   "barTime": "2026-07-30T11:30",
+   "ema36": 72.4979,
+   "ema90": 72.5072,
+   "close": 71.27
+  },
+  {
+   "ticker": "PGR",
+   "name": "Progressive Corporation",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 215.2311,
+   "ema90": 215.325,
+   "close": 211.97
+  },
+  {
+   "ticker": "RSG",
+   "name": "Republic Services",
+   "type": "death",
+   "barTime": "2026-07-30T15:30",
+   "ema36": 216.7301,
+   "ema90": 216.7977,
+   "close": 211.29
+  },
+  {
+   "ticker": "SBUX",
+   "name": "Starbucks",
+   "type": "golden",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 104.2522,
+   "ema90": 104.2428,
+   "close": 105.63
+  },
+  {
+   "ticker": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 404.4089,
+   "ema90": 405.3074,
+   "close": 379.93
+  },
+  {
+   "ticker": "WY",
+   "name": "Weyerhaeuser",
+   "type": "death",
+   "barTime": "2026-07-30T11:30",
+   "ema36": 23.9853,
+   "ema90": 23.9872,
+   "close": 23.265
+  },
+  {
+   "ticker": "XEL",
+   "name": "Xcel Energy",
+   "type": "death",
+   "barTime": "2026-07-30T09:30",
+   "ema36": 80.0393,
+   "ema90": 80.1296,
+   "close": 78.38
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "CHRW",
+   "name": "C.H. Robinson",
+   "type": "below",
+   "close": 147.06,
+   "upper": 235.108,
+   "lower": 147.4443,
+   "beta": 0.325,
+   "betaMean": 1.0004
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "below",
+   "close": 281.62,
+   "upper": 304.9136,
+   "lower": 283.5377,
+   "beta": -0.052,
+   "betaMean": 0.3489
+  },
+  {
+   "ticker": "MO",
+   "name": "Altria",
+   "type": "below",
+   "close": 67.94,
+   "upper": 77.0647,
+   "lower": 67.9498,
+   "beta": -0.862,
+   "betaMean": -0.4689
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "type": "above",
+   "close": 451.48,
+   "upper": 437.4105,
+   "lower": 346.1156,
+   "beta": 0.8825,
+   "betaMean": 0.8181
+  },
+  {
+   "ticker": "TT",
+   "name": "Trane Technologies",
+   "type": "below",
+   "close": 440.19,
+   "upper": 506.4975,
+   "lower": 441.7438,
+   "beta": 1.1832,
+   "betaMean": 1.297
+  }
+ ]
+}
