@@ -1,0 +1,213 @@
+{
+ "date": "2026-07-31",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "HONA"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "type": "golden",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 243.4294,
+   "ema90": 243.2774,
+   "close": 271.61
+  },
+  {
+   "ticker": "ANET",
+   "name": "Arista Networks",
+   "type": "golden",
+   "barTime": "2026-07-31T11:30",
+   "ema36": 170.7693,
+   "ema90": 170.4905,
+   "close": 180.79
+  },
+  {
+   "ticker": "AVB",
+   "name": "AvalonBay Communities",
+   "type": "death",
+   "barTime": "2026-07-31T09:30",
+   "ema36": 189.9553,
+   "ema90": 190.0603,
+   "close": 186.175
+  },
+  {
+   "ticker": "BEN",
+   "name": "Franklin Resources",
+   "type": "golden",
+   "barTime": "2026-07-31T11:30",
+   "ema36": 32.9739,
+   "ema90": 32.9463,
+   "close": 34.23
+  },
+  {
+   "ticker": "CMCSA",
+   "name": "Comcast",
+   "type": "golden",
+   "barTime": "2026-07-31T09:30",
+   "ema36": 23.631,
+   "ema90": 23.6243,
+   "close": 23.92
+  },
+  {
+   "ticker": "COIN",
+   "name": "Coinbase",
+   "type": "death",
+   "barTime": "2026-07-31T09:30",
+   "ema36": 162.418,
+   "ema90": 162.9791,
+   "close": 140.11
+  },
+  {
+   "ticker": "CPT",
+   "name": "Camden Property Trust",
+   "type": "death",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 113.266,
+   "ema90": 113.3203,
+   "close": 110.84
+  },
+  {
+   "ticker": "ED",
+   "name": "Consolidated Edison",
+   "type": "death",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 111.0836,
+   "ema90": 111.1257,
+   "close": 108.87
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "death",
+   "barTime": "2026-07-31T11:30",
+   "ema36": 291.0997,
+   "ema90": 291.2761,
+   "close": 285.065
+  },
+  {
+   "ticker": "FCX",
+   "name": "Freeport-McMoRan",
+   "type": "golden",
+   "barTime": "2026-07-31T13:30",
+   "ema36": 61.8804,
+   "ema90": 61.8748,
+   "close": 62.8751
+  },
+  {
+   "ticker": "FTNT",
+   "name": "Fortinet",
+   "type": "golden",
+   "barTime": "2026-07-31T11:30",
+   "ema36": 154.7723,
+   "ema90": 154.643,
+   "close": 160.525
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "golden",
+   "barTime": "2026-07-31T13:30",
+   "ema36": 142.4559,
+   "ema90": 142.4155,
+   "close": 146.66
+  },
+  {
+   "ticker": "MO",
+   "name": "Altria",
+   "type": "death",
+   "barTime": "2026-07-31T09:30",
+   "ema36": 72.3215,
+   "ema90": 72.3587,
+   "close": 69.52
+  },
+  {
+   "ticker": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "type": "death",
+   "barTime": "2026-07-31T13:30",
+   "ema36": 19.6097,
+   "ema90": 19.6125,
+   "close": 18.515
+  },
+  {
+   "ticker": "NEE",
+   "name": "NextEra Energy",
+   "type": "death",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 88.4333,
+   "ema90": 88.4579,
+   "close": 86.92
+  },
+  {
+   "ticker": "ROK",
+   "name": "Rockwell Automation",
+   "type": "golden",
+   "barTime": "2026-07-31T09:30",
+   "ema36": 465.3186,
+   "ema90": 465.2163,
+   "close": 473.64
+  },
+  {
+   "ticker": "SO",
+   "name": "Southern Company",
+   "type": "death",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 95.6424,
+   "ema90": 95.6621,
+   "close": 94.61
+  },
+  {
+   "ticker": "SPGI",
+   "name": "S&P Global",
+   "type": "death",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 423.9488,
+   "ema90": 424.2312,
+   "close": 411.78
+  },
+  {
+   "ticker": "TSCO",
+   "name": "Tractor Supply",
+   "type": "golden",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 30.673,
+   "ema90": 30.6686,
+   "close": 30.77
+  },
+  {
+   "ticker": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "type": "death",
+   "barTime": "2026-07-31T15:30",
+   "ema36": 480.7453,
+   "ema90": 480.86,
+   "close": 476.88
+  },
+  {
+   "ticker": "WY",
+   "name": "Weyerhaeuser",
+   "type": "golden",
+   "barTime": "2026-07-31T09:30",
+   "ema36": 23.9662,
+   "ema90": 23.9622,
+   "close": 24.7
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "type": "above",
+   "close": 464.92,
+   "upper": 456.8318,
+   "lower": 334.9308,
+   "beta": 0.8619,
+   "betaMean": 0.8136
+  }
+ ]
+}
