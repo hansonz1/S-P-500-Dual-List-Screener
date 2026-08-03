@@ -1,0 +1,259 @@
+{
+ "date": "2026-08-03",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "ADM",
+   "name": "Archer Daniels Midland",
+   "type": "death",
+   "barTime": "2026-08-03T13:30",
+   "ema36": 81.7599,
+   "ema90": 81.8116,
+   "close": 77.91
+  },
+  {
+   "ticker": "APD",
+   "name": "Air Products",
+   "type": "death",
+   "barTime": "2026-08-03T11:30",
+   "ema36": 295.4358,
+   "ema90": 295.4862,
+   "close": 290.56
+  },
+  {
+   "ticker": "APH",
+   "name": "Amphenol",
+   "type": "golden",
+   "barTime": "2026-08-03T15:30",
+   "ema36": 156.4583,
+   "ema90": 156.3395,
+   "close": 163.35
+  },
+  {
+   "ticker": "APO",
+   "name": "Apollo Global Management",
+   "type": "golden",
+   "barTime": "2026-08-03T09:30",
+   "ema36": 122.1445,
+   "ema90": 122.0876,
+   "close": 127.73
+  },
+  {
+   "ticker": "ATO",
+   "name": "Atmos Energy",
+   "type": "death",
+   "barTime": "2026-08-03T11:30",
+   "ema36": 176.2821,
+   "ema90": 176.3234,
+   "close": 172.305
+  },
+  {
+   "ticker": "BA",
+   "name": "Boeing",
+   "type": "golden",
+   "barTime": "2026-08-03T13:30",
+   "ema36": 217.4131,
+   "ema90": 217.0556,
+   "close": 232.53
+  },
+  {
+   "ticker": "CI",
+   "name": "Cigna",
+   "type": "death",
+   "barTime": "2026-08-03T13:30",
+   "ema36": 288.6299,
+   "ema90": 288.7737,
+   "close": 282.02
+  },
+  {
+   "ticker": "CL",
+   "name": "Colgate-Palmolive",
+   "type": "death",
+   "barTime": "2026-08-03T13:30",
+   "ema36": 91.6099,
+   "ema90": 91.7032,
+   "close": 89.51
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike",
+   "type": "golden",
+   "barTime": "2026-08-03T11:30",
+   "ema36": 187.8411,
+   "ema90": 187.5359,
+   "close": 199.19
+  },
+  {
+   "ticker": "CTVA",
+   "name": "Corteva",
+   "type": "death",
+   "barTime": "2026-08-03T13:30",
+   "ema36": 85.3045,
+   "ema90": 85.3314,
+   "close": 76.51
+  },
+  {
+   "ticker": "DELL",
+   "name": "Dell Technologies",
+   "type": "golden",
+   "barTime": "2026-08-03T13:30",
+   "ema36": 409.8788,
+   "ema90": 409.7281,
+   "close": 430.185
+  },
+  {
+   "ticker": "DUK",
+   "name": "Duke Energy",
+   "type": "death",
+   "barTime": "2026-08-03T15:30",
+   "ema36": 126.8642,
+   "ema90": 126.926,
+   "close": 124.25
+  },
+  {
+   "ticker": "EBAY",
+   "name": "eBay Inc.",
+   "type": "death",
+   "barTime": "2026-08-03T15:30",
+   "ema36": 112.181,
+   "ema90": 112.2747,
+   "close": 107.12
+  },
+  {
+   "ticker": "EIX",
+   "name": "Edison International",
+   "type": "death",
+   "barTime": "2026-08-03T15:30",
+   "ema36": 76.5829,
+   "ema90": 76.6182,
+   "close": 71.46
+  },
+  {
+   "ticker": "ETN",
+   "name": "Eaton Corporation",
+   "type": "golden",
+   "barTime": "2026-08-03T15:30",
+   "ema36": 403.1981,
+   "ema90": 402.5367,
+   "close": 438.24
+  },
+  {
+   "ticker": "EXPD",
+   "name": "Expeditors International",
+   "type": "death",
+   "barTime": "2026-08-03T11:30",
+   "ema36": 171.2551,
+   "ema90": 171.297,
+   "close": 169.05
+  },
+  {
+   "ticker": "FICO",
+   "name": "Fair Isaac",
+   "type": "death",
+   "barTime": "2026-08-03T09:30",
+   "ema36": 1221.269,
+   "ema90": 1228.6251,
+   "close": 1044.41
+  },
+  {
+   "ticker": "LLY",
+   "name": "Lilly (Eli)",
+   "type": "death",
+   "barTime": "2026-08-03T11:30",
+   "ema36": 1172.9316,
+   "ema90": 1173.1897,
+   "close": 1114.74
+  },
+  {
+   "ticker": "MAR",
+   "name": "Marriott International",
+   "type": "death",
+   "barTime": "2026-08-03T09:30",
+   "ema36": 373.2759,
+   "ema90": 373.9723,
+   "close": 347.02
+  },
+  {
+   "ticker": "OKE",
+   "name": "Oneok",
+   "type": "death",
+   "barTime": "2026-08-03T09:30",
+   "ema36": 90.4239,
+   "ema90": 90.448,
+   "close": 88.69
+  },
+  {
+   "ticker": "TDG",
+   "name": "TransDigm Group",
+   "type": "golden",
+   "barTime": "2026-08-03T15:30",
+   "ema36": 1260.5225,
+   "ema90": 1260.3187,
+   "close": 1286.9301
+  },
+  {
+   "ticker": "UAL",
+   "name": "United Airlines Holdings",
+   "type": "golden",
+   "barTime": "2026-08-03T09:30",
+   "ema36": 121.2789,
+   "ema90": 121.1254,
+   "close": 127.87
+  },
+  {
+   "ticker": "WM",
+   "name": "Waste Management",
+   "type": "death",
+   "barTime": "2026-08-03T15:30",
+   "ema36": 232.1342,
+   "ema90": 232.1519,
+   "close": 226.5
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "type": "above",
+   "close": 284.02,
+   "upper": 283.0625,
+   "lower": 208.6505,
+   "beta": 1.3391,
+   "betaMean": 1.3136
+  },
+  {
+   "ticker": "ARES",
+   "name": "Ares Management",
+   "type": "above",
+   "close": 138.5,
+   "upper": 136.6659,
+   "lower": 109.4172,
+   "beta": 1.7045,
+   "betaMean": 1.6533
+  },
+  {
+   "ticker": "MAR",
+   "name": "Marriott International",
+   "type": "below",
+   "close": 346.59,
+   "upper": 394.1937,
+   "lower": 348.1364,
+   "beta": 0.4408,
+   "betaMean": 1.0723
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "type": "above",
+   "close": 487.6,
+   "upper": 483.0388,
+   "lower": 318.3635,
+   "beta": 0.9097,
+   "betaMean": 0.8112
+  }
+ ]
+}
