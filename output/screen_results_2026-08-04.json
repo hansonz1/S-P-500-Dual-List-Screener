@@ -1,0 +1,281 @@
+{
+ "date": "2026-08-04",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "APD",
+   "name": "Air Products",
+   "type": "death",
+   "barTime": "2026-08-04T13:30",
+   "ema36": 295.1629,
+   "ema90": 295.2392,
+   "close": 294.05
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "type": "golden",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 386.8695,
+   "ema90": 386.2803,
+   "close": 412.5151
+  },
+  {
+   "ticker": "CSCO",
+   "name": "Cisco",
+   "type": "golden",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 114.8207,
+   "ema90": 114.7979,
+   "close": 120.44
+  },
+  {
+   "ticker": "D",
+   "name": "Dominion Energy",
+   "type": "death",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 69.9012,
+   "ema90": 69.9411,
+   "close": 68.595
+  },
+  {
+   "ticker": "EME",
+   "name": "Emcor",
+   "type": "golden",
+   "barTime": "2026-08-04T13:30",
+   "ema36": 776.7643,
+   "ema90": 776.2149,
+   "close": 824.2
+  },
+  {
+   "ticker": "ES",
+   "name": "Eversource Energy",
+   "type": "death",
+   "barTime": "2026-08-04T11:30",
+   "ema36": 73.442,
+   "ema90": 73.4679,
+   "close": 72.49
+  },
+  {
+   "ticker": "EXPD",
+   "name": "Expeditors International",
+   "type": "golden",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 171.3604,
+   "ema90": 171.1891,
+   "close": 175.225
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "type": "golden",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 347.6407,
+   "ema90": 347.3886,
+   "close": 373.85
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "golden",
+   "barTime": "2026-08-04T11:30",
+   "ema36": 349.8727,
+   "ema90": 349.1596,
+   "close": 377.61
+  },
+  {
+   "ticker": "GWW",
+   "name": "W. W. Grainger",
+   "type": "death",
+   "barTime": "2026-08-04T15:30",
+   "ema36": 1357.8724,
+   "ema90": 1358.6101,
+   "close": 1300.585
+  },
+  {
+   "ticker": "HD",
+   "name": "Home Depot (The)",
+   "type": "golden",
+   "barTime": "2026-08-04T11:30",
+   "ema36": 337.1661,
+   "ema90": 336.8675,
+   "close": 349.99
+  },
+  {
+   "ticker": "MNST",
+   "name": "Monster Beverage",
+   "type": "death",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 95.6263,
+   "ema90": 95.6334,
+   "close": 93.16
+  },
+  {
+   "ticker": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "type": "golden",
+   "barTime": "2026-08-04T11:30",
+   "ema36": 19.5818,
+   "ema90": 19.5804,
+   "close": 20.125
+  },
+  {
+   "ticker": "OTIS",
+   "name": "Otis Worldwide",
+   "type": "golden",
+   "barTime": "2026-08-04T13:30",
+   "ema36": 72.4325,
+   "ema90": 72.4308,
+   "close": 73.575
+  },
+  {
+   "ticker": "PLD",
+   "name": "Prologis",
+   "type": "death",
+   "barTime": "2026-08-04T15:30",
+   "ema36": 144.3113,
+   "ema90": 144.3752,
+   "close": 138.98
+  },
+  {
+   "ticker": "PLTR",
+   "name": "Palantir Technologies",
+   "type": "golden",
+   "barTime": "2026-08-04T11:30",
+   "ema36": 129.0643,
+   "ema90": 128.1352,
+   "close": 162.43
+  },
+  {
+   "ticker": "REG",
+   "name": "Regency Centers",
+   "type": "death",
+   "barTime": "2026-08-04T13:30",
+   "ema36": 80.6651,
+   "ema90": 80.6892,
+   "close": 79.64
+  },
+  {
+   "ticker": "ROK",
+   "name": "Rockwell Automation",
+   "type": "death",
+   "barTime": "2026-08-04T15:30",
+   "ema36": 465.2463,
+   "ema90": 465.5114,
+   "close": 445.33
+  },
+  {
+   "ticker": "TDG",
+   "name": "TransDigm Group",
+   "type": "death",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 1260.788,
+   "ema90": 1262.4128,
+   "close": 1265.4351
+  },
+  {
+   "ticker": "UNH",
+   "name": "UnitedHealth Group",
+   "type": "death",
+   "barTime": "2026-08-04T09:30",
+   "ema36": 420.924,
+   "ema90": 421.3701,
+   "close": 408.43
+  },
+  {
+   "ticker": "ZTS",
+   "name": "Zoetis",
+   "type": "death",
+   "barTime": "2026-08-04T11:30",
+   "ema36": 76.55,
+   "ema90": 76.5591,
+   "close": 75.415
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "APTV",
+   "name": "Aptiv",
+   "type": "below",
+   "close": 47.718,
+   "upper": 65.2704,
+   "lower": 50.2971,
+   "beta": 0.9703,
+   "betaMean": 1.3269
+  },
+  {
+   "ticker": "ARES",
+   "name": "Ares Management",
+   "type": "above",
+   "close": 142.86,
+   "upper": 141.0864,
+   "lower": 107.4551,
+   "beta": 1.6891,
+   "betaMean": 1.6522
+  },
+  {
+   "ticker": "IT",
+   "name": "Gartner",
+   "type": "above",
+   "close": 185.905,
+   "upper": 180.9213,
+   "lower": 105.827,
+   "beta": 0.1176,
+   "betaMean": 0.0393
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "above",
+   "close": 153.62,
+   "upper": 151.8733,
+   "lower": 133.3592,
+   "beta": 1.3413,
+   "betaMean": 1.3391
+  },
+  {
+   "ticker": "LDOS",
+   "name": "Leidos",
+   "type": "above",
+   "close": 130.42,
+   "upper": 127.7294,
+   "lower": 93.7872,
+   "beta": 0.0925,
+   "betaMean": -0.0142
+  },
+  {
+   "ticker": "NRG",
+   "name": "NRG Energy",
+   "type": "below",
+   "close": 117.03,
+   "upper": 152.9922,
+   "lower": 117.5268,
+   "beta": 1.0676,
+   "betaMean": 1.4805
+  },
+  {
+   "ticker": "PLTR",
+   "name": "Palantir Technologies",
+   "type": "above",
+   "close": 162.63,
+   "upper": 154.7393,
+   "lower": 105.7654,
+   "beta": 1.925,
+   "betaMean": 1.4513
+  },
+  {
+   "ticker": "ZBRA",
+   "name": "Zebra Technologies",
+   "type": "above",
+   "close": 369.29,
+   "upper": 338.155,
+   "lower": 208.9424,
+   "beta": 1.6704,
+   "betaMean": 1.2419
+  }
+ ]
+}
