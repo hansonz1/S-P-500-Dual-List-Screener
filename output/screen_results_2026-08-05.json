@@ -1,0 +1,296 @@
+{
+ "date": "2026-08-05",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AES",
+   "name": "AES Corporation",
+   "type": "death",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 14.7526,
+   "ema90": 14.7537,
+   "close": 14.695
+  },
+  {
+   "ticker": "APD",
+   "name": "Air Products",
+   "type": "death",
+   "barTime": "2026-08-05T15:30",
+   "ema36": 295.2105,
+   "ema90": 295.2421,
+   "close": 295.06
+  },
+  {
+   "ticker": "AXP",
+   "name": "American Express",
+   "type": "golden",
+   "barTime": "2026-08-05T13:30",
+   "ema36": 342.2693,
+   "ema90": 342.2425,
+   "close": 348.885
+  },
+  {
+   "ticker": "CINF",
+   "name": "Cincinnati Financial",
+   "type": "death",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 178.7713,
+   "ema90": 178.7955,
+   "close": 177.215
+  },
+  {
+   "ticker": "CL",
+   "name": "Colgate-Palmolive",
+   "type": "golden",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 91.636,
+   "ema90": 91.6093,
+   "close": 92.44
+  },
+  {
+   "ticker": "CVNA",
+   "name": "Carvana",
+   "type": "golden",
+   "barTime": "2026-08-05T15:30",
+   "ema36": 65.5597,
+   "ema90": 65.4488,
+   "close": 69.48
+  },
+  {
+   "ticker": "CVS",
+   "name": "CVS Health",
+   "type": "death",
+   "barTime": "2026-08-05T13:30",
+   "ema36": 104.8033,
+   "ema90": 104.88,
+   "close": 99.71
+  },
+  {
+   "ticker": "DIS",
+   "name": "Walt Disney Company (The)",
+   "type": "golden",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 97.5356,
+   "ema90": 97.5268,
+   "close": 101.0
+  },
+  {
+   "ticker": "DVA",
+   "name": "DaVita",
+   "type": "death",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 230.5157,
+   "ema90": 230.536,
+   "close": 188.8225
+  },
+  {
+   "ticker": "FFIV",
+   "name": "F5, Inc.",
+   "type": "golden",
+   "barTime": "2026-08-05T13:30",
+   "ema36": 405.116,
+   "ema90": 404.8857,
+   "close": 414.9
+  },
+  {
+   "ticker": "FRT",
+   "name": "Federal Realty Investment Trust",
+   "type": "death",
+   "barTime": "2026-08-05T13:30",
+   "ema36": 123.9513,
+   "ema90": 124.0177,
+   "close": 121.69
+  },
+  {
+   "ticker": "FSLR",
+   "name": "First Solar",
+   "type": "golden",
+   "barTime": "2026-08-05T13:30",
+   "ema36": 221.6414,
+   "ema90": 221.6345,
+   "close": 236.15
+  },
+  {
+   "ticker": "GIS",
+   "name": "General Mills",
+   "type": "death",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 36.4617,
+   "ema90": 36.4712,
+   "close": 35.805
+  },
+  {
+   "ticker": "HUBB",
+   "name": "Hubbell Incorporated",
+   "type": "golden",
+   "barTime": "2026-08-05T13:30",
+   "ema36": 486.1418,
+   "ema90": 485.5585,
+   "close": 516.12
+  },
+  {
+   "ticker": "KEYS",
+   "name": "Keysight Technologies",
+   "type": "golden",
+   "barTime": "2026-08-05T15:30",
+   "ema36": 324.5391,
+   "ema90": 324.3012,
+   "close": 335.78
+  },
+  {
+   "ticker": "KIM",
+   "name": "Kimco Realty",
+   "type": "death",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 25.5814,
+   "ema90": 25.589,
+   "close": 24.83
+  },
+  {
+   "ticker": "LOW",
+   "name": "Lowe's",
+   "type": "golden",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 212.5498,
+   "ema90": 212.5231,
+   "close": 219.465
+  },
+  {
+   "ticker": "NEM",
+   "name": "Newmont",
+   "type": "golden",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 95.0163,
+   "ema90": 94.92,
+   "close": 105.42
+  },
+  {
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "type": "golden",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 204.135,
+   "ema90": 203.5917,
+   "close": 219.11
+  },
+  {
+   "ticker": "O",
+   "name": "Realty Income",
+   "type": "death",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 64.0709,
+   "ema90": 64.096,
+   "close": 62.3
+  },
+  {
+   "ticker": "PODD",
+   "name": "Insulet Corporation",
+   "type": "death",
+   "barTime": "2026-08-05T15:30",
+   "ema36": 159.6316,
+   "ema90": 160.3829,
+   "close": 133.14
+  },
+  {
+   "ticker": "PWR",
+   "name": "Quanta Services",
+   "type": "golden",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 655.6241,
+   "ema90": 654.8453,
+   "close": 689.84
+  },
+  {
+   "ticker": "SMCI",
+   "name": "Supermicro",
+   "type": "golden",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 28.9204,
+   "ema90": 28.8936,
+   "close": 30.87
+  },
+  {
+   "ticker": "SWKS",
+   "name": "Skyworks Solutions",
+   "type": "golden",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 62.9734,
+   "ema90": 62.8786,
+   "close": 66.2251
+  },
+  {
+   "ticker": "TER",
+   "name": "Teradyne",
+   "type": "golden",
+   "barTime": "2026-08-05T11:30",
+   "ema36": 367.1156,
+   "ema90": 366.4753,
+   "close": 393.07
+  },
+  {
+   "ticker": "WYNN",
+   "name": "Wynn Resorts",
+   "type": "golden",
+   "barTime": "2026-08-05T09:30",
+   "ema36": 98.65,
+   "ema90": 98.5209,
+   "close": 105.665
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "APTV",
+   "name": "Aptiv",
+   "type": "below",
+   "close": 47.02,
+   "upper": 67.2075,
+   "lower": 47.2827,
+   "beta": 0.8312,
+   "betaMean": 1.3253
+  },
+  {
+   "ticker": "DVA",
+   "name": "DaVita",
+   "type": "below",
+   "close": 188.66,
+   "upper": 264.0651,
+   "lower": 201.5497,
+   "beta": 0.3935,
+   "betaMean": 0.4069
+  },
+  {
+   "ticker": "NEM",
+   "name": "Newmont",
+   "type": "above",
+   "close": 104.27,
+   "upper": 103.3852,
+   "lower": 84.9869,
+   "beta": 2.2452,
+   "betaMean": 2.2097
+  },
+  {
+   "ticker": "PODD",
+   "name": "Insulet Corporation",
+   "type": "below",
+   "close": 133.14,
+   "upper": 183.1144,
+   "lower": 140.9594,
+   "beta": -0.5601,
+   "betaMean": 0.0999
+  },
+  {
+   "ticker": "ZBRA",
+   "name": "Zebra Technologies",
+   "type": "above",
+   "close": 369.08,
+   "upper": 365.963,
+   "lower": 190.0524,
+   "beta": 1.6862,
+   "betaMean": 1.2508
+  }
+ ]
+}
