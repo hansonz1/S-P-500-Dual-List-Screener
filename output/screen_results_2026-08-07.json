@@ -1,0 +1,203 @@
+{
+ "date": "2026-08-07",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AAPL",
+   "name": "Apple Inc.",
+   "type": "death",
+   "barTime": "2026-08-06T09:30",
+   "ema36": 317.1227,
+   "ema90": 317.4463,
+   "close": 310.1
+  },
+  {
+   "ticker": "ABBV",
+   "name": "AbbVie",
+   "type": "death",
+   "barTime": "2026-08-06T11:30",
+   "ema36": 250.48,
+   "ema90": 250.6311,
+   "close": 242.38
+  },
+  {
+   "ticker": "APD",
+   "name": "Air Products",
+   "type": "golden",
+   "barTime": "2026-08-06T09:30",
+   "ema36": 295.4046,
+   "ema90": 295.2924,
+   "close": 298.8
+  },
+  {
+   "ticker": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "type": "death",
+   "barTime": "2026-08-06T13:30",
+   "ema36": 50.8788,
+   "ema90": 50.9379,
+   "close": 49.36
+  },
+  {
+   "ticker": "DOC",
+   "name": "Healthpeak Properties",
+   "type": "death",
+   "barTime": "2026-08-06T15:30",
+   "ema36": 21.8244,
+   "ema90": 21.8289,
+   "close": 21.095
+  },
+  {
+   "ticker": "DVN",
+   "name": "Devon Energy",
+   "type": "death",
+   "barTime": "2026-08-06T15:30",
+   "ema36": 43.6576,
+   "ema90": 43.6589,
+   "close": 43.11
+  },
+  {
+   "ticker": "EQIX",
+   "name": "Equinix",
+   "type": "golden",
+   "barTime": "2026-08-06T15:30",
+   "ema36": 1042.7634,
+   "ema90": 1042.5991,
+   "close": 1053.24
+  },
+  {
+   "ticker": "EW",
+   "name": "Edwards Lifesciences",
+   "type": "golden",
+   "barTime": "2026-08-06T13:30",
+   "ema36": 87.4016,
+   "ema90": 87.3548,
+   "close": 89.12
+  },
+  {
+   "ticker": "F",
+   "name": "Ford Motor Company",
+   "type": "death",
+   "barTime": "2026-08-06T15:30",
+   "ema36": 14.3525,
+   "ema90": 14.3679,
+   "close": 13.785
+  },
+  {
+   "ticker": "FE",
+   "name": "FirstEnergy",
+   "type": "death",
+   "barTime": "2026-08-06T09:30",
+   "ema36": 48.5231,
+   "ema90": 48.533,
+   "close": 47.655
+  },
+  {
+   "ticker": "IRM",
+   "name": "Iron Mountain",
+   "type": "death",
+   "barTime": "2026-08-06T15:30",
+   "ema36": 124.4514,
+   "ema90": 124.4871,
+   "close": 121.98
+  },
+  {
+   "ticker": "JBL",
+   "name": "Jabil",
+   "type": "golden",
+   "barTime": "2026-08-06T13:30",
+   "ema36": 325.8855,
+   "ema90": 325.706,
+   "close": 347.43
+  },
+  {
+   "ticker": "LITE",
+   "name": "Lumentum",
+   "type": "golden",
+   "barTime": "2026-08-06T09:30",
+   "ema36": 775.2513,
+   "ema90": 771.877,
+   "close": 876.25
+  },
+  {
+   "ticker": "LVS",
+   "name": "Las Vegas Sands",
+   "type": "death",
+   "barTime": "2026-08-06T09:30",
+   "ema36": 47.0745,
+   "ema90": 47.0859,
+   "close": 45.885
+  },
+  {
+   "ticker": "MCO",
+   "name": "Moody's Corporation",
+   "type": "death",
+   "barTime": "2026-08-06T11:30",
+   "ema36": 482.3711,
+   "ema90": 482.4909,
+   "close": 471.82
+  },
+  {
+   "ticker": "PCG",
+   "name": "PG&E Corporation",
+   "type": "death",
+   "barTime": "2026-08-06T15:30",
+   "ema36": 17.3782,
+   "ema90": 17.3871,
+   "close": 17.0
+  },
+  {
+   "ticker": "RL",
+   "name": "Ralph Lauren Corporation",
+   "type": "golden",
+   "barTime": "2026-08-06T15:30",
+   "ema36": 383.8706,
+   "ema90": 383.6521,
+   "close": 396.06
+  },
+  {
+   "ticker": "TROW",
+   "name": "T. Rowe Price",
+   "type": "death",
+   "barTime": "2026-08-06T11:30",
+   "ema36": 115.5074,
+   "ema90": 115.5235,
+   "close": 113.13
+  },
+  {
+   "ticker": "TTWO",
+   "name": "Take-Two Interactive",
+   "type": "death",
+   "barTime": "2026-08-06T09:30",
+   "ema36": 240.8438,
+   "ema90": 240.8811,
+   "close": 234.79
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "CVS",
+   "name": "CVS Health",
+   "type": "below",
+   "close": 96.2,
+   "upper": 114.5609,
+   "lower": 96.5676,
+   "beta": 0.0329,
+   "betaMean": 0.0786
+  },
+  {
+   "ticker": "DVA",
+   "name": "DaVita",
+   "type": "below",
+   "close": 180.67,
+   "upper": 275.1044,
+   "lower": 185.6646,
+   "beta": 0.4112,
+   "betaMean": 0.4179
+  }
+ ]
+}
