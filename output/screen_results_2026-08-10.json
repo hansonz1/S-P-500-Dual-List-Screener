@@ -1,0 +1,204 @@
+{
+ "date": "2026-08-10",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "CF",
+   "name": "CF Industries",
+   "type": "golden",
+   "barTime": "2026-08-10T13:30",
+   "ema36": 118.9602,
+   "ema90": 118.937,
+   "close": 120.23
+  },
+  {
+   "ticker": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "type": "death",
+   "barTime": "2026-08-10T11:30",
+   "ema36": 34.3212,
+   "ema90": 34.3615,
+   "close": 32.305
+  },
+  {
+   "ticker": "DVN",
+   "name": "Devon Energy",
+   "type": "golden",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 43.6065,
+   "ema90": 43.6046,
+   "close": 44.725
+  },
+  {
+   "ticker": "EOG",
+   "name": "EOG Resources",
+   "type": "golden",
+   "barTime": "2026-08-10T11:30",
+   "ema36": 139.9783,
+   "ema90": 139.92,
+   "close": 141.52
+  },
+  {
+   "ticker": "FANG",
+   "name": "Diamondback Energy",
+   "type": "golden",
+   "barTime": "2026-08-10T11:30",
+   "ema36": 193.0804,
+   "ema90": 192.9189,
+   "close": 198.04
+  },
+  {
+   "ticker": "FDX",
+   "name": "FedEx",
+   "type": "golden",
+   "barTime": "2026-08-10T11:30",
+   "ema36": 314.5326,
+   "ema90": 314.2684,
+   "close": 324.05
+  },
+  {
+   "ticker": "FTV",
+   "name": "Fortive",
+   "type": "golden",
+   "barTime": "2026-08-10T15:30",
+   "ema36": 61.0238,
+   "ema90": 61.0065,
+   "close": 61.76
+  },
+  {
+   "ticker": "GIS",
+   "name": "General Mills",
+   "type": "golden",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 36.3969,
+   "ema90": 36.3892,
+   "close": 37.155
+  },
+  {
+   "ticker": "HST",
+   "name": "Host Hotels & Resorts",
+   "type": "death",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 24.3077,
+   "ema90": 24.3294,
+   "close": 22.73
+  },
+  {
+   "ticker": "LLY",
+   "name": "Lilly (Eli)",
+   "type": "golden",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 1169.5314,
+   "ema90": 1169.0488,
+   "close": 1213.85
+  },
+  {
+   "ticker": "NFLX",
+   "name": "Netflix",
+   "type": "golden",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 73.1181,
+   "ema90": 73.0288,
+   "close": 74.97
+  },
+  {
+   "ticker": "PCG",
+   "name": "PG&E Corporation",
+   "type": "death",
+   "barTime": "2026-08-10T13:30",
+   "ema36": 17.3648,
+   "ema90": 17.3778,
+   "close": 17.08
+  },
+  {
+   "ticker": "SPG",
+   "name": "Simon Property Group",
+   "type": "death",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 225.7455,
+   "ema90": 225.8395,
+   "close": 218.815
+  },
+  {
+   "ticker": "TSN",
+   "name": "Tyson Foods",
+   "type": "death",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 58.7262,
+   "ema90": 58.731,
+   "close": 57.53
+  },
+  {
+   "ticker": "UBER",
+   "name": "Uber",
+   "type": "golden",
+   "barTime": "2026-08-10T09:30",
+   "ema36": 71.4061,
+   "ema90": 71.2553,
+   "close": 77.18
+  },
+  {
+   "ticker": "VTRS",
+   "name": "Viatris",
+   "type": "death",
+   "barTime": "2026-08-10T15:30",
+   "ema36": 17.0497,
+   "ema90": 17.0752,
+   "close": 16.28
+  },
+  {
+   "ticker": "WBD",
+   "name": "Warner Bros. Discovery",
+   "type": "golden",
+   "barTime": "2026-08-10T11:30",
+   "ema36": 26.2607,
+   "ema90": 26.2535,
+   "close": 27.015
+  },
+  {
+   "ticker": "WRB",
+   "name": "W. R. Berkley Corporation",
+   "type": "death",
+   "barTime": "2026-08-10T13:30",
+   "ema36": 72.1794,
+   "ema90": 72.2198,
+   "close": 70.35
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "APA",
+   "name": "APA Corporation",
+   "type": "above",
+   "close": 41.02,
+   "upper": 40.4424,
+   "lower": 30.972,
+   "beta": -1.1095,
+   "betaMean": -1.6459
+  },
+  {
+   "ticker": "APD",
+   "name": "Air Products",
+   "type": "above",
+   "close": 308.19,
+   "upper": 308.0916,
+   "lower": 286.5775,
+   "beta": 0.2212,
+   "betaMean": 0.0405
+  },
+  {
+   "ticker": "NEM",
+   "name": "Newmont",
+   "type": "above",
+   "close": 117.26,
+   "upper": 117.0107,
+   "lower": 75.861,
+   "beta": 2.2867,
+   "betaMean": 2.2122
+  }
+ ]
+}
