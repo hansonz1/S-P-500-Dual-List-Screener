@@ -1,0 +1,157 @@
+{
+ "date": "2026-08-12",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AFL",
+   "name": "Aflac",
+   "type": "death",
+   "barTime": "2026-08-12T11:30",
+   "ema36": 123.9383,
+   "ema90": 123.9588,
+   "close": 120.62
+  },
+  {
+   "ticker": "ALB",
+   "name": "Albemarle Corporation",
+   "type": "golden",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 125.8293,
+   "ema90": 125.8119,
+   "close": 128.34
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "death",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 68.8387,
+   "ema90": 68.8679,
+   "close": 67.95
+  },
+  {
+   "ticker": "CB",
+   "name": "Chubb Limited",
+   "type": "death",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 349.179,
+   "ema90": 349.2405,
+   "close": 343.24
+  },
+  {
+   "ticker": "DDOG",
+   "name": "Datadog",
+   "type": "death",
+   "barTime": "2026-08-12T11:30",
+   "ema36": 254.8553,
+   "ema90": 255.125,
+   "close": 241.725
+  },
+  {
+   "ticker": "EG",
+   "name": "Everest Group",
+   "type": "death",
+   "barTime": "2026-08-12T11:30",
+   "ema36": 371.6984,
+   "ema90": 371.813,
+   "close": 364.6
+  },
+  {
+   "ticker": "ELV",
+   "name": "Elevance Health",
+   "type": "golden",
+   "barTime": "2026-08-12T09:30",
+   "ema36": 389.0707,
+   "ema90": 388.9479,
+   "close": 393.65
+  },
+  {
+   "ticker": "EQIX",
+   "name": "Equinix",
+   "type": "golden",
+   "barTime": "2026-08-12T09:30",
+   "ema36": 1043.807,
+   "ema90": 1043.3513,
+   "close": 1065.08
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "type": "death",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 350.6062,
+   "ema90": 350.7989,
+   "close": 342.32
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "death",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 351.7877,
+   "ema90": 352.0583,
+   "close": 343.545
+  },
+  {
+   "ticker": "MS",
+   "name": "Morgan Stanley",
+   "type": "golden",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 215.5463,
+   "ema90": 215.5088,
+   "close": 217.69
+  },
+  {
+   "ticker": "OKE",
+   "name": "Oneok",
+   "type": "golden",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 89.7521,
+   "ema90": 89.6852,
+   "close": 92.47
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "death",
+   "barTime": "2026-08-12T09:30",
+   "ema36": 188.462,
+   "ema90": 188.4768,
+   "close": 185.745
+  },
+  {
+   "ticker": "PPG",
+   "name": "PPG Industries",
+   "type": "death",
+   "barTime": "2026-08-12T09:30",
+   "ema36": 116.3714,
+   "ema90": 116.4373,
+   "close": 115.11
+  },
+  {
+   "ticker": "WMT",
+   "name": "Walmart",
+   "type": "golden",
+   "barTime": "2026-08-12T15:30",
+   "ema36": 112.5802,
+   "ema90": 112.4712,
+   "close": 116.035
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "MPC",
+   "name": "Marathon Petroleum",
+   "type": "above",
+   "close": 348.145,
+   "upper": 344.6473,
+   "lower": 278.9503,
+   "beta": -0.3218,
+   "betaMean": -0.6766
+  }
+ ]
+}
