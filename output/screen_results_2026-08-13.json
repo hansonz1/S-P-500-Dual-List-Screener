@@ -1,0 +1,131 @@
+{
+ "date": "2026-08-13",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AKAM",
+   "name": "Akamai Technologies",
+   "type": "golden",
+   "barTime": "2026-08-13T13:30",
+   "ema36": 119.4523,
+   "ema90": 119.2736,
+   "close": 124.99
+  },
+  {
+   "ticker": "AZO",
+   "name": "AutoZone",
+   "type": "death",
+   "barTime": "2026-08-13T15:30",
+   "ema36": 3050.4128,
+   "ema90": 3050.4525,
+   "close": 3041.55
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "golden",
+   "barTime": "2026-08-13T11:30",
+   "ema36": 68.8623,
+   "ema90": 68.8568,
+   "close": 69.185
+  },
+  {
+   "ticker": "CASY",
+   "name": "Casey's",
+   "type": "golden",
+   "barTime": "2026-08-13T15:30",
+   "ema36": 845.3436,
+   "ema90": 845.0037,
+   "close": 853.88
+  },
+  {
+   "ticker": "CIEN",
+   "name": "Ciena",
+   "type": "golden",
+   "barTime": "2026-08-13T11:30",
+   "ema36": 408.9987,
+   "ema90": 407.8728,
+   "close": 459.715
+  },
+  {
+   "ticker": "MRNA",
+   "name": "Moderna",
+   "type": "golden",
+   "barTime": "2026-08-13T13:30",
+   "ema36": 59.735,
+   "ema90": 59.7339,
+   "close": 63.1713
+  },
+  {
+   "ticker": "MRVL",
+   "name": "Marvell Technology",
+   "type": "golden",
+   "barTime": "2026-08-13T15:30",
+   "ema36": 213.3381,
+   "ema90": 213.2439,
+   "close": 222.29
+  },
+  {
+   "ticker": "SBAC",
+   "name": "SBA Communications",
+   "type": "golden",
+   "barTime": "2026-08-13T13:30",
+   "ema36": 182.3201,
+   "ema90": 182.2237,
+   "close": 186.795
+  },
+  {
+   "ticker": "STX",
+   "name": "Seagate Technology",
+   "type": "golden",
+   "barTime": "2026-08-13T13:30",
+   "ema36": 852.645,
+   "ema90": 851.6846,
+   "close": 921.28
+  },
+  {
+   "ticker": "STZ",
+   "name": "Constellation Brands",
+   "type": "golden",
+   "barTime": "2026-08-13T13:30",
+   "ema36": 133.179,
+   "ema90": 133.1214,
+   "close": 135.675
+  },
+  {
+   "ticker": "TJX",
+   "name": "TJX Companies",
+   "type": "death",
+   "barTime": "2026-08-13T11:30",
+   "ema36": 156.8462,
+   "ema90": 156.9523,
+   "close": 152.3201
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "MPC",
+   "name": "Marathon Petroleum",
+   "type": "above",
+   "close": 356.36,
+   "upper": 355.0243,
+   "lower": 273.5136,
+   "beta": -0.3059,
+   "betaMean": -0.6729
+  },
+  {
+   "ticker": "VLO",
+   "name": "Valero Energy",
+   "type": "above",
+   "close": 343.02,
+   "upper": 340.2648,
+   "lower": 277.5905,
+   "beta": -0.5321,
+   "betaMean": -1.0009
+  }
+ ]
+}
