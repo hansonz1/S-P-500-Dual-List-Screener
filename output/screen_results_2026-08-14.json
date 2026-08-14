@@ -1,0 +1,191 @@
+{
+ "date": "2026-08-14",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "ADI",
+   "name": "Analog Devices",
+   "type": "golden",
+   "barTime": "2026-08-14T13:30",
+   "ema36": 382.1187,
+   "ema90": 382.1129,
+   "close": 385.9
+  },
+  {
+   "ticker": "ALGN",
+   "name": "Align Technology",
+   "type": "golden",
+   "barTime": "2026-08-14T09:30",
+   "ema36": 173.9757,
+   "ema90": 173.9179,
+   "close": 181.395
+  },
+  {
+   "ticker": "BALL",
+   "name": "Ball Corporation",
+   "type": "death",
+   "barTime": "2026-08-14T13:30",
+   "ema36": 62.7955,
+   "ema90": 62.8109,
+   "close": 61.861
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "death",
+   "barTime": "2026-08-14T11:30",
+   "ema36": 68.8572,
+   "ema90": 68.866,
+   "close": 68.29
+  },
+  {
+   "ticker": "GEV",
+   "name": "GE Vernova",
+   "type": "golden",
+   "barTime": "2026-08-14T09:30",
+   "ema36": 1019.8877,
+   "ema90": 1019.8549,
+   "close": 1061.175
+  },
+  {
+   "ticker": "HIG",
+   "name": "Hartford (The)",
+   "type": "death",
+   "barTime": "2026-08-14T15:30",
+   "ema36": 139.9457,
+   "ema90": 139.9822,
+   "close": 138.02
+  },
+  {
+   "ticker": "HON",
+   "name": "Honeywell Technologies",
+   "type": "death",
+   "barTime": "2026-08-14T13:30",
+   "ema36": 237.9316,
+   "ema90": 238.011,
+   "close": 233.72
+  },
+  {
+   "ticker": "HUM",
+   "name": "Humana",
+   "type": "golden",
+   "barTime": "2026-08-14T13:30",
+   "ema36": 380.2187,
+   "ema90": 380.0496,
+   "close": 387.75
+  },
+  {
+   "ticker": "IRM",
+   "name": "Iron Mountain",
+   "type": "golden",
+   "barTime": "2026-08-14T09:30",
+   "ema36": 124.2305,
+   "ema90": 124.106,
+   "close": 127.65
+  },
+  {
+   "ticker": "KEY",
+   "name": "KeyCorp",
+   "type": "golden",
+   "barTime": "2026-08-14T09:30",
+   "ema36": 22.8497,
+   "ema90": 22.846,
+   "close": 23.245
+  },
+  {
+   "ticker": "LRCX",
+   "name": "Lam Research",
+   "type": "golden",
+   "barTime": "2026-08-14T11:30",
+   "ema36": 317.6356,
+   "ema90": 317.5941,
+   "close": 327.27
+  },
+  {
+   "ticker": "MCO",
+   "name": "Moody's Corporation",
+   "type": "golden",
+   "barTime": "2026-08-14T15:30",
+   "ema36": 480.955,
+   "ema90": 480.9244,
+   "close": 484.91
+  },
+  {
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "type": "golden",
+   "barTime": "2026-08-14T13:30",
+   "ema36": 909.309,
+   "ema90": 908.7017,
+   "close": 965.7975
+  },
+  {
+   "ticker": "PCG",
+   "name": "PG&E Corporation",
+   "type": "golden",
+   "barTime": "2026-08-14T09:30",
+   "ema36": 17.3604,
+   "ema90": 17.3576,
+   "close": 17.645
+  },
+  {
+   "ticker": "PEP",
+   "name": "PepsiCo",
+   "type": "golden",
+   "barTime": "2026-08-14T13:30",
+   "ema36": 139.0996,
+   "ema90": 139.093,
+   "close": 140.802
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "golden",
+   "barTime": "2026-08-14T11:30",
+   "ema36": 188.45,
+   "ema90": 188.4019,
+   "close": 189.9
+  },
+  {
+   "ticker": "Q",
+   "name": "Qnity Electronics",
+   "type": "golden",
+   "barTime": "2026-08-14T11:30",
+   "ema36": 138.9607,
+   "ema90": 138.9551,
+   "close": 141.9
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "golden",
+   "barTime": "2026-08-14T09:30",
+   "ema36": 407.608,
+   "ema90": 407.4894,
+   "close": 417.77
+  },
+  {
+   "ticker": "TPR",
+   "name": "Tapestry, Inc.",
+   "type": "death",
+   "barTime": "2026-08-14T11:30",
+   "ema36": 149.1569,
+   "ema90": 149.4267,
+   "close": 129.24
+  },
+  {
+   "ticker": "WMB",
+   "name": "Williams Companies",
+   "type": "golden",
+   "barTime": "2026-08-14T13:30",
+   "ema36": 72.6905,
+   "ema90": 72.6456,
+   "close": 75.1452
+  }
+ ],
+ "bb": []
+}
