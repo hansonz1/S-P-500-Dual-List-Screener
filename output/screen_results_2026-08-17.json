@@ -1,0 +1,220 @@
+{
+ "date": "2026-08-17",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "PPL"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AON",
+   "name": "Aon plc",
+   "type": "death",
+   "barTime": "2026-08-17T09:30",
+   "ema36": 356.494,
+   "ema90": 356.5888,
+   "close": 350.9051
+  },
+  {
+   "ticker": "CL",
+   "name": "Colgate-Palmolive",
+   "type": "death",
+   "barTime": "2026-08-17T15:30",
+   "ema36": 91.9467,
+   "ema90": 91.9623,
+   "close": 90.22
+  },
+  {
+   "ticker": "CSCO",
+   "name": "Cisco",
+   "type": "death",
+   "barTime": "2026-08-17T13:30",
+   "ema36": 116.7784,
+   "ema90": 116.8677,
+   "close": 112.96
+  },
+  {
+   "ticker": "DG",
+   "name": "Dollar General",
+   "type": "death",
+   "barTime": "2026-08-17T15:30",
+   "ema36": 122.735,
+   "ema90": 122.7971,
+   "close": 120.09
+  },
+  {
+   "ticker": "EXR",
+   "name": "Extra Space Storage",
+   "type": "death",
+   "barTime": "2026-08-17T13:30",
+   "ema36": 148.0011,
+   "ema90": 148.0099,
+   "close": 146.745
+  },
+  {
+   "ticker": "FIX",
+   "name": "Comfort Systems USA",
+   "type": "golden",
+   "barTime": "2026-08-17T11:30",
+   "ema36": 1746.1069,
+   "ema90": 1744.0472,
+   "close": 1858.835
+  },
+  {
+   "ticker": "GLW",
+   "name": "Corning Inc.",
+   "type": "golden",
+   "barTime": "2026-08-17T11:30",
+   "ema36": 161.896,
+   "ema90": 161.7689,
+   "close": 175.11
+  },
+  {
+   "ticker": "HAL",
+   "name": "Halliburton",
+   "type": "golden",
+   "barTime": "2026-08-17T11:30",
+   "ema36": 33.3287,
+   "ema90": 33.3231,
+   "close": 34.46
+  },
+  {
+   "ticker": "IBKR",
+   "name": "Interactive Brokers",
+   "type": "golden",
+   "barTime": "2026-08-17T09:30",
+   "ema36": 90.6345,
+   "ema90": 90.6064,
+   "close": 92.415
+  },
+  {
+   "ticker": "IDXX",
+   "name": "Idexx Laboratories",
+   "type": "death",
+   "barTime": "2026-08-17T13:30",
+   "ema36": 567.7853,
+   "ema90": 568.3083,
+   "close": 545.39
+  },
+  {
+   "ticker": "JBHT",
+   "name": "J.B. Hunt",
+   "type": "golden",
+   "barTime": "2026-08-17T15:30",
+   "ema36": 276.9136,
+   "ema90": 276.8939,
+   "close": 283.29
+  },
+  {
+   "ticker": "KMI",
+   "name": "Kinder Morgan",
+   "type": "golden",
+   "barTime": "2026-08-17T09:30",
+   "ema36": 31.8853,
+   "ema90": 31.8686,
+   "close": 32.635
+  },
+  {
+   "ticker": "KVUE",
+   "name": "Kenvue",
+   "type": "death",
+   "barTime": "2026-08-17T13:30",
+   "ema36": 19.0995,
+   "ema90": 19.1086,
+   "close": 18.795
+  },
+  {
+   "ticker": "MCD",
+   "name": "McDonald's",
+   "type": "death",
+   "barTime": "2026-08-17T13:30",
+   "ema36": 271.8328,
+   "ema90": 271.9198,
+   "close": 265.525
+  },
+  {
+   "ticker": "MCO",
+   "name": "Moody's Corporation",
+   "type": "death",
+   "barTime": "2026-08-17T09:30",
+   "ema36": 480.8126,
+   "ema90": 480.9298,
+   "close": 478.32
+  },
+  {
+   "ticker": "MOS",
+   "name": "Mosaic Company (The)",
+   "type": "death",
+   "barTime": "2026-08-17T09:30",
+   "ema36": 22.4,
+   "ema90": 22.4531,
+   "close": 21.055
+  },
+  {
+   "ticker": "OTIS",
+   "name": "Otis Worldwide",
+   "type": "death",
+   "barTime": "2026-08-17T13:30",
+   "ema36": 72.7478,
+   "ema90": 72.7597,
+   "close": 70.865
+  },
+  {
+   "ticker": "PEP",
+   "name": "PepsiCo",
+   "type": "death",
+   "barTime": "2026-08-17T09:30",
+   "ema36": 139.1285,
+   "ema90": 139.1437,
+   "close": 138.025
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "death",
+   "barTime": "2026-08-17T11:30",
+   "ema36": 188.3544,
+   "ema90": 188.4317,
+   "close": 185.2
+  },
+  {
+   "ticker": "SNA",
+   "name": "Snap-on",
+   "type": "death",
+   "barTime": "2026-08-17T13:30",
+   "ema36": 408.0729,
+   "ema90": 408.1497,
+   "close": 402.07
+  },
+  {
+   "ticker": "SNDK",
+   "name": "Sandisk",
+   "type": "golden",
+   "barTime": "2026-08-17T11:30",
+   "ema36": 1449.4059,
+   "ema90": 1445.7773,
+   "close": 1784.4
+  },
+  {
+   "ticker": "TRGP",
+   "name": "Targa Resources",
+   "type": "golden",
+   "barTime": "2026-08-17T15:30",
+   "ema36": 269.9889,
+   "ema90": 269.7497,
+   "close": 278.01
+  },
+  {
+   "ticker": "VRT",
+   "name": "Vertiv",
+   "type": "golden",
+   "barTime": "2026-08-17T15:30",
+   "ema36": 284.4998,
+   "ema90": 284.3331,
+   "close": 292.585
+  }
+ ],
+ "bb": []
+}
