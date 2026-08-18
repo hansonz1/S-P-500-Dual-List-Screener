@@ -1,0 +1,238 @@
+{
+ "date": "2026-08-18",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ABBV",
+   "name": "AbbVie",
+   "type": "golden",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 249.7628,
+   "ema90": 249.6358,
+   "close": 256.93
+  },
+  {
+   "ticker": "ADI",
+   "name": "Analog Devices",
+   "type": "death",
+   "barTime": "2026-08-18T15:30",
+   "ema36": 382.2397,
+   "ema90": 382.323,
+   "close": 376.96
+  },
+  {
+   "ticker": "ALGN",
+   "name": "Align Technology",
+   "type": "death",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 174.3159,
+   "ema90": 174.3295,
+   "close": 170.18
+  },
+  {
+   "ticker": "AZO",
+   "name": "AutoZone",
+   "type": "golden",
+   "barTime": "2026-08-18T11:30",
+   "ema36": 3051.8107,
+   "ema90": 3049.7584,
+   "close": 3118.6599
+  },
+  {
+   "ticker": "DE",
+   "name": "Deere & Company",
+   "type": "death",
+   "barTime": "2026-08-18T13:30",
+   "ema36": 608.6057,
+   "ema90": 608.8391,
+   "close": 592.51
+  },
+  {
+   "ticker": "FFIV",
+   "name": "F5, Inc.",
+   "type": "death",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 407.8195,
+   "ema90": 407.8682,
+   "close": 393.12
+  },
+  {
+   "ticker": "FIS",
+   "name": "Fidelity National Information Services",
+   "type": "death",
+   "barTime": "2026-08-18T11:30",
+   "ema36": 42.5193,
+   "ema90": 42.5403,
+   "close": 41.755
+  },
+  {
+   "ticker": "FSLR",
+   "name": "First Solar",
+   "type": "death",
+   "barTime": "2026-08-18T11:30",
+   "ema36": 227.2827,
+   "ema90": 227.4573,
+   "close": 219.315
+  },
+  {
+   "ticker": "FTV",
+   "name": "Fortive",
+   "type": "death",
+   "barTime": "2026-08-18T11:30",
+   "ema36": 61.1312,
+   "ema90": 61.1423,
+   "close": 59.86
+  },
+  {
+   "ticker": "IR",
+   "name": "Ingersoll Rand",
+   "type": "death",
+   "barTime": "2026-08-18T15:30",
+   "ema36": 83.9528,
+   "ema90": 84.0005,
+   "close": 80.775
+  },
+  {
+   "ticker": "JBHT",
+   "name": "J.B. Hunt",
+   "type": "death",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 276.9837,
+   "ema90": 277.0269,
+   "close": 278.21
+  },
+  {
+   "ticker": "KMB",
+   "name": "Kimberly-Clark",
+   "type": "death",
+   "barTime": "2026-08-18T13:30",
+   "ema36": 109.2136,
+   "ema90": 109.2291,
+   "close": 108.2
+  },
+  {
+   "ticker": "MCO",
+   "name": "Moody's Corporation",
+   "type": "golden",
+   "barTime": "2026-08-18T11:30",
+   "ema36": 481.139,
+   "ema90": 480.8814,
+   "close": 488.74
+  },
+  {
+   "ticker": "PEP",
+   "name": "PepsiCo",
+   "type": "golden",
+   "barTime": "2026-08-18T13:30",
+   "ema36": 139.1845,
+   "ema90": 139.1528,
+   "close": 140.43
+  },
+  {
+   "ticker": "PPL",
+   "name": "PPL Corporation",
+   "type": "golden",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 35.615,
+   "ema90": 35.6147,
+   "close": 36.49
+  },
+  {
+   "ticker": "Q",
+   "name": "Qnity Electronics",
+   "type": "death",
+   "barTime": "2026-08-18T11:30",
+   "ema36": 138.9822,
+   "ema90": 139.1076,
+   "close": 133.305
+  },
+  {
+   "ticker": "RL",
+   "name": "Ralph Lauren Corporation",
+   "type": "death",
+   "barTime": "2026-08-18T15:30",
+   "ema36": 387.3139,
+   "ema90": 387.3366,
+   "close": 378.3
+  },
+  {
+   "ticker": "RSG",
+   "name": "Republic Services",
+   "type": "golden",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 214.5372,
+   "ema90": 214.5057,
+   "close": 217.47
+  },
+  {
+   "ticker": "STZ",
+   "name": "Constellation Brands",
+   "type": "death",
+   "barTime": "2026-08-18T13:30",
+   "ema36": 133.2788,
+   "ema90": 133.3126,
+   "close": 131.85
+  },
+  {
+   "ticker": "SYY",
+   "name": "Sysco",
+   "type": "death",
+   "barTime": "2026-08-18T15:30",
+   "ema36": 83.2537,
+   "ema90": 83.2861,
+   "close": 81.95
+  },
+  {
+   "ticker": "TT",
+   "name": "Trane Technologies",
+   "type": "death",
+   "barTime": "2026-08-18T15:30",
+   "ema36": 474.3966,
+   "ema90": 474.5271,
+   "close": 463.42
+  },
+  {
+   "ticker": "UAL",
+   "name": "United Airlines Holdings",
+   "type": "death",
+   "barTime": "2026-08-18T15:30",
+   "ema36": 124.3705,
+   "ema90": 124.4878,
+   "close": 118.68
+  },
+  {
+   "ticker": "VRT",
+   "name": "Vertiv",
+   "type": "death",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 283.8725,
+   "ema90": 284.2753,
+   "close": 272.895
+  },
+  {
+   "ticker": "WY",
+   "name": "Weyerhaeuser",
+   "type": "death",
+   "barTime": "2026-08-18T13:30",
+   "ema36": 24.5818,
+   "ema90": 24.5883,
+   "close": 23.6145
+  },
+  {
+   "ticker": "XYL",
+   "name": "Xylem Inc.",
+   "type": "death",
+   "barTime": "2026-08-18T09:30",
+   "ema36": 119.7999,
+   "ema90": 119.9136,
+   "close": 113.34
+  }
+ ],
+ "bb": []
+}
