@@ -1,0 +1,223 @@
+{
+ "date": "2026-08-19",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADM",
+   "name": "Archer Daniels Midland",
+   "type": "golden",
+   "barTime": "2026-08-18T15:30",
+   "ema36": 80.6119,
+   "ema90": 80.6077,
+   "close": 82.47
+  },
+  {
+   "ticker": "AKAM",
+   "name": "Akamai Technologies",
+   "type": "death",
+   "barTime": "2026-08-19T11:30",
+   "ema36": 119.5485,
+   "ema90": 119.7923,
+   "close": 112.25
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "type": "death",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 399.4174,
+   "ema90": 400.0804,
+   "close": 362.44
+  },
+  {
+   "ticker": "BG",
+   "name": "Bunge Global",
+   "type": "golden",
+   "barTime": "2026-08-19T15:30",
+   "ema36": 113.0072,
+   "ema90": 112.9965,
+   "close": 114.04
+  },
+  {
+   "ticker": "CCL",
+   "name": "Carnival Corporation",
+   "type": "death",
+   "barTime": "2026-08-19T13:30",
+   "ema36": 27.8165,
+   "ema90": 27.8527,
+   "close": 26.815
+  },
+  {
+   "ticker": "CDW",
+   "name": "CDW Corporation",
+   "type": "death",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 137.8108,
+   "ema90": 137.9139,
+   "close": 134.69
+  },
+  {
+   "ticker": "CF",
+   "name": "CF Industries",
+   "type": "golden",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 118.8588,
+   "ema90": 118.742,
+   "close": 122.85
+  },
+  {
+   "ticker": "DAL",
+   "name": "Delta Air Lines",
+   "type": "death",
+   "barTime": "2026-08-19T11:30",
+   "ema36": 88.6386,
+   "ema90": 88.7502,
+   "close": 84.075
+  },
+  {
+   "ticker": "FITB",
+   "name": "Fifth Third Bancorp",
+   "type": "death",
+   "barTime": "2026-08-19T15:30",
+   "ema36": 57.164,
+   "ema90": 57.1851,
+   "close": 54.97
+  },
+  {
+   "ticker": "FIX",
+   "name": "Comfort Systems USA",
+   "type": "death",
+   "barTime": "2026-08-19T13:30",
+   "ema36": 1746.7878,
+   "ema90": 1747.6336,
+   "close": 1694.95
+  },
+  {
+   "ticker": "FTNT",
+   "name": "Fortinet",
+   "type": "death",
+   "barTime": "2026-08-19T15:30",
+   "ema36": 158.7428,
+   "ema90": 158.9144,
+   "close": 152.84
+  },
+  {
+   "ticker": "GEV",
+   "name": "GE Vernova",
+   "type": "death",
+   "barTime": "2026-08-19T13:30",
+   "ema36": 1024.43,
+   "ema90": 1024.4619,
+   "close": 981.84
+  },
+  {
+   "ticker": "GL",
+   "name": "Globe Life",
+   "type": "death",
+   "barTime": "2026-08-19T11:30",
+   "ema36": 180.1591,
+   "ema90": 180.2292,
+   "close": 173.49
+  },
+  {
+   "ticker": "GLW",
+   "name": "Corning Inc.",
+   "type": "death",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 162.0295,
+   "ema90": 162.1537,
+   "close": 152.815
+  },
+  {
+   "ticker": "HLT",
+   "name": "Hilton Worldwide",
+   "type": "golden",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 324.0569,
+   "ema90": 323.7189,
+   "close": 333.375
+  },
+  {
+   "ticker": "KEY",
+   "name": "KeyCorp",
+   "type": "death",
+   "barTime": "2026-08-19T11:30",
+   "ema36": 22.8628,
+   "ema90": 22.8875,
+   "close": 22.165
+  },
+  {
+   "ticker": "MPWR",
+   "name": "Monolithic Power Systems",
+   "type": "death",
+   "barTime": "2026-08-19T11:30",
+   "ema36": 1373.3373,
+   "ema90": 1375.5215,
+   "close": 1306.45
+  },
+  {
+   "ticker": "PPL",
+   "name": "PPL Corporation",
+   "type": "death",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 35.6383,
+   "ema90": 35.6543,
+   "close": 35.42
+  },
+  {
+   "ticker": "RCL",
+   "name": "Royal Caribbean Group",
+   "type": "death",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 307.3129,
+   "ema90": 307.4593,
+   "close": 301.87
+  },
+  {
+   "ticker": "TMUS",
+   "name": "T-Mobile US",
+   "type": "golden",
+   "barTime": "2026-08-19T09:30",
+   "ema36": 180.4307,
+   "ema90": 180.3985,
+   "close": 184.905
+  },
+  {
+   "ticker": "VRSN",
+   "name": "Verisign",
+   "type": "death",
+   "barTime": "2026-08-19T15:30",
+   "ema36": 282.0477,
+   "ema90": 282.3853,
+   "close": 273.05
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "FITB",
+   "name": "Fifth Third Bancorp",
+   "type": "below",
+   "close": 54.97,
+   "upper": 59.1583,
+   "lower": 55.3682,
+   "beta": 0.6588,
+   "betaMean": 0.863
+  },
+  {
+   "ticker": "MRNA",
+   "name": "Moderna",
+   "type": "above",
+   "close": 174.165,
+   "upper": 125.4069,
+   "lower": 0.4331,
+   "beta": 3.0499,
+   "betaMean": 1.8706
+  }
+ ]
+}
