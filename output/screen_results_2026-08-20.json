@@ -1,0 +1,368 @@
+{
+ "date": "2026-08-20",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "APH",
+   "name": "Amphenol",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 162.7944,
+   "ema90": 162.919,
+   "close": 153.985
+  },
+  {
+   "ticker": "AZO",
+   "name": "AutoZone",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 3047.8361,
+   "ema90": 3051.378,
+   "close": 2943.4099
+  },
+  {
+   "ticker": "BA",
+   "name": "Boeing",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 225.0824,
+   "ema90": 225.2115,
+   "close": 215.2
+  },
+  {
+   "ticker": "BRK-B",
+   "name": "Berkshire Hathaway",
+   "type": "death",
+   "barTime": "2026-08-20T11:30",
+   "ema36": 506.0791,
+   "ema90": 506.3196,
+   "close": 499.08
+  },
+  {
+   "ticker": "C",
+   "name": "Citigroup",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 135.5881,
+   "ema90": 135.6039,
+   "close": 130.46
+  },
+  {
+   "ticker": "CASY",
+   "name": "Casey's",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 846.7595,
+   "ema90": 846.8288,
+   "close": 823.68
+  },
+  {
+   "ticker": "CHD",
+   "name": "Church & Dwight",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 99.7724,
+   "ema90": 99.7811,
+   "close": 97.42
+  },
+  {
+   "ticker": "CIEN",
+   "name": "Ciena",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 411.5454,
+   "ema90": 412.0159,
+   "close": 394.28
+  },
+  {
+   "ticker": "CMG",
+   "name": "Chipotle Mexican Grill",
+   "type": "golden",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 33.9252,
+   "ema90": 33.8998,
+   "close": 35.31
+  },
+  {
+   "ticker": "COHR",
+   "name": "Coherent Corp.",
+   "type": "death",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 319.1504,
+   "ema90": 319.2956,
+   "close": 288.04
+  },
+  {
+   "ticker": "COIN",
+   "name": "Coinbase",
+   "type": "golden",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 155.3305,
+   "ema90": 155.3054,
+   "close": 171.2
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 148.6923,
+   "ema90": 148.7525,
+   "close": 147.28
+  },
+  {
+   "ticker": "FISV",
+   "name": "Fiserv",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 52.5217,
+   "ema90": 52.5528,
+   "close": 51.38
+  },
+  {
+   "ticker": "GE",
+   "name": "GE Aerospace",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 362.1785,
+   "ema90": 362.6532,
+   "close": 344.76
+  },
+  {
+   "ticker": "HBAN",
+   "name": "Huntington Bancshares",
+   "type": "death",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 17.6145,
+   "ema90": 17.6163,
+   "close": 17.155
+  },
+  {
+   "ticker": "HD",
+   "name": "Home Depot (The)",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 341.3724,
+   "ema90": 341.513,
+   "close": 334.56
+  },
+  {
+   "ticker": "HUBB",
+   "name": "Hubbell Incorporated",
+   "type": "death",
+   "barTime": "2026-08-20T11:30",
+   "ema36": 494.92,
+   "ema90": 495.652,
+   "close": 471.89
+  },
+  {
+   "ticker": "KDP",
+   "name": "Keurig Dr Pepper",
+   "type": "golden",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 30.6318,
+   "ema90": 30.6265,
+   "close": 31.615
+  },
+  {
+   "ticker": "LRCX",
+   "name": "Lam Research",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 318.4741,
+   "ema90": 318.6066,
+   "close": 310.6
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "death",
+   "barTime": "2026-08-20T11:30",
+   "ema36": 119.9273,
+   "ema90": 120.0024,
+   "close": 115.81
+  },
+  {
+   "ticker": "MS",
+   "name": "Morgan Stanley",
+   "type": "death",
+   "barTime": "2026-08-20T11:30",
+   "ema36": 215.8639,
+   "ema90": 216.0131,
+   "close": 210.545
+  },
+  {
+   "ticker": "PGR",
+   "name": "Progressive Corporation",
+   "type": "golden",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 212.7508,
+   "ema90": 212.6079,
+   "close": 220.41
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "golden",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 188.3491,
+   "ema90": 188.2717,
+   "close": 192.295
+  },
+  {
+   "ticker": "PNC",
+   "name": "PNC Financial Services",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 251.1876,
+   "ema90": 251.4598,
+   "close": 241.635
+  },
+  {
+   "ticker": "ROST",
+   "name": "Ross Stores",
+   "type": "death",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 242.0098,
+   "ema90": 242.4431,
+   "close": 228.585
+  },
+  {
+   "ticker": "SBAC",
+   "name": "SBA Communications",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 182.5646,
+   "ema90": 182.6214,
+   "close": 181.085
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "death",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 407.9728,
+   "ema90": 408.3049,
+   "close": 398.605
+  },
+  {
+   "ticker": "SPGI",
+   "name": "S&P Global",
+   "type": "golden",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 418.2579,
+   "ema90": 417.8429,
+   "close": 431.34
+  },
+  {
+   "ticker": "STLD",
+   "name": "Steel Dynamics",
+   "type": "death",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 252.2341,
+   "ema90": 253.1675,
+   "close": 221.175
+  },
+  {
+   "ticker": "STZ",
+   "name": "Constellation Brands",
+   "type": "golden",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 133.1976,
+   "ema90": 133.1891,
+   "close": 134.47
+  },
+  {
+   "ticker": "TEL",
+   "name": "TE Connectivity",
+   "type": "death",
+   "barTime": "2026-08-20T15:30",
+   "ema36": 209.8236,
+   "ema90": 209.9462,
+   "close": 200.63
+  },
+  {
+   "ticker": "TFC",
+   "name": "Truist Financial",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 52.0642,
+   "ema90": 52.0821,
+   "close": 50.415
+  },
+  {
+   "ticker": "WELL",
+   "name": "Welltower",
+   "type": "golden",
+   "barTime": "2026-08-20T09:30",
+   "ema36": 235.1798,
+   "ema90": 235.149,
+   "close": 238.58
+  },
+  {
+   "ticker": "WFC",
+   "name": "Wells Fargo",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 87.0164,
+   "ema90": 87.0898,
+   "close": 83.79
+  },
+  {
+   "ticker": "WMT",
+   "name": "Walmart",
+   "type": "death",
+   "barTime": "2026-08-20T13:30",
+   "ema36": 112.6241,
+   "ema90": 112.8881,
+   "close": 103.135
+  },
+  {
+   "ticker": "WY",
+   "name": "Weyerhaeuser",
+   "type": "golden",
+   "barTime": "2026-08-20T11:30",
+   "ema36": 24.5633,
+   "ema90": 24.5523,
+   "close": 24.9
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "FITB",
+   "name": "Fifth Third Bancorp",
+   "type": "below",
+   "close": 54.505,
+   "upper": 59.6243,
+   "lower": 54.6743,
+   "beta": 0.6497,
+   "betaMean": 0.8543
+  },
+  {
+   "ticker": "MTB",
+   "name": "M&T Bank",
+   "type": "below",
+   "close": 238.4,
+   "upper": 260.1223,
+   "lower": 240.096,
+   "beta": 0.4545,
+   "betaMean": 0.638
+  },
+  {
+   "ticker": "PNC",
+   "name": "PNC Financial Services",
+   "type": "below",
+   "close": 241.635,
+   "upper": 261.2617,
+   "lower": 242.4422,
+   "beta": 0.4257,
+   "betaMean": 0.6597
+  }
+ ]
+}
