@@ -1,0 +1,247 @@
+{
+ "date": "2026-08-21",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AES",
+   "name": "AES Corporation",
+   "type": "golden",
+   "barTime": "2026-08-21T15:30",
+   "ema36": 14.7427,
+   "ema90": 14.7421,
+   "close": 14.765
+  },
+  {
+   "ticker": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "type": "golden",
+   "barTime": "2026-08-21T15:30",
+   "ema36": 49.8593,
+   "ema90": 49.7606,
+   "close": 53.51
+  },
+  {
+   "ticker": "CFG",
+   "name": "Citizens Financial Group",
+   "type": "death",
+   "barTime": "2026-08-21T11:30",
+   "ema36": 72.241,
+   "ema90": 72.3186,
+   "close": 69.85
+  },
+  {
+   "ticker": "DE",
+   "name": "Deere & Company",
+   "type": "golden",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 608.6586,
+   "ema90": 608.462,
+   "close": 626.72
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "death",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 148.7741,
+   "ema90": 148.7812,
+   "close": 148.825
+  },
+  {
+   "ticker": "HOOD",
+   "name": "Robinhood Markets",
+   "type": "golden",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 96.9319,
+   "ema90": 96.6826,
+   "close": 107.14
+  },
+  {
+   "ticker": "HWM",
+   "name": "Howmet Aerospace",
+   "type": "death",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 282.3776,
+   "ema90": 282.7013,
+   "close": 271.48
+  },
+  {
+   "ticker": "IRM",
+   "name": "Iron Mountain",
+   "type": "death",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 124.5188,
+   "ema90": 124.5911,
+   "close": 122.18
+  },
+  {
+   "ticker": "JBL",
+   "name": "Jabil",
+   "type": "death",
+   "barTime": "2026-08-21T11:30",
+   "ema36": 338.0484,
+   "ema90": 338.4719,
+   "close": 314.4
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "death",
+   "barTime": "2026-08-21T15:30",
+   "ema36": 148.1411,
+   "ema90": 148.1635,
+   "close": 143.065
+  },
+  {
+   "ticker": "KEYS",
+   "name": "Keysight Technologies",
+   "type": "death",
+   "barTime": "2026-08-21T11:30",
+   "ema36": 333.5079,
+   "ema90": 334.0955,
+   "close": 314.42
+  },
+  {
+   "ticker": "KMI",
+   "name": "Kinder Morgan",
+   "type": "death",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 31.9373,
+   "ema90": 31.9731,
+   "close": 30.875
+  },
+  {
+   "ticker": "MNST",
+   "name": "Monster Beverage",
+   "type": "golden",
+   "barTime": "2026-08-21T15:30",
+   "ema36": 47.0669,
+   "ema90": 47.0541,
+   "close": 47.79
+  },
+  {
+   "ticker": "MOS",
+   "name": "Mosaic Company (The)",
+   "type": "golden",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 22.3888,
+   "ema90": 22.3426,
+   "close": 24.435
+  },
+  {
+   "ticker": "MTB",
+   "name": "M&T Bank",
+   "type": "death",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 248.4337,
+   "ema90": 248.6853,
+   "close": 238.89
+  },
+  {
+   "ticker": "NUE",
+   "name": "Nucor",
+   "type": "death",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 258.4864,
+   "ema90": 258.683,
+   "close": 242.28
+  },
+  {
+   "ticker": "PFG",
+   "name": "Principal Financial Group",
+   "type": "death",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 112.7732,
+   "ema90": 112.7873,
+   "close": 110.995
+  },
+  {
+   "ticker": "RF",
+   "name": "Regions Financial Corporation",
+   "type": "death",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 31.1963,
+   "ema90": 31.2149,
+   "close": 30.23
+  },
+  {
+   "ticker": "SYY",
+   "name": "Sysco",
+   "type": "golden",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 83.2614,
+   "ema90": 83.2609,
+   "close": 83.93
+  },
+  {
+   "ticker": "TDY",
+   "name": "Teledyne Technologies",
+   "type": "death",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 662.3087,
+   "ema90": 662.801,
+   "close": 630.505
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "golden",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 341.8115,
+   "ema90": 341.4726,
+   "close": 364.14
+  },
+  {
+   "ticker": "TTWO",
+   "name": "Take-Two Interactive",
+   "type": "death",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 242.5641,
+   "ema90": 242.5659,
+   "close": 240.02
+  },
+  {
+   "ticker": "USB",
+   "name": "U.S. Bancorp",
+   "type": "death",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 63.5906,
+   "ema90": 63.6001,
+   "close": 62.03
+  },
+  {
+   "ticker": "WMB",
+   "name": "Williams Companies",
+   "type": "death",
+   "barTime": "2026-08-21T09:30",
+   "ema36": 72.9663,
+   "ema90": 73.0239,
+   "close": 70.12
+  },
+  {
+   "ticker": "WY",
+   "name": "Weyerhaeuser",
+   "type": "death",
+   "barTime": "2026-08-21T13:30",
+   "ema36": 24.5664,
+   "ema90": 24.5679,
+   "close": 24.405
+  },
+  {
+   "ticker": "ZTS",
+   "name": "Zoetis",
+   "type": "golden",
+   "barTime": "2026-08-21T15:30",
+   "ema36": 75.4783,
+   "ema90": 75.4647,
+   "close": 77.555
+  }
+ ],
+ "bb": []
+}
