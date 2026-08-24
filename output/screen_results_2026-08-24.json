@@ -1,0 +1,247 @@
+{
+ "date": "2026-08-24",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ACGL",
+   "name": "Arch Capital Group",
+   "type": "golden",
+   "barTime": "2026-08-24T15:30",
+   "ema36": 99.4657,
+   "ema90": 99.4347,
+   "close": 101.15
+  },
+  {
+   "ticker": "ADM",
+   "name": "Archer Daniels Midland",
+   "type": "death",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 80.7284,
+   "ema90": 80.8062,
+   "close": 77.995
+  },
+  {
+   "ticker": "AME",
+   "name": "Ametek",
+   "type": "death",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 246.1316,
+   "ema90": 246.2839,
+   "close": 239.87
+  },
+  {
+   "ticker": "BALL",
+   "name": "Ball Corporation",
+   "type": "golden",
+   "barTime": "2026-08-24T09:30",
+   "ema36": 62.6856,
+   "ema90": 62.6573,
+   "close": 64.42
+  },
+  {
+   "ticker": "BG",
+   "name": "Bunge Global",
+   "type": "death",
+   "barTime": "2026-08-24T13:30",
+   "ema36": 113.2466,
+   "ema90": 113.312,
+   "close": 109.43
+  },
+  {
+   "ticker": "CHD",
+   "name": "Church & Dwight",
+   "type": "golden",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 99.7334,
+   "ema90": 99.6925,
+   "close": 101.38
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike",
+   "type": "death",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 202.8598,
+   "ema90": 202.9496,
+   "close": 189.995
+  },
+  {
+   "ticker": "DD",
+   "name": "DuPont",
+   "type": "death",
+   "barTime": "2026-08-24T09:30",
+   "ema36": 140.826,
+   "ema90": 140.949,
+   "close": 136.7
+  },
+  {
+   "ticker": "DG",
+   "name": "Dollar General",
+   "type": "golden",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 122.6912,
+   "ema90": 122.6688,
+   "close": 124.37
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "death",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 148.7698,
+   "ema90": 148.8073,
+   "close": 148.29
+  },
+  {
+   "ticker": "EME",
+   "name": "Emcor",
+   "type": "death",
+   "barTime": "2026-08-24T13:30",
+   "ema36": 802.5458,
+   "ema90": 803.3737,
+   "close": 768.25
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "golden",
+   "barTime": "2026-08-24T15:30",
+   "ema36": 287.8153,
+   "ema90": 287.6169,
+   "close": 293.6
+  },
+  {
+   "ticker": "ETN",
+   "name": "Eaton Corporation",
+   "type": "death",
+   "barTime": "2026-08-24T15:30",
+   "ema36": 428.1238,
+   "ema90": 428.468,
+   "close": 408.71
+  },
+  {
+   "ticker": "FISV",
+   "name": "Fiserv",
+   "type": "golden",
+   "barTime": "2026-08-24T09:30",
+   "ema36": 52.5583,
+   "ema90": 52.5354,
+   "close": 53.235
+  },
+  {
+   "ticker": "HII",
+   "name": "Huntington Ingalls Industries",
+   "type": "death",
+   "barTime": "2026-08-24T13:30",
+   "ema36": 310.1605,
+   "ema90": 310.3986,
+   "close": 294.43
+  },
+  {
+   "ticker": "KHC",
+   "name": "Kraft Heinz",
+   "type": "golden",
+   "barTime": "2026-08-24T13:30",
+   "ema36": 25.3933,
+   "ema90": 25.3905,
+   "close": 25.635
+  },
+  {
+   "ticker": "KMB",
+   "name": "Kimberly-Clark",
+   "type": "golden",
+   "barTime": "2026-08-24T09:30",
+   "ema36": 109.3364,
+   "ema90": 109.2346,
+   "close": 111.865
+  },
+  {
+   "ticker": "KVUE",
+   "name": "Kenvue",
+   "type": "golden",
+   "barTime": "2026-08-24T13:30",
+   "ema36": 19.0991,
+   "ema90": 19.094,
+   "close": 19.3469
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "golden",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 119.9046,
+   "ema90": 119.9016,
+   "close": 121.04
+  },
+  {
+   "ticker": "PWR",
+   "name": "Quanta Services",
+   "type": "death",
+   "barTime": "2026-08-24T09:30",
+   "ema36": 669.0032,
+   "ema90": 669.9126,
+   "close": 612.01
+  },
+  {
+   "ticker": "SBAC",
+   "name": "SBA Communications",
+   "type": "golden",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 182.6068,
+   "ema90": 182.5295,
+   "close": 184.955
+  },
+  {
+   "ticker": "STX",
+   "name": "Seagate Technology",
+   "type": "death",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 867.8461,
+   "ema90": 868.6512,
+   "close": 794.495
+  },
+  {
+   "ticker": "URI",
+   "name": "United Rentals",
+   "type": "death",
+   "barTime": "2026-08-24T13:30",
+   "ema36": 1116.0957,
+   "ema90": 1116.6717,
+   "close": 1084.91
+  },
+  {
+   "ticker": "VRSN",
+   "name": "Verisign",
+   "type": "golden",
+   "barTime": "2026-08-24T11:30",
+   "ema36": 282.0835,
+   "ema90": 281.9142,
+   "close": 291.47
+  },
+  {
+   "ticker": "VTR",
+   "name": "Ventas",
+   "type": "golden",
+   "barTime": "2026-08-24T15:30",
+   "ema36": 92.2666,
+   "ema90": 92.2507,
+   "close": 93.48
+  },
+  {
+   "ticker": "YUM",
+   "name": "Yum! Brands",
+   "type": "golden",
+   "barTime": "2026-08-24T15:30",
+   "ema36": 150.4522,
+   "ema90": 150.4335,
+   "close": 157.36
+  }
+ ],
+ "bb": []
+}
