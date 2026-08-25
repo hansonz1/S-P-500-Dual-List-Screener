@@ -1,0 +1,148 @@
+{
+ "date": "2026-08-25",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AES",
+   "name": "AES Corporation",
+   "type": "death",
+   "barTime": "2026-08-25T13:30",
+   "ema36": 14.7428,
+   "ema90": 14.7429,
+   "close": 14.725
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "golden",
+   "barTime": "2026-08-25T11:30",
+   "ema36": 68.4744,
+   "ema90": 68.4581,
+   "close": 71.59
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "golden",
+   "barTime": "2026-08-25T13:30",
+   "ema36": 148.9039,
+   "ema90": 148.8441,
+   "close": 150.24
+  },
+  {
+   "ticker": "EG",
+   "name": "Everest Group",
+   "type": "golden",
+   "barTime": "2026-08-25T11:30",
+   "ema36": 370.8095,
+   "ema90": 370.6913,
+   "close": 375.38
+  },
+  {
+   "ticker": "FERG",
+   "name": "Ferguson Enterprises",
+   "type": "death",
+   "barTime": "2026-08-25T09:30",
+   "ema36": 242.7155,
+   "ema90": 242.786,
+   "close": 233.7
+  },
+  {
+   "ticker": "ISRG",
+   "name": "Intuitive Surgical",
+   "type": "death",
+   "barTime": "2026-08-25T13:30",
+   "ema36": 383.0355,
+   "ema90": 383.1458,
+   "close": 370.635
+  },
+  {
+   "ticker": "ITW",
+   "name": "Illinois Tool Works",
+   "type": "death",
+   "barTime": "2026-08-25T11:30",
+   "ema36": 285.6802,
+   "ema90": 285.8459,
+   "close": 281.26
+  },
+  {
+   "ticker": "KHC",
+   "name": "Kraft Heinz",
+   "type": "death",
+   "barTime": "2026-08-25T11:30",
+   "ema36": 25.3954,
+   "ema90": 25.3977,
+   "close": 25.255
+  },
+  {
+   "ticker": "KR",
+   "name": "Kroger",
+   "type": "golden",
+   "barTime": "2026-08-25T13:30",
+   "ema36": 57.3903,
+   "ema90": 57.3819,
+   "close": 58.395
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "death",
+   "barTime": "2026-08-25T13:30",
+   "ema36": 119.8309,
+   "ema90": 119.8606,
+   "close": 117.89
+  },
+  {
+   "ticker": "LVS",
+   "name": "Las Vegas Sands",
+   "type": "golden",
+   "barTime": "2026-08-25T13:30",
+   "ema36": 46.4617,
+   "ema90": 46.4417,
+   "close": 47.295
+  },
+  {
+   "ticker": "PCAR",
+   "name": "Paccar",
+   "type": "death",
+   "barTime": "2026-08-25T15:30",
+   "ema36": 130.0488,
+   "ema90": 130.0707,
+   "close": 129.2
+  },
+  {
+   "ticker": "SYK",
+   "name": "Stryker Corporation",
+   "type": "death",
+   "barTime": "2026-08-25T11:30",
+   "ema36": 333.7414,
+   "ema90": 333.7677,
+   "close": 330.6125
+  },
+  {
+   "ticker": "TER",
+   "name": "Teradyne",
+   "type": "death",
+   "barTime": "2026-08-25T13:30",
+   "ema36": 381.9244,
+   "ema90": 381.9622,
+   "close": 367.52
+  },
+  {
+   "ticker": "WYNN",
+   "name": "Wynn Resorts",
+   "type": "death",
+   "barTime": "2026-08-25T09:30",
+   "ema36": 100.5983,
+   "ema90": 100.6121,
+   "close": 98.39
+  }
+ ],
+ "bb": []
+}
