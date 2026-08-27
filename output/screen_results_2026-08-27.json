@@ -1,0 +1,85 @@
+{
+ "date": "2026-08-27",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "CDW",
+   "name": "CDW Corporation",
+   "type": "golden",
+   "barTime": "2026-08-26T11:30",
+   "ema36": 137.7515,
+   "ema90": 137.6527,
+   "close": 141.33
+  },
+  {
+   "ticker": "CTVA",
+   "name": "Corteva",
+   "type": "golden",
+   "barTime": "2026-08-26T11:30",
+   "ema36": 80.5798,
+   "ema90": 80.4957,
+   "close": 83.24
+  },
+  {
+   "ticker": "DG",
+   "name": "Dollar General",
+   "type": "golden",
+   "barTime": "2026-08-26T13:30",
+   "ema36": 122.786,
+   "ema90": 122.719,
+   "close": 123.47
+  },
+  {
+   "ticker": "EIX",
+   "name": "Edison International",
+   "type": "golden",
+   "barTime": "2026-08-26T09:30",
+   "ema36": 72.9877,
+   "ema90": 72.95,
+   "close": 74.58
+  },
+  {
+   "ticker": "LMT",
+   "name": "Lockheed Martin",
+   "type": "death",
+   "barTime": "2026-08-26T15:30",
+   "ema36": 575.2909,
+   "ema90": 575.3768,
+   "close": 565.39
+  },
+  {
+   "ticker": "LOW",
+   "name": "Lowe's",
+   "type": "death",
+   "barTime": "2026-08-26T15:30",
+   "ema36": 215.9039,
+   "ema90": 216.0267,
+   "close": 210.355
+  },
+  {
+   "ticker": "PANW",
+   "name": "Palo Alto Networks",
+   "type": "death",
+   "barTime": "2026-08-26T15:30",
+   "ema36": 354.2551,
+   "ema90": 354.3692,
+   "close": 339.54
+  },
+  {
+   "ticker": "PSA",
+   "name": "Public Storage",
+   "type": "death",
+   "barTime": "2026-08-26T09:30",
+   "ema36": 323.5482,
+   "ema90": 323.609,
+   "close": 321.23
+  }
+ ],
+ "bb": []
+}
