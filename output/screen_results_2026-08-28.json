@@ -1,0 +1,244 @@
+{
+ "date": "2026-08-28",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "BAC",
+   "name": "Bank of America",
+   "type": "death",
+   "barTime": "2026-08-27T15:30",
+   "ema36": 62.4693,
+   "ema90": 62.4868,
+   "close": 61.165
+  },
+  {
+   "ticker": "COO",
+   "name": "Cooper Companies (The)",
+   "type": "death",
+   "barTime": "2026-08-27T15:30",
+   "ema36": 74.1467,
+   "ema90": 74.1759,
+   "close": 70.95
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike",
+   "type": "golden",
+   "barTime": "2026-08-27T15:30",
+   "ema36": 202.4916,
+   "ema90": 201.78,
+   "close": 227.95
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "death",
+   "barTime": "2026-08-27T11:30",
+   "ema36": 148.8529,
+   "ema90": 148.8928,
+   "close": 146.08
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "death",
+   "barTime": "2026-08-27T13:30",
+   "ema36": 287.8554,
+   "ema90": 288.0025,
+   "close": 281.3
+  },
+  {
+   "ticker": "FICO",
+   "name": "Fair Isaac",
+   "type": "golden",
+   "barTime": "2026-08-27T09:30",
+   "ema36": 1134.6342,
+   "ema90": 1134.0463,
+   "close": 1169.83
+  },
+  {
+   "ticker": "FTNT",
+   "name": "Fortinet",
+   "type": "golden",
+   "barTime": "2026-08-27T13:30",
+   "ema36": 157.8679,
+   "ema90": 157.4739,
+   "close": 173.345
+  },
+  {
+   "ticker": "GD",
+   "name": "General Dynamics",
+   "type": "death",
+   "barTime": "2026-08-27T09:30",
+   "ema36": 384.888,
+   "ema90": 384.9278,
+   "close": 380.66
+  },
+  {
+   "ticker": "INVH",
+   "name": "Invitation Homes",
+   "type": "death",
+   "barTime": "2026-08-27T11:30",
+   "ema36": 30.0593,
+   "ema90": 30.063,
+   "close": 29.505
+  },
+  {
+   "ticker": "LVS",
+   "name": "Las Vegas Sands",
+   "type": "death",
+   "barTime": "2026-08-27T09:30",
+   "ema36": 46.4392,
+   "ema90": 46.4596,
+   "close": 45.74
+  },
+  {
+   "ticker": "NOC",
+   "name": "Northrop Grumman",
+   "type": "death",
+   "barTime": "2026-08-27T11:30",
+   "ema36": 558.2428,
+   "ema90": 558.4969,
+   "close": 546.765
+  },
+  {
+   "ticker": "NVR",
+   "name": "NVR, Inc.",
+   "type": "death",
+   "barTime": "2026-08-27T13:30",
+   "ema36": 6362.8141,
+   "ema90": 6362.8442,
+   "close": 6356.3599
+  },
+  {
+   "ticker": "ORLY",
+   "name": "O'Reilly Automotive",
+   "type": "death",
+   "barTime": "2026-08-27T09:30",
+   "ema36": 90.257,
+   "ema90": 90.286,
+   "close": 88.09
+  },
+  {
+   "ticker": "PANW",
+   "name": "Palo Alto Networks",
+   "type": "golden",
+   "barTime": "2026-08-27T09:30",
+   "ema36": 355.5897,
+   "ema90": 354.4756,
+   "close": 378.94
+  },
+  {
+   "ticker": "PHM",
+   "name": "PulteGroup",
+   "type": "death",
+   "barTime": "2026-08-27T13:30",
+   "ema36": 129.4292,
+   "ema90": 129.4626,
+   "close": 126.8375
+  },
+  {
+   "ticker": "RTX",
+   "name": "RTX Corporation",
+   "type": "death",
+   "barTime": "2026-08-27T09:30",
+   "ema36": 214.3875,
+   "ema90": 214.4189,
+   "close": 211.03
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "golden",
+   "barTime": "2026-08-27T09:30",
+   "ema36": 407.1578,
+   "ema90": 405.9367,
+   "close": 456.19
+  },
+  {
+   "ticker": "SYY",
+   "name": "Sysco",
+   "type": "death",
+   "barTime": "2026-08-27T13:30",
+   "ema36": 83.3265,
+   "ema90": 83.3421,
+   "close": 82.415
+  },
+  {
+   "ticker": "TMUS",
+   "name": "T-Mobile US",
+   "type": "death",
+   "barTime": "2026-08-27T13:30",
+   "ema36": 180.9006,
+   "ema90": 180.9178,
+   "close": 177.325
+  },
+  {
+   "ticker": "WMB",
+   "name": "Williams Companies",
+   "type": "golden",
+   "barTime": "2026-08-27T13:30",
+   "ema36": 72.8133,
+   "ema90": 72.7584,
+   "close": 74.595
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "CASY",
+   "name": "Casey's",
+   "type": "below",
+   "close": 763.03,
+   "upper": 912.1038,
+   "lower": 775.7897,
+   "beta": -0.9305,
+   "betaMean": -0.2687
+  },
+  {
+   "ticker": "CRM",
+   "name": "Salesforce",
+   "type": "above",
+   "close": 251.96,
+   "upper": 240.3487,
+   "lower": 155.2997,
+   "beta": 0.7031,
+   "betaMean": 0.29
+  },
+  {
+   "ticker": "HRL",
+   "name": "Hormel Foods",
+   "type": "below",
+   "close": 21.275,
+   "upper": 27.102,
+   "lower": 21.8832,
+   "beta": -0.3372,
+   "betaMean": -0.0827
+  },
+  {
+   "ticker": "MCD",
+   "name": "McDonald's",
+   "type": "below",
+   "close": 260.075,
+   "upper": 280.6421,
+   "lower": 260.2203,
+   "beta": -0.2662,
+   "betaMean": -0.0955
+  },
+  {
+   "ticker": "PSA",
+   "name": "Public Storage",
+   "type": "below",
+   "close": 311.05,
+   "upper": 336.9172,
+   "lower": 311.2936,
+   "beta": -0.0779,
+   "betaMean": 0.3114
+  }
+ ]
+}
