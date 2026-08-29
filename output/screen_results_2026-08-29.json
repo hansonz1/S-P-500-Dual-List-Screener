@@ -1,0 +1,166 @@
+{
+ "date": "2026-08-29",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AAPL",
+   "name": "Apple Inc.",
+   "type": "golden",
+   "barTime": "2026-08-28T09:30",
+   "ema36": 312.3724,
+   "ema90": 312.2677,
+   "close": 321.94
+  },
+  {
+   "ticker": "ACGL",
+   "name": "Arch Capital Group",
+   "type": "death",
+   "barTime": "2026-08-28T13:30",
+   "ema36": 99.5102,
+   "ema90": 99.5516,
+   "close": 98.33
+  },
+  {
+   "ticker": "AOS",
+   "name": "A. O. Smith",
+   "type": "death",
+   "barTime": "2026-08-28T15:30",
+   "ema36": 61.9342,
+   "ema90": 61.9812,
+   "close": 60.37
+  },
+  {
+   "ticker": "BAC",
+   "name": "Bank of America",
+   "type": "death",
+   "barTime": "2026-08-28T15:30",
+   "ema36": 62.4481,
+   "ema90": 62.4523,
+   "close": 62.33
+  },
+  {
+   "ticker": "BG",
+   "name": "Bunge Global",
+   "type": "golden",
+   "barTime": "2026-08-28T15:30",
+   "ema36": 112.959,
+   "ema90": 112.9487,
+   "close": 115.49
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "death",
+   "barTime": "2026-08-28T15:30",
+   "ema36": 48.7375,
+   "ema90": 48.7762,
+   "close": 46.84
+  },
+  {
+   "ticker": "DLR",
+   "name": "Digital Realty",
+   "type": "death",
+   "barTime": "2026-08-28T13:30",
+   "ema36": 191.8058,
+   "ema90": 191.8995,
+   "close": 184.92
+  },
+  {
+   "ticker": "EIX",
+   "name": "Edison International",
+   "type": "death",
+   "barTime": "2026-08-28T13:30",
+   "ema36": 73.0316,
+   "ema90": 73.0852,
+   "close": 70.6
+  },
+  {
+   "ticker": "IBM",
+   "name": "IBM",
+   "type": "golden",
+   "barTime": "2026-08-28T15:30",
+   "ema36": 234.6061,
+   "ema90": 234.5889,
+   "close": 235.6
+  },
+  {
+   "ticker": "IP",
+   "name": "International Paper",
+   "type": "death",
+   "barTime": "2026-08-28T15:30",
+   "ema36": 40.6024,
+   "ema90": 40.6105,
+   "close": 39.305
+  },
+  {
+   "ticker": "NVR",
+   "name": "NVR, Inc.",
+   "type": "golden",
+   "barTime": "2026-08-28T13:30",
+   "ema36": 6365.9034,
+   "ema90": 6365.3565,
+   "close": 6404.6401
+  },
+  {
+   "ticker": "PKG",
+   "name": "Packaging Corporation of America",
+   "type": "death",
+   "barTime": "2026-08-28T09:30",
+   "ema36": 248.9026,
+   "ema90": 248.9581,
+   "close": 241.35
+  },
+  {
+   "ticker": "SHW",
+   "name": "Sherwin-Williams",
+   "type": "death",
+   "barTime": "2026-08-28T11:30",
+   "ema36": 348.8491,
+   "ema90": 349.0476,
+   "close": 343.09
+  },
+  {
+   "ticker": "STZ",
+   "name": "Constellation Brands",
+   "type": "death",
+   "barTime": "2026-08-28T15:30",
+   "ema36": 133.6054,
+   "ema90": 133.6754,
+   "close": 130.68
+  },
+  {
+   "ticker": "TKO",
+   "name": "TKO Group Holdings",
+   "type": "death",
+   "barTime": "2026-08-28T09:30",
+   "ema36": 191.2628,
+   "ema90": 191.5162,
+   "close": 183.755
+  },
+  {
+   "ticker": "VRSK",
+   "name": "Verisk Analytics",
+   "type": "golden",
+   "barTime": "2026-08-28T13:30",
+   "ema36": 188.197,
+   "ema90": 188.135,
+   "close": 191.81
+  },
+  {
+   "ticker": "WST",
+   "name": "West Pharmaceutical Services",
+   "type": "death",
+   "barTime": "2026-08-28T11:30",
+   "ema36": 349.4598,
+   "ema90": 349.5962,
+   "close": 339.1191
+  }
+ ],
+ "bb": []
+}
