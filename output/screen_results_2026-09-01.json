@@ -1,0 +1,252 @@
+{
+ "date": "2026-09-01",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "BBY",
+   "name": "Best Buy",
+   "type": "death",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 84.6721,
+   "ema90": 84.8131,
+   "close": 79.89
+  },
+  {
+   "ticker": "BF-B",
+   "name": "Brown\u2013Forman",
+   "type": "death",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 27.7885,
+   "ema90": 27.8157,
+   "close": 26.89
+  },
+  {
+   "ticker": "BG",
+   "name": "Bunge Global",
+   "type": "golden",
+   "barTime": "2026-08-31T13:30",
+   "ema36": 113.1748,
+   "ema90": 113.0767,
+   "close": 115.24
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "death",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 48.7088,
+   "ema90": 48.7216,
+   "close": 48.195
+  },
+  {
+   "ticker": "CNC",
+   "name": "Centene Corporation",
+   "type": "death",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 65.1729,
+   "ema90": 65.176,
+   "close": 63.93
+  },
+  {
+   "ticker": "COST",
+   "name": "Costco",
+   "type": "death",
+   "barTime": "2026-08-31T13:30",
+   "ema36": 950.2291,
+   "ema90": 950.4335,
+   "close": 942.25
+  },
+  {
+   "ticker": "HLT",
+   "name": "Hilton Worldwide",
+   "type": "death",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 326.0915,
+   "ema90": 326.0981,
+   "close": 315.23
+  },
+  {
+   "ticker": "IEX",
+   "name": "IDEX Corporation",
+   "type": "death",
+   "barTime": "2026-08-31T13:30",
+   "ema36": 232.8156,
+   "ema90": 232.8934,
+   "close": 228.725
+  },
+  {
+   "ticker": "KHC",
+   "name": "Kraft Heinz",
+   "type": "golden",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 25.3298,
+   "ema90": 25.3244,
+   "close": 25.695
+  },
+  {
+   "ticker": "LEN",
+   "name": "Lennar",
+   "type": "death",
+   "barTime": "2026-08-31T13:30",
+   "ema36": 86.3192,
+   "ema90": 86.3847,
+   "close": 84.18
+  },
+  {
+   "ticker": "LLY",
+   "name": "Lilly (Eli)",
+   "type": "death",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 1202.9741,
+   "ema90": 1203.2546,
+   "close": 1157.9153
+  },
+  {
+   "ticker": "LYV",
+   "name": "Live Nation Entertainment",
+   "type": "death",
+   "barTime": "2026-08-31T09:30",
+   "ema36": 182.5694,
+   "ema90": 182.5933,
+   "close": 180.07
+  },
+  {
+   "ticker": "MMM",
+   "name": "3M",
+   "type": "death",
+   "barTime": "2026-08-31T15:30",
+   "ema36": 177.4391,
+   "ema90": 177.5464,
+   "close": 171.83
+  },
+  {
+   "ticker": "MNST",
+   "name": "Monster Beverage",
+   "type": "death",
+   "barTime": "2026-08-31T11:30",
+   "ema36": 47.2648,
+   "ema90": 47.2707,
+   "close": 46.015
+  },
+  {
+   "ticker": "NVR",
+   "name": "NVR, Inc.",
+   "type": "death",
+   "barTime": "2026-08-31T15:30",
+   "ema36": 6362.5596,
+   "ema90": 6363.2458,
+   "close": 6316.73
+  },
+  {
+   "ticker": "PCG",
+   "name": "PG&E Corporation",
+   "type": "death",
+   "barTime": "2026-08-31T09:30",
+   "ema36": 17.4842,
+   "ema90": 17.5612,
+   "close": 13.385
+  },
+  {
+   "ticker": "PH",
+   "name": "Parker Hannifin",
+   "type": "death",
+   "barTime": "2026-08-31T09:30",
+   "ema36": 1015.7695,
+   "ema90": 1016.7105,
+   "close": 977.06
+  },
+  {
+   "ticker": "PRU",
+   "name": "Prudential Financial",
+   "type": "death",
+   "barTime": "2026-08-31T09:30",
+   "ema36": 120.9719,
+   "ema90": 121.0308,
+   "close": 118.22
+  },
+  {
+   "ticker": "TAP",
+   "name": "Molson Coors Beverage Company",
+   "type": "death",
+   "barTime": "2026-08-31T13:30",
+   "ema36": 41.757,
+   "ema90": 41.8066,
+   "close": 39.725
+  },
+  {
+   "ticker": "TMUS",
+   "name": "T-Mobile US",
+   "type": "death",
+   "barTime": "2026-08-31T15:30",
+   "ema36": 180.7876,
+   "ema90": 180.789,
+   "close": 180.573
+  },
+  {
+   "ticker": "VTR",
+   "name": "Ventas",
+   "type": "death",
+   "barTime": "2026-08-31T13:30",
+   "ema36": 92.3936,
+   "ema90": 92.4043,
+   "close": 91.445
+  },
+  {
+   "ticker": "WSM",
+   "name": "Williams-Sonoma, Inc.",
+   "type": "death",
+   "barTime": "2026-08-31T09:30",
+   "ema36": 237.6652,
+   "ema90": 237.9589,
+   "close": 227.58
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "AON",
+   "name": "Aon plc",
+   "type": "below",
+   "close": 321.38,
+   "upper": 376.6097,
+   "lower": 331.0704,
+   "beta": -0.34,
+   "betaMean": -0.3104
+  },
+  {
+   "ticker": "IP",
+   "name": "International Paper",
+   "type": "below",
+   "close": 37.91,
+   "upper": 43.8384,
+   "lower": 38.1363,
+   "beta": 1.2229,
+   "betaMean": 1.3622
+  },
+  {
+   "ticker": "PKG",
+   "name": "Packaging Corporation of America",
+   "type": "below",
+   "close": 233.87,
+   "upper": 267.4578,
+   "lower": 234.523,
+   "beta": 0.7357,
+   "betaMean": 0.9647
+  },
+  {
+   "ticker": "TAP",
+   "name": "Molson Coors Beverage Company",
+   "type": "below",
+   "close": 39.755,
+   "upper": 44.1835,
+   "lower": 39.8134,
+   "beta": -0.4111,
+   "betaMean": -0.232
+  }
+ ]
+}
