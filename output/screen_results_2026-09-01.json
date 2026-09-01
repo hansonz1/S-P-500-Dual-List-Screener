@@ -9,244 +9,289 @@
  },
  "cross": [
   {
-   "ticker": "BBY",
-   "name": "Best Buy",
-   "type": "death",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 84.6721,
-   "ema90": 84.8131,
-   "close": 79.89
-  },
-  {
-   "ticker": "BF-B",
-   "name": "Brown\u2013Forman",
-   "type": "death",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 27.7885,
-   "ema90": 27.8157,
-   "close": 26.89
-  },
-  {
-   "ticker": "BG",
-   "name": "Bunge Global",
+   "ticker": "ADM",
+   "name": "Archer Daniels Midland",
    "type": "golden",
-   "barTime": "2026-08-31T13:30",
-   "ema36": 113.1748,
-   "ema90": 113.0767,
-   "close": 115.24
+   "barTime": "2026-09-01T09:30",
+   "ema36": 80.4571,
+   "ema90": 80.4485,
+   "close": 83.945
   },
   {
-   "ticker": "BSX",
-   "name": "Boston Scientific",
+   "ticker": "AES",
+   "name": "AES Corporation",
+   "type": "golden",
+   "barTime": "2026-09-01T13:30",
+   "ema36": 14.739,
+   "ema90": 14.7388,
+   "close": 14.785
+  },
+  {
+   "ticker": "ALL",
+   "name": "Allstate",
    "type": "death",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 48.7088,
-   "ema90": 48.7216,
-   "close": 48.195
+   "barTime": "2026-09-01T15:30",
+   "ema36": 258.9538,
+   "ema90": 258.9675,
+   "close": 257.89
+  },
+  {
+   "ticker": "ALLE",
+   "name": "Allegion",
+   "type": "death",
+   "barTime": "2026-09-01T11:30",
+   "ema36": 159.0669,
+   "ema90": 159.2148,
+   "close": 152.27
+  },
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "type": "death",
+   "barTime": "2026-09-01T15:30",
+   "ema36": 260.114,
+   "ema90": 260.2277,
+   "close": 254.92
+  },
+  {
+   "ticker": "AXON",
+   "name": "Axon Enterprise",
+   "type": "death",
+   "barTime": "2026-09-01T15:30",
+   "ema36": 585.043,
+   "ema90": 586.8558,
+   "close": 518.3
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "death",
+   "barTime": "2026-09-01T15:30",
+   "ema36": 68.8083,
+   "ema90": 68.8302,
+   "close": 67.08
+  },
+  {
+   "ticker": "CLX",
+   "name": "Clorox",
+   "type": "death",
+   "barTime": "2026-09-01T09:30",
+   "ema36": 103.2291,
+   "ema90": 103.3455,
+   "close": 98.08
   },
   {
    "ticker": "CNC",
    "name": "Centene Corporation",
    "type": "death",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 65.1729,
-   "ema90": 65.176,
-   "close": 63.93
+   "barTime": "2026-09-01T11:30",
+   "ema36": 65.1364,
+   "ema90": 65.1394,
+   "close": 65.25
   },
   {
-   "ticker": "COST",
-   "name": "Costco",
+   "ticker": "CSX",
+   "name": "CSX Corporation",
    "type": "death",
-   "barTime": "2026-08-31T13:30",
-   "ema36": 950.2291,
-   "ema90": 950.4335,
-   "close": 942.25
+   "barTime": "2026-09-01T13:30",
+   "ema36": 50.7093,
+   "ema90": 50.7217,
+   "close": 48.39
   },
   {
-   "ticker": "HLT",
-   "name": "Hilton Worldwide",
+   "ticker": "DOW",
+   "name": "Dow Inc.",
    "type": "death",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 326.0915,
-   "ema90": 326.0981,
-   "close": 315.23
+   "barTime": "2026-09-01T11:30",
+   "ema36": 30.7322,
+   "ema90": 30.7501,
+   "close": 30.235
   },
   {
-   "ticker": "IEX",
-   "name": "IDEX Corporation",
+   "ticker": "EMR",
+   "name": "Emerson Electric",
    "type": "death",
-   "barTime": "2026-08-31T13:30",
-   "ema36": 232.8156,
-   "ema90": 232.8934,
-   "close": 228.725
+   "barTime": "2026-09-01T13:30",
+   "ema36": 155.0991,
+   "ema90": 155.2353,
+   "close": 147.73
   },
   {
-   "ticker": "KHC",
-   "name": "Kraft Heinz",
+   "ticker": "EQIX",
+   "name": "Equinix",
+   "type": "death",
+   "barTime": "2026-09-01T09:30",
+   "ema36": 1060.9693,
+   "ema90": 1061.4154,
+   "close": 1035.88
+  },
+  {
+   "ticker": "FICO",
+   "name": "Fair Isaac",
+   "type": "death",
+   "barTime": "2026-09-01T13:30",
+   "ema36": 1135.9146,
+   "ema90": 1136.5537,
+   "close": 1096.25
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "death",
+   "barTime": "2026-09-01T11:30",
+   "ema36": 289.6509,
+   "ema90": 289.7713,
+   "close": 276.71
+  },
+  {
+   "ticker": "HSY",
+   "name": "Hershey Company (The)",
+   "type": "death",
+   "barTime": "2026-09-01T09:30",
+   "ema36": 182.1999,
+   "ema90": 182.2214,
+   "close": 177.6775
+  },
+  {
+   "ticker": "IBM",
+   "name": "IBM",
+   "type": "death",
+   "barTime": "2026-09-01T09:30",
+   "ema36": 234.3908,
+   "ema90": 234.4871,
+   "close": 231.2419
+  },
+  {
+   "ticker": "KMB",
+   "name": "Kimberly-Clark",
+   "type": "death",
+   "barTime": "2026-09-01T11:30",
+   "ema36": 109.3889,
+   "ema90": 109.4787,
+   "close": 107.15
+  },
+  {
+   "ticker": "KVUE",
+   "name": "Kenvue",
+   "type": "death",
+   "barTime": "2026-09-01T09:30",
+   "ema36": 19.1171,
+   "ema90": 19.1188,
+   "close": 18.92
+  },
+  {
+   "ticker": "MO",
+   "name": "Altria",
    "type": "golden",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 25.3298,
-   "ema90": 25.3244,
-   "close": 25.695
+   "barTime": "2026-09-01T11:30",
+   "ema36": 68.0549,
+   "ema90": 68.027,
+   "close": 70.21
   },
   {
-   "ticker": "LEN",
-   "name": "Lennar",
+   "ticker": "PYPL",
+   "name": "PayPal",
    "type": "death",
-   "barTime": "2026-08-31T13:30",
-   "ema36": 86.3192,
-   "ema90": 86.3847,
-   "close": 84.18
+   "barTime": "2026-09-01T09:30",
+   "ema36": 58.2079,
+   "ema90": 58.2373,
+   "close": 52.695
   },
   {
-   "ticker": "LLY",
-   "name": "Lilly (Eli)",
+   "ticker": "SW",
+   "name": "Smurfit Westrock",
    "type": "death",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 1202.9741,
-   "ema90": 1203.2546,
-   "close": 1157.9153
+   "barTime": "2026-09-01T15:30",
+   "ema36": 47.9213,
+   "ema90": 47.9336,
+   "close": 45.43
   },
   {
-   "ticker": "LYV",
-   "name": "Live Nation Entertainment",
+   "ticker": "SWK",
+   "name": "Stanley Black & Decker",
    "type": "death",
-   "barTime": "2026-08-31T09:30",
-   "ema36": 182.5694,
-   "ema90": 182.5933,
-   "close": 180.07
-  },
-  {
-   "ticker": "MMM",
-   "name": "3M",
-   "type": "death",
-   "barTime": "2026-08-31T15:30",
-   "ema36": 177.4391,
-   "ema90": 177.5464,
-   "close": 171.83
-  },
-  {
-   "ticker": "MNST",
-   "name": "Monster Beverage",
-   "type": "death",
-   "barTime": "2026-08-31T11:30",
-   "ema36": 47.2648,
-   "ema90": 47.2707,
-   "close": 46.015
-  },
-  {
-   "ticker": "NVR",
-   "name": "NVR, Inc.",
-   "type": "death",
-   "barTime": "2026-08-31T15:30",
-   "ema36": 6362.5596,
-   "ema90": 6363.2458,
-   "close": 6316.73
-  },
-  {
-   "ticker": "PCG",
-   "name": "PG&E Corporation",
-   "type": "death",
-   "barTime": "2026-08-31T09:30",
-   "ema36": 17.4842,
-   "ema90": 17.5612,
-   "close": 13.385
-  },
-  {
-   "ticker": "PH",
-   "name": "Parker Hannifin",
-   "type": "death",
-   "barTime": "2026-08-31T09:30",
-   "ema36": 1015.7695,
-   "ema90": 1016.7105,
-   "close": 977.06
-  },
-  {
-   "ticker": "PRU",
-   "name": "Prudential Financial",
-   "type": "death",
-   "barTime": "2026-08-31T09:30",
-   "ema36": 120.9719,
-   "ema90": 121.0308,
-   "close": 118.22
-  },
-  {
-   "ticker": "TAP",
-   "name": "Molson Coors Beverage Company",
-   "type": "death",
-   "barTime": "2026-08-31T13:30",
-   "ema36": 41.757,
-   "ema90": 41.8066,
-   "close": 39.725
+   "barTime": "2026-09-01T13:30",
+   "ema36": 97.8973,
+   "ema90": 97.9248,
+   "close": 94.72
   },
   {
    "ticker": "TMUS",
    "name": "T-Mobile US",
+   "type": "golden",
+   "barTime": "2026-09-01T09:30",
+   "ema36": 180.8429,
+   "ema90": 180.8091,
+   "close": 181.81
+  },
+  {
+   "ticker": "TRV",
+   "name": "Travelers Companies (The)",
    "type": "death",
-   "barTime": "2026-08-31T15:30",
-   "ema36": 180.7876,
-   "ema90": 180.789,
-   "close": 180.573
+   "barTime": "2026-09-01T11:30",
+   "ema36": 368.5234,
+   "ema90": 368.5609,
+   "close": 364.95
   },
   {
    "ticker": "VTR",
    "name": "Ventas",
    "type": "death",
-   "barTime": "2026-08-31T13:30",
-   "ema36": 92.3936,
-   "ema90": 92.4043,
-   "close": 91.445
+   "barTime": "2026-09-01T13:30",
+   "ema36": 92.3767,
+   "ema90": 92.4003,
+   "close": 92.045
   },
   {
-   "ticker": "WSM",
-   "name": "Williams-Sonoma, Inc.",
+   "ticker": "WAB",
+   "name": "Wabtec",
    "type": "death",
-   "barTime": "2026-08-31T09:30",
-   "ema36": 237.6652,
-   "ema90": 237.9589,
-   "close": 227.58
+   "barTime": "2026-09-01T13:30",
+   "ema36": 292.2132,
+   "ema90": 292.5088,
+   "close": 279.505
   }
  ],
  "bb": [
   {
-   "ticker": "AON",
-   "name": "Aon plc",
+   "ticker": "FTV",
+   "name": "Fortive",
    "type": "below",
-   "close": 321.38,
-   "upper": 376.6097,
-   "lower": 331.0704,
-   "beta": -0.34,
-   "betaMean": -0.3104
+   "close": 56.81,
+   "upper": 63.6835,
+   "lower": 57.0084,
+   "beta": 0.4383,
+   "betaMean": 0.5261
   },
   {
    "ticker": "IP",
    "name": "International Paper",
    "type": "below",
-   "close": 37.91,
-   "upper": 43.8384,
-   "lower": 38.1363,
-   "beta": 1.2229,
-   "betaMean": 1.3622
+   "close": 36.47,
+   "upper": 44.4676,
+   "lower": 37.0244,
+   "beta": 1.2621,
+   "betaMean": 1.3554
   },
   {
    "ticker": "PKG",
    "name": "Packaging Corporation of America",
    "type": "below",
-   "close": 233.87,
-   "upper": 267.4578,
-   "lower": 234.523,
-   "beta": 0.7357,
-   "betaMean": 0.9647
+   "close": 229.11,
+   "upper": 270.8822,
+   "lower": 229.6791,
+   "beta": 0.7479,
+   "betaMean": 0.9574
   },
   {
-   "ticker": "TAP",
-   "name": "Molson Coors Beverage Company",
+   "ticker": "WAB",
+   "name": "Wabtec",
    "type": "below",
-   "close": 39.755,
-   "upper": 44.1835,
-   "lower": 39.8134,
-   "beta": -0.4111,
-   "betaMean": -0.232
+   "close": 279.84,
+   "upper": 308.7983,
+   "lower": 281.322,
+   "beta": 0.7904,
+   "betaMean": 1.0988
   }
  ]
 }
