@@ -1,0 +1,166 @@
+{
+ "date": "2026-09-02",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ALL",
+   "name": "Allstate",
+   "type": "golden",
+   "barTime": "2026-09-02T09:30",
+   "ema36": 259.0025,
+   "ema90": 258.9757,
+   "close": 259.76
+  },
+  {
+   "ticker": "BEN",
+   "name": "Franklin Resources",
+   "type": "death",
+   "barTime": "2026-09-02T15:30",
+   "ema36": 34.0327,
+   "ema90": 34.0446,
+   "close": 33.03
+  },
+  {
+   "ticker": "CBRE",
+   "name": "CBRE Group",
+   "type": "death",
+   "barTime": "2026-09-02T13:30",
+   "ema36": 147.952,
+   "ema90": 148.0998,
+   "close": 141.845
+  },
+  {
+   "ticker": "CNC",
+   "name": "Centene Corporation",
+   "type": "golden",
+   "barTime": "2026-09-02T09:30",
+   "ema36": 65.2003,
+   "ema90": 65.1406,
+   "close": 66.505
+  },
+  {
+   "ticker": "DOW",
+   "name": "Dow Inc.",
+   "type": "golden",
+   "barTime": "2026-09-02T09:30",
+   "ema36": 30.7367,
+   "ema90": 30.7228,
+   "close": 31.285
+  },
+  {
+   "ticker": "FAST",
+   "name": "Fastenal",
+   "type": "death",
+   "barTime": "2026-09-02T11:30",
+   "ema36": 49.9623,
+   "ema90": 50.0308,
+   "close": 47.895
+  },
+  {
+   "ticker": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "type": "death",
+   "barTime": "2026-09-02T11:30",
+   "ema36": 52.8218,
+   "ema90": 52.8813,
+   "close": 50.295
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "golden",
+   "barTime": "2026-09-02T13:30",
+   "ema36": 119.5111,
+   "ema90": 119.4867,
+   "close": 120.5
+  },
+  {
+   "ticker": "MRVL",
+   "name": "Marvell Technology",
+   "type": "death",
+   "barTime": "2026-09-02T09:30",
+   "ema36": 223.204,
+   "ema90": 223.2699,
+   "close": 205.92
+  },
+  {
+   "ticker": "NSC",
+   "name": "Norfolk Southern",
+   "type": "death",
+   "barTime": "2026-09-02T15:30",
+   "ema36": 341.718,
+   "ema90": 341.8196,
+   "close": 330.09
+  },
+  {
+   "ticker": "NTAP",
+   "name": "NetApp",
+   "type": "death",
+   "barTime": "2026-09-02T09:30",
+   "ema36": 188.5333,
+   "ema90": 188.6184,
+   "close": 182.28
+  },
+  {
+   "ticker": "NTRS",
+   "name": "Northern Trust",
+   "type": "death",
+   "barTime": "2026-09-02T15:30",
+   "ema36": 185.656,
+   "ema90": 185.7023,
+   "close": 184.01
+  },
+  {
+   "ticker": "PANW",
+   "name": "Palo Alto Networks",
+   "type": "death",
+   "barTime": "2026-09-02T15:30",
+   "ema36": 357.1268,
+   "ema90": 357.2008,
+   "close": 328.47
+  },
+  {
+   "ticker": "PG",
+   "name": "Procter & Gamble",
+   "type": "golden",
+   "barTime": "2026-09-02T11:30",
+   "ema36": 145.2178,
+   "ema90": 145.1897,
+   "close": 147.76
+  },
+  {
+   "ticker": "QCOM",
+   "name": "Qualcomm",
+   "type": "golden",
+   "barTime": "2026-09-02T11:30",
+   "ema36": 164.8244,
+   "ema90": 164.7247,
+   "close": 169.1
+  },
+  {
+   "ticker": "VTRS",
+   "name": "Viatris",
+   "type": "golden",
+   "barTime": "2026-09-02T15:30",
+   "ema36": 16.6583,
+   "ema90": 16.6443,
+   "close": 17.095
+  },
+  {
+   "ticker": "WFC",
+   "name": "Wells Fargo",
+   "type": "golden",
+   "barTime": "2026-09-02T11:30",
+   "ema36": 86.3482,
+   "ema90": 86.3365,
+   "close": 88.935
+  }
+ ],
+ "bb": []
+}
