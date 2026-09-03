@@ -1,0 +1,195 @@
+{
+ "date": "2026-09-03",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "BAC",
+   "name": "Bank of America",
+   "type": "golden",
+   "barTime": "2026-09-03T11:30",
+   "ema36": 62.4441,
+   "ema90": 62.4332,
+   "close": 63.06
+  },
+  {
+   "ticker": "BBY",
+   "name": "Best Buy",
+   "type": "golden",
+   "barTime": "2026-09-03T09:30",
+   "ema36": 84.5964,
+   "ema90": 84.5338,
+   "close": 87.8
+  },
+  {
+   "ticker": "BKNG",
+   "name": "Booking Holdings",
+   "type": "death",
+   "barTime": "2026-09-03T11:30",
+   "ema36": 203.2388,
+   "ema90": 203.446,
+   "close": 196.5614
+  },
+  {
+   "ticker": "BRK-B",
+   "name": "Berkshire Hathaway",
+   "type": "golden",
+   "barTime": "2026-09-03T15:30",
+   "ema36": 505.0375,
+   "ema90": 504.9753,
+   "close": 508.0
+  },
+  {
+   "ticker": "CHD",
+   "name": "Church & Dwight",
+   "type": "death",
+   "barTime": "2026-09-03T13:30",
+   "ema36": 100.2834,
+   "ema90": 100.2916,
+   "close": 98.43
+  },
+  {
+   "ticker": "CI",
+   "name": "Cigna",
+   "type": "golden",
+   "barTime": "2026-09-03T11:30",
+   "ema36": 280.501,
+   "ema90": 280.3855,
+   "close": 285.8175
+  },
+  {
+   "ticker": "DOW",
+   "name": "Dow Inc.",
+   "type": "death",
+   "barTime": "2026-09-03T15:30",
+   "ema36": 30.7594,
+   "ema90": 30.7637,
+   "close": 30.35
+  },
+  {
+   "ticker": "FISV",
+   "name": "Fiserv",
+   "type": "death",
+   "barTime": "2026-09-03T09:30",
+   "ema36": 52.5781,
+   "ema90": 52.596,
+   "close": 51.955
+  },
+  {
+   "ticker": "KMI",
+   "name": "Kinder Morgan",
+   "type": "death",
+   "barTime": "2026-09-03T15:30",
+   "ema36": 31.8144,
+   "ema90": 31.8191,
+   "close": 31.615
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "golden",
+   "barTime": "2026-09-03T13:30",
+   "ema36": 119.6052,
+   "ema90": 119.5239,
+   "close": 121.87
+  },
+  {
+   "ticker": "MDLZ",
+   "name": "Mondelez International",
+   "type": "death",
+   "barTime": "2026-09-03T09:30",
+   "ema36": 62.5924,
+   "ema90": 62.6085,
+   "close": 61.36
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms",
+   "type": "golden",
+   "barTime": "2026-09-03T09:30",
+   "ema36": 578.631,
+   "ema90": 578.4921,
+   "close": 617.515
+  },
+  {
+   "ticker": "MTD",
+   "name": "Mettler Toledo",
+   "type": "death",
+   "barTime": "2026-09-03T09:30",
+   "ema36": 1390.5923,
+   "ema90": 1392.1195,
+   "close": 1351.3
+  },
+  {
+   "ticker": "NTRS",
+   "name": "Northern Trust",
+   "type": "golden",
+   "barTime": "2026-09-03T09:30",
+   "ema36": 185.7054,
+   "ema90": 185.6825,
+   "close": 186.57
+  },
+  {
+   "ticker": "NUE",
+   "name": "Nucor",
+   "type": "golden",
+   "barTime": "2026-09-03T15:30",
+   "ema36": 255.8757,
+   "ema90": 255.7587,
+   "close": 262.39
+  },
+  {
+   "ticker": "PFG",
+   "name": "Principal Financial Group",
+   "type": "golden",
+   "barTime": "2026-09-03T13:30",
+   "ema36": 112.3852,
+   "ema90": 112.2928,
+   "close": 118.085
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "death",
+   "barTime": "2026-09-03T13:30",
+   "ema36": 189.5563,
+   "ema90": 189.619,
+   "close": 187.41
+  },
+  {
+   "ticker": "TRV",
+   "name": "Travelers Companies (The)",
+   "type": "golden",
+   "barTime": "2026-09-03T11:30",
+   "ema36": 368.4238,
+   "ema90": 368.3079,
+   "close": 376.04
+  },
+  {
+   "ticker": "UNP",
+   "name": "Union Pacific Corporation",
+   "type": "death",
+   "barTime": "2026-09-03T11:30",
+   "ema36": 299.1186,
+   "ema90": 299.2438,
+   "close": 291.635
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "TSN",
+   "name": "Tyson Foods",
+   "type": "below",
+   "close": 51.765,
+   "upper": 61.9799,
+   "lower": 51.9527,
+   "beta": -0.4431,
+   "betaMean": -0.2551
+  }
+ ]
+}
