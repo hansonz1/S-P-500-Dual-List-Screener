@@ -1,0 +1,159 @@
+{
+ "date": "2026-09-04",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADSK",
+   "name": "Autodesk",
+   "type": "death",
+   "barTime": "2026-09-04T13:30",
+   "ema36": 245.2564,
+   "ema90": 245.5322,
+   "close": 219.34
+  },
+  {
+   "ticker": "AMCR",
+   "name": "Amcor",
+   "type": "death",
+   "barTime": "2026-09-04T13:30",
+   "ema36": 46.293,
+   "ema90": 46.3017,
+   "close": 45.1
+  },
+  {
+   "ticker": "APH",
+   "name": "Amphenol",
+   "type": "golden",
+   "barTime": "2026-09-04T13:30",
+   "ema36": 80.6175,
+   "ema90": 80.5743,
+   "close": 82.65
+  },
+  {
+   "ticker": "BEN",
+   "name": "Franklin Resources",
+   "type": "golden",
+   "barTime": "2026-09-04T11:30",
+   "ema36": 33.9886,
+   "ema90": 33.9849,
+   "close": 34.78
+  },
+  {
+   "ticker": "C",
+   "name": "Citigroup",
+   "type": "golden",
+   "barTime": "2026-09-04T11:30",
+   "ema36": 134.4477,
+   "ema90": 134.3332,
+   "close": 137.6501
+  },
+  {
+   "ticker": "CTAS",
+   "name": "Cintas",
+   "type": "death",
+   "barTime": "2026-09-04T11:30",
+   "ema36": 201.6048,
+   "ema90": 201.6427,
+   "close": 200.09
+  },
+  {
+   "ticker": "EXPE",
+   "name": "Expedia Group",
+   "type": "death",
+   "barTime": "2026-09-04T15:30",
+   "ema36": 313.0798,
+   "ema90": 313.4987,
+   "close": 297.86
+  },
+  {
+   "ticker": "F",
+   "name": "Ford Motor Company",
+   "type": "golden",
+   "barTime": "2026-09-04T11:30",
+   "ema36": 14.109,
+   "ema90": 14.1043,
+   "close": 14.545
+  },
+  {
+   "ticker": "FDX",
+   "name": "FedEx",
+   "type": "death",
+   "barTime": "2026-09-04T15:30",
+   "ema36": 325.328,
+   "ema90": 325.3687,
+   "close": 322.44
+  },
+  {
+   "ticker": "FISV",
+   "name": "Fiserv",
+   "type": "golden",
+   "barTime": "2026-09-04T11:30",
+   "ema36": 52.6045,
+   "ema90": 52.5547,
+   "close": 53.4
+  },
+  {
+   "ticker": "GEHC",
+   "name": "GE HealthCare",
+   "type": "death",
+   "barTime": "2026-09-04T13:30",
+   "ema36": 71.1472,
+   "ema90": 71.1772,
+   "close": 68.905
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "death",
+   "barTime": "2026-09-04T09:30",
+   "ema36": 118.6674,
+   "ema90": 119.1041,
+   "close": 100.19
+  },
+  {
+   "ticker": "PEP",
+   "name": "PepsiCo",
+   "type": "death",
+   "barTime": "2026-09-04T11:30",
+   "ema36": 140.4414,
+   "ema90": 140.4726,
+   "close": 137.75
+  },
+  {
+   "ticker": "PRU",
+   "name": "Prudential Financial",
+   "type": "golden",
+   "barTime": "2026-09-04T11:30",
+   "ema36": 120.736,
+   "ema90": 120.692,
+   "close": 123.13
+  },
+  {
+   "ticker": "STE",
+   "name": "Steris",
+   "type": "death",
+   "barTime": "2026-09-04T13:30",
+   "ema36": 231.0724,
+   "ema90": 231.2173,
+   "close": 224.94
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "KMB",
+   "name": "Kimberly-Clark",
+   "type": "below",
+   "close": 104.97,
+   "upper": 113.2097,
+   "lower": 105.0427,
+   "beta": -0.0895,
+   "betaMean": 0.0209
+  }
+ ]
+}
