@@ -1,0 +1,344 @@
+{
+ "date": "2026-09-08",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ABT",
+   "name": "Abbott Laboratories",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 109.7837,
+   "ema90": 109.8189,
+   "close": 105.575
+  },
+  {
+   "ticker": "ALL",
+   "name": "Allstate",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 259.1508,
+   "ema90": 259.2119,
+   "close": 253.5
+  },
+  {
+   "ticker": "AVY",
+   "name": "Avery Dennison",
+   "type": "death",
+   "barTime": "2026-09-08T11:30",
+   "ema36": 175.6502,
+   "ema90": 175.8163,
+   "close": 170.95
+  },
+  {
+   "ticker": "BALL",
+   "name": "Ball Corporation",
+   "type": "death",
+   "barTime": "2026-09-08T11:30",
+   "ema36": 63.006,
+   "ema90": 63.0531,
+   "close": 61.54
+  },
+  {
+   "ticker": "BAX",
+   "name": "Baxter International",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 25.8904,
+   "ema90": 25.9096,
+   "close": 24.745
+  },
+  {
+   "ticker": "BLK",
+   "name": "BlackRock",
+   "type": "death",
+   "barTime": "2026-09-08T11:30",
+   "ema36": 1134.923,
+   "ema90": 1135.9959,
+   "close": 1103.52
+  },
+  {
+   "ticker": "BX",
+   "name": "Blackstone Inc.",
+   "type": "death",
+   "barTime": "2026-09-08T13:30",
+   "ema36": 138.7979,
+   "ema90": 138.9271,
+   "close": 133.6
+  },
+  {
+   "ticker": "CCI",
+   "name": "Crown Castle",
+   "type": "golden",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 75.8924,
+   "ema90": 75.8891,
+   "close": 76.705
+  },
+  {
+   "ticker": "CI",
+   "name": "Cigna",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 280.5129,
+   "ema90": 280.5551,
+   "close": 275.84
+  },
+  {
+   "ticker": "DPZ",
+   "name": "Domino's",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 343.0831,
+   "ema90": 343.2251,
+   "close": 335.33
+  },
+  {
+   "ticker": "ECHO",
+   "name": "EchoStar",
+   "type": "golden",
+   "barTime": "2026-09-08T13:30",
+   "ema36": 88.6298,
+   "ema90": 88.5871,
+   "close": 93.24
+  },
+  {
+   "ticker": "EFX",
+   "name": "Equifax",
+   "type": "death",
+   "barTime": "2026-09-08T13:30",
+   "ema36": 183.9818,
+   "ema90": 184.0737,
+   "close": 172.345
+  },
+  {
+   "ticker": "EW",
+   "name": "Edwards Lifesciences",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 90.2434,
+   "ema90": 90.2685,
+   "close": 86.8
+  },
+  {
+   "ticker": "FISV",
+   "name": "Fiserv",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 52.5781,
+   "ema90": 52.5823,
+   "close": 51.2
+  },
+  {
+   "ticker": "FTNT",
+   "name": "Fortinet",
+   "type": "death",
+   "barTime": "2026-09-08T11:30",
+   "ema36": 158.7441,
+   "ema90": 158.7919,
+   "close": 156.57
+  },
+  {
+   "ticker": "HAS",
+   "name": "Hasbro",
+   "type": "death",
+   "barTime": "2026-09-08T13:30",
+   "ema36": 93.2919,
+   "ema90": 93.3117,
+   "close": 90.62
+  },
+  {
+   "ticker": "HCA",
+   "name": "HCA Healthcare",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 410.9892,
+   "ema90": 411.2881,
+   "close": 402.12
+  },
+  {
+   "ticker": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "type": "golden",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 52.5754,
+   "ema90": 52.5291,
+   "close": 54.835
+  },
+  {
+   "ticker": "KHC",
+   "name": "Kraft Heinz",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 25.4035,
+   "ema90": 25.4051,
+   "close": 24.665
+  },
+  {
+   "ticker": "MKC",
+   "name": "McCormick & Company",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 53.6935,
+   "ema90": 53.7405,
+   "close": 51.83
+  },
+  {
+   "ticker": "MRSH",
+   "name": "Marsh McLennan",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 188.6427,
+   "ema90": 188.8223,
+   "close": 180.77
+  },
+  {
+   "ticker": "MS",
+   "name": "Morgan Stanley",
+   "type": "golden",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 214.9577,
+   "ema90": 214.8854,
+   "close": 217.8325
+  },
+  {
+   "ticker": "OMC",
+   "name": "Omnicom Group",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 85.2346,
+   "ema90": 85.3155,
+   "close": 81.195
+  },
+  {
+   "ticker": "PRU",
+   "name": "Prudential Financial",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 120.7012,
+   "ema90": 120.7461,
+   "close": 119.42
+  },
+  {
+   "ticker": "PTC",
+   "name": "PTC Inc.",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 147.1272,
+   "ema90": 147.1734,
+   "close": 133.285
+  },
+  {
+   "ticker": "SBUX",
+   "name": "Starbucks",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 106.1042,
+   "ema90": 106.262,
+   "close": 102.68
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "death",
+   "barTime": "2026-09-08T11:30",
+   "ema36": 413.2692,
+   "ema90": 413.3176,
+   "close": 398.365
+  },
+  {
+   "ticker": "VRSK",
+   "name": "Verisk Analytics",
+   "type": "death",
+   "barTime": "2026-09-08T09:30",
+   "ema36": 188.5384,
+   "ema90": 188.814,
+   "close": 175.86
+  },
+  {
+   "ticker": "VST",
+   "name": "Vistra Corp.",
+   "type": "golden",
+   "barTime": "2026-09-08T13:30",
+   "ema36": 143.8374,
+   "ema90": 143.8124,
+   "close": 152.88
+  },
+  {
+   "ticker": "ZTS",
+   "name": "Zoetis",
+   "type": "death",
+   "barTime": "2026-09-08T15:30",
+   "ema36": 75.9336,
+   "ema90": 75.9936,
+   "close": 74.0
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "KMB",
+   "name": "Kimberly-Clark",
+   "type": "below",
+   "close": 102.93,
+   "upper": 114.0453,
+   "lower": 103.5672,
+   "beta": -0.0932,
+   "betaMean": 0.0142
+  },
+  {
+   "ticker": "KVUE",
+   "name": "Kenvue",
+   "type": "below",
+   "close": 18.405,
+   "upper": 19.6648,
+   "lower": 18.4119,
+   "beta": -0.1372,
+   "betaMean": -0.0165
+  },
+  {
+   "ticker": "NVR",
+   "name": "NVR, Inc.",
+   "type": "below",
+   "close": 6127.3101,
+   "upper": 6531.6532,
+   "lower": 6145.9345,
+   "beta": 0.6564,
+   "betaMean": 0.7373
+  },
+  {
+   "ticker": "STE",
+   "name": "Steris",
+   "type": "below",
+   "close": 218.48,
+   "upper": 247.555,
+   "lower": 219.2806,
+   "beta": 0.1114,
+   "betaMean": 0.2698
+  },
+  {
+   "ticker": "STZ",
+   "name": "Constellation Brands",
+   "type": "below",
+   "close": 121.01,
+   "upper": 142.7936,
+   "lower": 122.3569,
+   "beta": -0.2186,
+   "betaMean": -0.168
+  },
+  {
+   "ticker": "SYK",
+   "name": "Stryker Corporation",
+   "type": "below",
+   "close": 276.4,
+   "upper": 374.7859,
+   "lower": 281.7361,
+   "beta": 0.0447,
+   "betaMean": 0.0991
+  }
+ ]
+}
