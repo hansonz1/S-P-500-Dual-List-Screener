@@ -1,0 +1,286 @@
+{
+ "date": "2026-09-11",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ABNB",
+   "name": "Airbnb",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 177.2197,
+   "ema90": 177.2965,
+   "close": 169.089
+  },
+  {
+   "ticker": "ADP",
+   "name": "Automatic Data Processing",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 274.0743,
+   "ema90": 274.169,
+   "close": 267.085
+  },
+  {
+   "ticker": "BEN",
+   "name": "Franklin Resources",
+   "type": "death",
+   "barTime": "2026-09-11T15:30",
+   "ema36": 34.0511,
+   "ema90": 34.0647,
+   "close": 33.65
+  },
+  {
+   "ticker": "BKR",
+   "name": "Baker Hughes",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 62.5389,
+   "ema90": 62.6509,
+   "close": 57.9801
+  },
+  {
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "type": "death",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 65.4626,
+   "ema90": 65.49,
+   "close": 63.405
+  },
+  {
+   "ticker": "BR",
+   "name": "Broadridge Financial Solutions",
+   "type": "death",
+   "barTime": "2026-09-11T13:30",
+   "ema36": 172.6956,
+   "ema90": 172.8219,
+   "close": 167.98
+  },
+  {
+   "ticker": "DGX",
+   "name": "Quest Diagnostics",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 236.6022,
+   "ema90": 236.8606,
+   "close": 229.98
+  },
+  {
+   "ticker": "DHR",
+   "name": "Danaher Corporation",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 206.9502,
+   "ema90": 207.1951,
+   "close": 200.28
+  },
+  {
+   "ticker": "DXCM",
+   "name": "Dexcom",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 86.8759,
+   "ema90": 87.0003,
+   "close": 83.16
+  },
+  {
+   "ticker": "EG",
+   "name": "Everest Group",
+   "type": "death",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 374.0197,
+   "ema90": 374.0417,
+   "close": 370.22
+  },
+  {
+   "ticker": "FDS",
+   "name": "FactSet",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 290.3744,
+   "ema90": 291.0435,
+   "close": 258.555
+  },
+  {
+   "ticker": "FFIV",
+   "name": "F5, Inc.",
+   "type": "golden",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 398.0085,
+   "ema90": 397.6723,
+   "close": 412.33
+  },
+  {
+   "ticker": "HSIC",
+   "name": "Henry Schein",
+   "type": "death",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 88.9416,
+   "ema90": 88.9445,
+   "close": 87.73
+  },
+  {
+   "ticker": "KEYS",
+   "name": "Keysight Technologies",
+   "type": "golden",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 327.4422,
+   "ema90": 327.3756,
+   "close": 336.9
+  },
+  {
+   "ticker": "KR",
+   "name": "Kroger",
+   "type": "golden",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 57.6046,
+   "ema90": 57.5748,
+   "close": 58.52
+  },
+  {
+   "ticker": "LH",
+   "name": "Labcorp",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 323.854,
+   "ema90": 323.921,
+   "close": 306.545
+  },
+  {
+   "ticker": "MA",
+   "name": "Mastercard",
+   "type": "death",
+   "barTime": "2026-09-11T15:30",
+   "ema36": 575.4011,
+   "ema90": 575.4143,
+   "close": 569.19
+  },
+  {
+   "ticker": "NDSN",
+   "name": "Nordson Corporation",
+   "type": "death",
+   "barTime": "2026-09-11T15:30",
+   "ema36": 316.0065,
+   "ema90": 316.0247,
+   "close": 314.37
+  },
+  {
+   "ticker": "NTAP",
+   "name": "NetApp",
+   "type": "golden",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 187.1415,
+   "ema90": 187.0655,
+   "close": 194.99
+  },
+  {
+   "ticker": "NWS",
+   "name": "News Corp (Class B)",
+   "type": "death",
+   "barTime": "2026-09-11T13:30",
+   "ema36": 33.5531,
+   "ema90": 33.5547,
+   "close": 32.69
+  },
+  {
+   "ticker": "RJF",
+   "name": "Raymond James Financial",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 176.2893,
+   "ema90": 176.3705,
+   "close": 172.57
+  },
+  {
+   "ticker": "RMD",
+   "name": "ResMed|",
+   "type": "death",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 225.1985,
+   "ema90": 225.4043,
+   "close": 217.69
+  },
+  {
+   "ticker": "ROP",
+   "name": "Roper Technologies",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 403.1691,
+   "ema90": 403.5183,
+   "close": 387.66
+  },
+  {
+   "ticker": "SPGI",
+   "name": "S&P Global",
+   "type": "death",
+   "barTime": "2026-09-11T09:30",
+   "ema36": 428.3014,
+   "ema90": 428.3985,
+   "close": 410.37
+  },
+  {
+   "ticker": "TEL",
+   "name": "TE Connectivity",
+   "type": "golden",
+   "barTime": "2026-09-11T13:30",
+   "ema36": 206.4677,
+   "ema90": 206.4173,
+   "close": 212.47
+  },
+  {
+   "ticker": "TRV",
+   "name": "Travelers Companies (The)",
+   "type": "golden",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 368.4116,
+   "ema90": 368.3356,
+   "close": 374.01
+  },
+  {
+   "ticker": "TSCO",
+   "name": "Tractor Supply",
+   "type": "death",
+   "barTime": "2026-09-11T13:30",
+   "ema36": 34.3954,
+   "ema90": 34.4113,
+   "close": 33.12
+  },
+  {
+   "ticker": "WELL",
+   "name": "Welltower",
+   "type": "death",
+   "barTime": "2026-09-11T11:30",
+   "ema36": 237.5898,
+   "ema90": 237.6006,
+   "close": 236.02
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "HPQ",
+   "name": "HP Inc.",
+   "type": "above",
+   "close": 35.475,
+   "upper": 35.2541,
+   "lower": 26.0648,
+   "beta": 0.7058,
+   "betaMean": 0.6576
+  },
+  {
+   "ticker": "SWKS",
+   "name": "Skyworks Solutions",
+   "type": "above",
+   "close": 88.36,
+   "upper": 88.169,
+   "lower": 52.771,
+   "beta": 2.129,
+   "betaMean": 1.7782
+  }
+ ]
+}
