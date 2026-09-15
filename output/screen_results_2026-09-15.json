@@ -1,0 +1,213 @@
+{
+ "date": "2026-09-15",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADP",
+   "name": "Automatic Data Processing",
+   "type": "golden",
+   "barTime": "2026-09-15T09:30",
+   "ema36": 273.7657,
+   "ema90": 273.7564,
+   "close": 276.66
+  },
+  {
+   "ticker": "APH",
+   "name": "Amphenol",
+   "type": "death",
+   "barTime": "2026-09-15T09:30",
+   "ema36": 80.8719,
+   "ema90": 80.8783,
+   "close": 77.44
+  },
+  {
+   "ticker": "BNY",
+   "name": "BNY Mellon",
+   "type": "death",
+   "barTime": "2026-09-15T11:30",
+   "ema36": 161.1006,
+   "ema90": 161.1384,
+   "close": 154.535
+  },
+  {
+   "ticker": "CEG",
+   "name": "Constellation Energy",
+   "type": "death",
+   "barTime": "2026-09-15T15:30",
+   "ema36": 278.9496,
+   "ema90": 279.2859,
+   "close": 259.89
+  },
+  {
+   "ticker": "CHRW",
+   "name": "C.H. Robinson",
+   "type": "golden",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 152.2383,
+   "ema90": 152.191,
+   "close": 157.11
+  },
+  {
+   "ticker": "CPRT",
+   "name": "Copart",
+   "type": "death",
+   "barTime": "2026-09-15T11:30",
+   "ema36": 31.8769,
+   "ema90": 31.8881,
+   "close": 31.385
+  },
+  {
+   "ticker": "CVNA",
+   "name": "Carvana",
+   "type": "death",
+   "barTime": "2026-09-15T11:30",
+   "ema36": 71.6272,
+   "ema90": 71.6853,
+   "close": 67.735
+  },
+  {
+   "ticker": "DGX",
+   "name": "Quest Diagnostics",
+   "type": "golden",
+   "barTime": "2026-09-15T09:30",
+   "ema36": 236.9362,
+   "ema90": 236.62,
+   "close": 247.0
+  },
+  {
+   "ticker": "EXE",
+   "name": "Expand Energy",
+   "type": "death",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 96.1569,
+   "ema90": 96.2397,
+   "close": 94.07
+  },
+  {
+   "ticker": "GLW",
+   "name": "Corning Inc.",
+   "type": "death",
+   "barTime": "2026-09-15T11:30",
+   "ema36": 155.1912,
+   "ema90": 155.4725,
+   "close": 143.215
+  },
+  {
+   "ticker": "INCY",
+   "name": "Incyte",
+   "type": "death",
+   "barTime": "2026-09-15T09:30",
+   "ema36": 124.2733,
+   "ema90": 124.3073,
+   "close": 120.72
+  },
+  {
+   "ticker": "IVZ",
+   "name": "Invesco",
+   "type": "death",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 32.0063,
+   "ema90": 32.0319,
+   "close": 30.805
+  },
+  {
+   "ticker": "JBHT",
+   "name": "J.B. Hunt",
+   "type": "golden",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 269.6126,
+   "ema90": 269.5351,
+   "close": 273.64
+  },
+  {
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "type": "death",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 218.6795,
+   "ema90": 218.8442,
+   "close": 212.1364
+  },
+  {
+   "ticker": "PANW",
+   "name": "Palo Alto Networks",
+   "type": "golden",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 351.3493,
+   "ema90": 350.7335,
+   "close": 376.39
+  },
+  {
+   "ticker": "PG",
+   "name": "Procter & Gamble",
+   "type": "golden",
+   "barTime": "2026-09-15T11:30",
+   "ema36": 145.2504,
+   "ema90": 145.191,
+   "close": 147.0399
+  },
+  {
+   "ticker": "RMD",
+   "name": "ResMed|",
+   "type": "golden",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 225.2725,
+   "ema90": 225.1904,
+   "close": 231.32
+  },
+  {
+   "ticker": "SBAC",
+   "name": "SBA Communications",
+   "type": "death",
+   "barTime": "2026-09-15T11:30",
+   "ema36": 185.4294,
+   "ema90": 185.5817,
+   "close": 181.3399
+  },
+  {
+   "ticker": "TMUS",
+   "name": "T-Mobile US",
+   "type": "death",
+   "barTime": "2026-09-15T15:30",
+   "ema36": 181.5199,
+   "ema90": 181.5707,
+   "close": 180.49
+  },
+  {
+   "ticker": "WRB",
+   "name": "W. R. Berkley Corporation",
+   "type": "golden",
+   "barTime": "2026-09-15T13:30",
+   "ema36": 69.7607,
+   "ema90": 69.7553,
+   "close": 70.91
+  },
+  {
+   "ticker": "WST",
+   "name": "West Pharmaceutical Services",
+   "type": "golden",
+   "barTime": "2026-09-15T09:30",
+   "ema36": 345.9457,
+   "ema90": 345.3651,
+   "close": 365.19
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "KR",
+   "name": "Kroger",
+   "type": "above",
+   "close": 62.24,
+   "upper": 62.0797,
+   "lower": 53.7297,
+   "beta": -0.5215,
+   "betaMean": -0.7755
+  }
+ ]
+}
