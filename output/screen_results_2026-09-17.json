@@ -1,0 +1,150 @@
+{
+ "date": "2026-09-17",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "C",
+   "name": "Citigroup",
+   "type": "death",
+   "barTime": "2026-09-17T13:30",
+   "ema36": 135.2784,
+   "ema90": 135.3284,
+   "close": 132.82
+  },
+  {
+   "ticker": "COR",
+   "name": "Cencora",
+   "type": "death",
+   "barTime": "2026-09-17T13:30",
+   "ema36": 322.0956,
+   "ema90": 322.3013,
+   "close": 311.39
+  },
+  {
+   "ticker": "CTVA",
+   "name": "Corteva",
+   "type": "death",
+   "barTime": "2026-09-17T15:30",
+   "ema36": 83.4401,
+   "ema90": 83.4505,
+   "close": 81.52
+  },
+  {
+   "ticker": "DHR",
+   "name": "Danaher Corporation",
+   "type": "golden",
+   "barTime": "2026-09-17T11:30",
+   "ema36": 207.0,
+   "ema90": 206.8541,
+   "close": 211.305
+  },
+  {
+   "ticker": "DVA",
+   "name": "DaVita",
+   "type": "death",
+   "barTime": "2026-09-17T13:30",
+   "ema36": 186.4054,
+   "ema90": 186.5024,
+   "close": 183.13
+  },
+  {
+   "ticker": "FANG",
+   "name": "Diamondback Energy",
+   "type": "death",
+   "barTime": "2026-09-17T15:30",
+   "ema36": 201.3968,
+   "ema90": 201.4673,
+   "close": 196.93
+  },
+  {
+   "ticker": "HAL",
+   "name": "Halliburton",
+   "type": "death",
+   "barTime": "2026-09-17T13:30",
+   "ema36": 35.4554,
+   "ema90": 35.465,
+   "close": 33.955
+  },
+  {
+   "ticker": "ICE",
+   "name": "Intercontinental Exchange",
+   "type": "death",
+   "barTime": "2026-09-17T11:30",
+   "ema36": 156.8569,
+   "ema90": 156.9011,
+   "close": 153.785
+  },
+  {
+   "ticker": "INCY",
+   "name": "Incyte",
+   "type": "golden",
+   "barTime": "2026-09-17T13:30",
+   "ema36": 124.2205,
+   "ema90": 124.1437,
+   "close": 126.395
+  },
+  {
+   "ticker": "ISRG",
+   "name": "Intuitive Surgical",
+   "type": "golden",
+   "barTime": "2026-09-17T13:30",
+   "ema36": 373.6313,
+   "ema90": 373.2623,
+   "close": 385.5
+  },
+  {
+   "ticker": "KO",
+   "name": "Coca-Cola Company (The)",
+   "type": "death",
+   "barTime": "2026-09-17T15:30",
+   "ema36": 88.4271,
+   "ema90": 88.4289,
+   "close": 88.065
+  },
+  {
+   "ticker": "MSI",
+   "name": "Motorola Solutions",
+   "type": "death",
+   "barTime": "2026-09-17T09:30",
+   "ema36": 469.034,
+   "ema90": 469.1121,
+   "close": 461.3341
+  },
+  {
+   "ticker": "ORCL",
+   "name": "Oracle Corporation",
+   "type": "golden",
+   "barTime": "2026-09-17T09:30",
+   "ema36": 148.7708,
+   "ema90": 148.6596,
+   "close": 150.85
+  },
+  {
+   "ticker": "SLB",
+   "name": "Schlumberger",
+   "type": "death",
+   "barTime": "2026-09-17T11:30",
+   "ema36": 54.6942,
+   "ema90": 54.7688,
+   "close": 52.21
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "HSIC",
+   "name": "Henry Schein",
+   "type": "below",
+   "close": 85.015,
+   "upper": 92.8833,
+   "lower": 85.0691,
+   "beta": 0.3415,
+   "betaMean": 0.3956
+  }
+ ]
+}
