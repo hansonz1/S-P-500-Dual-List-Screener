@@ -1,0 +1,157 @@
+{
+ "date": "2026-09-18",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "VMRK"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADP",
+   "name": "Automatic Data Processing",
+   "type": "death",
+   "barTime": "2026-09-18T09:30",
+   "ema36": 273.8493,
+   "ema90": 273.8562,
+   "close": 271.68
+  },
+  {
+   "ticker": "AIZ",
+   "name": "Assurant",
+   "type": "death",
+   "barTime": "2026-09-18T11:30",
+   "ema36": 283.5691,
+   "ema90": 283.5784,
+   "close": 281.32
+  },
+  {
+   "ticker": "CI",
+   "name": "Cigna",
+   "type": "death",
+   "barTime": "2026-09-18T11:30",
+   "ema36": 281.1951,
+   "ema90": 281.2843,
+   "close": 275.605
+  },
+  {
+   "ticker": "DG",
+   "name": "Dollar General",
+   "type": "death",
+   "barTime": "2026-09-18T09:30",
+   "ema36": 125.6198,
+   "ema90": 125.7054,
+   "close": 123.705
+  },
+  {
+   "ticker": "DXCM",
+   "name": "Dexcom",
+   "type": "golden",
+   "barTime": "2026-09-18T09:30",
+   "ema36": 86.7912,
+   "ema90": 86.7023,
+   "close": 89.03
+  },
+  {
+   "ticker": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "type": "death",
+   "barTime": "2026-09-18T13:30",
+   "ema36": 96.7725,
+   "ema90": 96.807,
+   "close": 94.0628
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "type": "golden",
+   "barTime": "2026-09-18T13:30",
+   "ema36": 340.2096,
+   "ema90": 340.1271,
+   "close": 347.95
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "golden",
+   "barTime": "2026-09-18T11:30",
+   "ema36": 343.1282,
+   "ema90": 343.0733,
+   "close": 349.355
+  },
+  {
+   "ticker": "IFF",
+   "name": "International Flavors & Fragrances",
+   "type": "death",
+   "barTime": "2026-09-18T13:30",
+   "ema36": 84.5626,
+   "ema90": 84.5703,
+   "close": 82.76
+  },
+  {
+   "ticker": "KDP",
+   "name": "Keurig Dr Pepper",
+   "type": "death",
+   "barTime": "2026-09-18T11:30",
+   "ema36": 31.6998,
+   "ema90": 31.7052,
+   "close": 31.065
+  },
+  {
+   "ticker": "KEYS",
+   "name": "Keysight Technologies",
+   "type": "golden",
+   "barTime": "2026-09-18T15:30",
+   "ema36": 327.077,
+   "ema90": 326.9073,
+   "close": 335.0
+  },
+  {
+   "ticker": "LYB",
+   "name": "LyondellBasell",
+   "type": "death",
+   "barTime": "2026-09-18T15:30",
+   "ema36": 63.9429,
+   "ema90": 63.9936,
+   "close": 61.92
+  },
+  {
+   "ticker": "NWS",
+   "name": "News Corp (Class B)",
+   "type": "death",
+   "barTime": "2026-09-18T09:30",
+   "ema36": 33.515,
+   "ema90": 33.5426,
+   "close": 32.81
+  },
+  {
+   "ticker": "ORCL",
+   "name": "Oracle Corporation",
+   "type": "death",
+   "barTime": "2026-09-18T09:30",
+   "ema36": 148.7711,
+   "ema90": 148.7762,
+   "close": 145.63
+  },
+  {
+   "ticker": "PGR",
+   "name": "Progressive Corporation",
+   "type": "death",
+   "barTime": "2026-09-18T13:30",
+   "ema36": 217.2435,
+   "ema90": 217.3842,
+   "close": 212.995
+  },
+  {
+   "ticker": "TYL",
+   "name": "Tyler Technologies",
+   "type": "death",
+   "barTime": "2026-09-18T15:30",
+   "ema36": 347.2943,
+   "ema90": 347.3554,
+   "close": 337.63
+  }
+ ],
+ "bb": []
+}
