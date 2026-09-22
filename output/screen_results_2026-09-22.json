@@ -2,213 +2,239 @@
  "date": "2026-09-22",
  "stats": {
   "total": 503,
-  "ok": 502,
-  "failed": [
-   "VMRK"
-  ]
+  "ok": 503,
+  "failed": []
  },
  "cross": [
   {
-   "ticker": "ADI",
-   "name": "Analog Devices",
+   "ticker": "AKAM",
+   "name": "Akamai Technologies",
    "type": "golden",
-   "barTime": "2026-09-21T15:30",
-   "ema36": 368.7573,
-   "ema90": 368.514,
-   "close": 382.98
+   "barTime": "2026-09-22T13:30",
+   "ema36": 109.8087,
+   "ema90": 109.6587,
+   "close": 118.87
   },
   {
-   "ticker": "AWK",
-   "name": "American Water Works",
+   "ticker": "BG",
+   "name": "Bunge Global",
    "type": "death",
-   "barTime": "2026-09-21T11:30",
-   "ema36": 137.8142,
-   "ema90": 137.824,
-   "close": 135.37
+   "barTime": "2026-09-22T11:30",
+   "ema36": 117.597,
+   "ema90": 117.7618,
+   "close": 111.985
   },
   {
-   "ticker": "COHR",
-   "name": "Coherent Corp.",
+   "ticker": "CF",
+   "name": "CF Industries",
+   "type": "death",
+   "barTime": "2026-09-22T13:30",
+   "ema36": 129.2719,
+   "ema90": 129.4329,
+   "close": 121.09
+  },
+  {
+   "ticker": "CHRW",
+   "name": "C.H. Robinson",
+   "type": "death",
+   "barTime": "2026-09-22T13:30",
+   "ema36": 152.5451,
+   "ema90": 152.5903,
+   "close": 149.135
+  },
+  {
+   "ticker": "CME",
+   "name": "CME Group",
+   "type": "death",
+   "barTime": "2026-09-22T13:30",
+   "ema36": 274.4407,
+   "ema90": 274.513,
+   "close": 268.69
+  },
+  {
+   "ticker": "CNC",
+   "name": "Centene Corporation",
+   "type": "death",
+   "barTime": "2026-09-22T09:30",
+   "ema36": 66.0028,
+   "ema90": 66.029,
+   "close": 62.64
+  },
+  {
+   "ticker": "COP",
+   "name": "ConocoPhillips",
+   "type": "death",
+   "barTime": "2026-09-22T15:30",
+   "ema36": 131.8896,
+   "ema90": 131.9494,
+   "close": 125.26
+  },
+  {
+   "ticker": "EG",
+   "name": "Everest Group",
+   "type": "death",
+   "barTime": "2026-09-22T09:30",
+   "ema36": 374.984,
+   "ema90": 375.1712,
+   "close": 369.08
+  },
+  {
+   "ticker": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
    "type": "golden",
-   "barTime": "2026-09-21T09:30",
-   "ema36": 294.7536,
-   "ema90": 294.2945,
-   "close": 332.215
+   "barTime": "2026-09-22T13:30",
+   "ema36": 96.8154,
+   "ema90": 96.7238,
+   "close": 100.0625
   },
   {
-   "ticker": "CPAY",
-   "name": "Corpay",
-   "type": "death",
-   "barTime": "2026-09-21T09:30",
-   "ema36": 406.1531,
-   "ema90": 406.2836,
-   "close": 398.09
-  },
-  {
-   "ticker": "DDOG",
-   "name": "Datadog",
+   "ticker": "FCX",
+   "name": "Freeport-McMoRan",
    "type": "golden",
-   "barTime": "2026-09-21T15:30",
-   "ema36": 231.5777,
-   "ema90": 231.4058,
-   "close": 245.12
+   "barTime": "2026-09-22T13:30",
+   "ema36": 71.8425,
+   "ema90": 71.81,
+   "close": 74.29
   },
   {
-   "ticker": "DIS",
-   "name": "Walt Disney Company (The)",
+   "ticker": "FOX",
+   "name": "Fox Corporation (Class B)",
    "type": "death",
-   "barTime": "2026-09-21T09:30",
-   "ema36": 105.7777,
-   "ema90": 105.8255,
-   "close": 103.85
+   "barTime": "2026-09-22T09:30",
+   "ema36": 58.7659,
+   "ema90": 58.7823,
+   "close": 57.93
   },
   {
-   "ticker": "EOG",
-   "name": "EOG Resources",
+   "ticker": "GEN",
+   "name": "Gen Digital",
    "type": "death",
-   "barTime": "2026-09-21T11:30",
-   "ema36": 146.1056,
-   "ema90": 146.1833,
-   "close": 141.33
+   "barTime": "2026-09-22T13:30",
+   "ema36": 29.6103,
+   "ema90": 29.7021,
+   "close": 26.96
   },
   {
-   "ticker": "ETN",
-   "name": "Eaton Corporation",
+   "ticker": "IBM",
+   "name": "IBM",
+   "type": "death",
+   "barTime": "2026-09-22T09:30",
+   "ema36": 236.0975,
+   "ema90": 236.2411,
+   "close": 231.42
+  },
+  {
+   "ticker": "IFF",
+   "name": "International Flavors & Fragrances",
    "type": "golden",
-   "barTime": "2026-09-21T15:30",
-   "ema36": 414.0985,
-   "ema90": 413.6836,
-   "close": 435.42
+   "barTime": "2026-09-22T13:30",
+   "ema36": 84.5239,
+   "ema90": 84.5234,
+   "close": 85.925
   },
   {
-   "ticker": "FOXA",
-   "name": "Fox Corporation (Class A)",
+   "ticker": "NWSA",
+   "name": "News Corp (Class A)",
    "type": "death",
-   "barTime": "2026-09-21T15:30",
-   "ema36": 65.823,
-   "ema90": 65.8448,
-   "close": 64.8
+   "barTime": "2026-09-22T15:30",
+   "ema36": 29.8747,
+   "ema90": 29.8853,
+   "close": 29.25
   },
   {
-   "ticker": "HUM",
-   "name": "Humana",
-   "type": "death",
-   "barTime": "2026-09-21T09:30",
-   "ema36": 392.6756,
-   "ema90": 393.0368,
-   "close": 379.9
-  },
-  {
-   "ticker": "MTD",
-   "name": "Mettler Toledo",
+   "ticker": "ORCL",
+   "name": "Oracle Corporation",
    "type": "golden",
-   "barTime": "2026-09-21T11:30",
-   "ema36": 1365.1116,
-   "ema90": 1363.0806,
-   "close": 1426.22
+   "barTime": "2026-09-22T13:30",
+   "ema36": 148.7698,
+   "ema90": 148.7457,
+   "close": 150.22
   },
   {
-   "ticker": "NUE",
-   "name": "Nucor",
+   "ticker": "RMD",
+   "name": "ResMed|",
    "type": "death",
-   "barTime": "2026-09-21T09:30",
-   "ema36": 256.5538,
-   "ema90": 256.8666,
-   "close": 244.865
+   "barTime": "2026-09-22T15:30",
+   "ema36": 225.5992,
+   "ema90": 225.7177,
+   "close": 221.95
   },
   {
-   "ticker": "NVDA",
-   "name": "Nvidia",
+   "ticker": "STX",
+   "name": "Seagate Technology",
    "type": "golden",
-   "barTime": "2026-09-21T09:30",
-   "ema36": 218.7628,
-   "ema90": 218.6103,
-   "close": 224.86
+   "barTime": "2026-09-22T11:30",
+   "ema36": 839.2134,
+   "ema90": 839.1113,
+   "close": 901.645
   },
   {
-   "ticker": "OKE",
-   "name": "Oneok",
-   "type": "death",
-   "barTime": "2026-09-21T13:30",
-   "ema36": 94.3816,
-   "ema90": 94.4496,
-   "close": 91.895
+   "ticker": "TEL",
+   "name": "TE Connectivity",
+   "type": "golden",
+   "barTime": "2026-09-22T09:30",
+   "ema36": 206.3855,
+   "ema90": 206.3022,
+   "close": 211.52
   },
   {
-   "ticker": "OXY",
-   "name": "Occidental Petroleum",
-   "type": "death",
-   "barTime": "2026-09-21T15:30",
-   "ema36": 59.7541,
-   "ema90": 59.7893,
-   "close": 57.245
+   "ticker": "TER",
+   "name": "Teradyne",
+   "type": "golden",
+   "barTime": "2026-09-22T11:30",
+   "ema36": 363.5193,
+   "ema90": 363.2084,
+   "close": 394.3
   },
   {
-   "ticker": "RSG",
-   "name": "Republic Services",
+   "ticker": "TKO",
+   "name": "TKO Group Holdings",
    "type": "death",
-   "barTime": "2026-09-21T11:30",
-   "ema36": 220.7207,
-   "ema90": 220.7406,
-   "close": 215.72
+   "barTime": "2026-09-22T15:30",
+   "ema36": 190.1951,
+   "ema90": 190.2049,
+   "close": 188.89
   },
   {
-   "ticker": "V",
-   "name": "Visa Inc.",
-   "type": "death",
-   "barTime": "2026-09-21T09:30",
-   "ema36": 371.4614,
-   "ema90": 371.5069,
-   "close": 367.95
-  },
-  {
-   "ticker": "VZ",
-   "name": "Verizon",
-   "type": "death",
-   "barTime": "2026-09-21T15:30",
-   "ema36": 49.3217,
-   "ema90": 49.3797,
-   "close": 47.68
-  },
-  {
-   "ticker": "WFC",
-   "name": "Wells Fargo",
-   "type": "death",
-   "barTime": "2026-09-21T13:30",
-   "ema36": 87.6255,
-   "ema90": 87.6638,
-   "close": 86.47
-  },
-  {
-   "ticker": "WRB",
-   "name": "W. R. Berkley Corporation",
-   "type": "death",
-   "barTime": "2026-09-21T15:30",
-   "ema36": 69.8266,
-   "ema90": 69.8435,
-   "close": 68.77
+   "ticker": "ZBRA",
+   "name": "Zebra Technologies",
+   "type": "golden",
+   "barTime": "2026-09-22T11:30",
+   "ema36": 349.133,
+   "ema90": 348.8878,
+   "close": 359.32
   }
  ],
  "bb": [
   {
-   "ticker": "AKAM",
-   "name": "Akamai Technologies",
-   "type": "above",
-   "close": 117.42,
-   "upper": 116.4455,
-   "lower": 98.838,
-   "beta": 1.4801,
-   "betaMean": 1.4026
+   "ticker": "AIZ",
+   "name": "Assurant",
+   "type": "below",
+   "close": 271.02,
+   "upper": 293.1687,
+   "lower": 273.7277,
+   "beta": -0.0349,
+   "betaMean": 0.0935
   },
   {
-   "ticker": "WBD",
-   "name": "Warner Bros. Discovery",
+   "ticker": "AMP",
+   "name": "Ameriprise Financial",
+   "type": "below",
+   "close": 512.36,
+   "upper": 586.3391,
+   "lower": 517.8484,
+   "beta": 0.5885,
+   "betaMean": 0.6379
+  },
+  {
+   "ticker": "MRNA",
+   "name": "Moderna",
    "type": "above",
-   "close": 30.79,
-   "upper": 30.2011,
-   "lower": 26.7161,
-   "beta": 0.5241,
-   "betaMean": 0.313
+   "close": 182.57,
+   "upper": 181.3492,
+   "lower": 114.7462,
+   "beta": 3.5313,
+   "betaMean": 2.3403
   }
  ]
 }
