@@ -1,0 +1,213 @@
+{
+ "date": "2026-09-23",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AME",
+   "name": "Ametek",
+   "type": "golden",
+   "barTime": "2026-09-23T11:30",
+   "ema36": 239.3634,
+   "ema90": 239.1396,
+   "close": 247.8
+  },
+  {
+   "ticker": "AMT",
+   "name": "American Tower",
+   "type": "death",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 175.214,
+   "ema90": 175.3474,
+   "close": 170.71
+  },
+  {
+   "ticker": "APH",
+   "name": "Amphenol",
+   "type": "golden",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 80.4369,
+   "ema90": 80.4106,
+   "close": 82.215
+  },
+  {
+   "ticker": "CTSH",
+   "name": "Cognizant",
+   "type": "death",
+   "barTime": "2026-09-23T15:30",
+   "ema36": 60.3969,
+   "ema90": 60.4415,
+   "close": 59.15
+  },
+  {
+   "ticker": "FAST",
+   "name": "Fastenal",
+   "type": "golden",
+   "barTime": "2026-09-23T11:30",
+   "ema36": 49.4924,
+   "ema90": 49.4781,
+   "close": 50.95
+  },
+  {
+   "ticker": "GNRC",
+   "name": "Generac",
+   "type": "golden",
+   "barTime": "2026-09-23T11:30",
+   "ema36": 197.0114,
+   "ema90": 196.8101,
+   "close": 203.57
+  },
+  {
+   "ticker": "IT",
+   "name": "Gartner",
+   "type": "death",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 184.5797,
+   "ema90": 184.6328,
+   "close": 180.34
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "golden",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 143.4967,
+   "ema90": 143.434,
+   "close": 146.3
+  },
+  {
+   "ticker": "MPWR",
+   "name": "Monolithic Power Systems",
+   "type": "golden",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 1253.1051,
+   "ema90": 1252.8097,
+   "close": 1346.21
+  },
+  {
+   "ticker": "NDSN",
+   "name": "Nordson Corporation",
+   "type": "golden",
+   "barTime": "2026-09-23T11:30",
+   "ema36": 314.5853,
+   "ema90": 314.5762,
+   "close": 321.47
+  },
+  {
+   "ticker": "NXPI",
+   "name": "NXP Semiconductors",
+   "type": "golden",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 229.7828,
+   "ema90": 229.7544,
+   "close": 235.19
+  },
+  {
+   "ticker": "ORCL",
+   "name": "Oracle Corporation",
+   "type": "death",
+   "barTime": "2026-09-23T09:30",
+   "ema36": 148.7118,
+   "ema90": 148.7738,
+   "close": 147.365
+  },
+  {
+   "ticker": "PSKY",
+   "name": "Paramount Skydance Corporation",
+   "type": "death",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 10.457,
+   "ema90": 10.4571,
+   "close": 10.035
+  },
+  {
+   "ticker": "TGT",
+   "name": "Target Corporation",
+   "type": "death",
+   "barTime": "2026-09-23T15:30",
+   "ema36": 158.0463,
+   "ema90": 158.0541,
+   "close": 156.32
+  },
+  {
+   "ticker": "TKO",
+   "name": "TKO Group Holdings",
+   "type": "death",
+   "barTime": "2026-09-23T11:30",
+   "ema36": 190.1493,
+   "ema90": 190.1511,
+   "close": 189.39
+  },
+  {
+   "ticker": "TRMB",
+   "name": "Trimble Inc.",
+   "type": "golden",
+   "barTime": "2026-09-23T11:30",
+   "ema36": 58.4055,
+   "ema90": 58.3908,
+   "close": 59.535
+  },
+  {
+   "ticker": "TRV",
+   "name": "Travelers Companies (The)",
+   "type": "death",
+   "barTime": "2026-09-23T13:30",
+   "ema36": 370.5477,
+   "ema90": 370.7897,
+   "close": 361.865
+  },
+  {
+   "ticker": "TXN",
+   "name": "Texas Instruments",
+   "type": "golden",
+   "barTime": "2026-09-23T09:30",
+   "ema36": 265.308,
+   "ema90": 265.2995,
+   "close": 271.3
+  },
+  {
+   "ticker": "WMT",
+   "name": "Walmart",
+   "type": "golden",
+   "barTime": "2026-09-23T09:30",
+   "ema36": 107.8682,
+   "ema90": 107.8186,
+   "close": 109.8
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "AIZ",
+   "name": "Assurant",
+   "type": "below",
+   "close": 266.89,
+   "upper": 295.5951,
+   "lower": 270.1671,
+   "beta": 0.0089,
+   "betaMean": 0.0878
+  },
+  {
+   "ticker": "AMP",
+   "name": "Ameriprise Financial",
+   "type": "below",
+   "close": 503.16,
+   "upper": 594.3285,
+   "lower": 505.7494,
+   "beta": 0.614,
+   "betaMean": 0.6357
+  },
+  {
+   "ticker": "CINF",
+   "name": "Cincinnati Financial",
+   "type": "below",
+   "close": 162.62,
+   "upper": 177.1888,
+   "lower": 163.2311,
+   "beta": -0.2103,
+   "betaMean": -0.1986
+  }
+ ]
+}
