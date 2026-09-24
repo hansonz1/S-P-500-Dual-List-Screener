@@ -1,0 +1,141 @@
+{
+ "date": "2026-09-24",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "BDX",
+   "name": "Becton Dickinson",
+   "type": "death",
+   "barTime": "2026-09-24T13:30",
+   "ema36": 181.8778,
+   "ema90": 181.8876,
+   "close": 179.7
+  },
+  {
+   "ticker": "ELV",
+   "name": "Elevance Health",
+   "type": "death",
+   "barTime": "2026-09-24T15:30",
+   "ema36": 405.579,
+   "ema90": 405.7068,
+   "close": 398.16
+  },
+  {
+   "ticker": "EMR",
+   "name": "Emerson Electric",
+   "type": "golden",
+   "barTime": "2026-09-24T13:30",
+   "ema36": 151.8653,
+   "ema90": 151.8349,
+   "close": 155.29
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "golden",
+   "barTime": "2026-09-24T13:30",
+   "ema36": 281.9341,
+   "ema90": 281.8446,
+   "close": 293.935
+  },
+  {
+   "ticker": "MAR",
+   "name": "Marriott International",
+   "type": "golden",
+   "barTime": "2026-09-24T15:30",
+   "ema36": 343.8697,
+   "ema90": 343.7278,
+   "close": 351.46
+  },
+  {
+   "ticker": "MCK",
+   "name": "McKesson Corporation",
+   "type": "death",
+   "barTime": "2026-09-24T15:30",
+   "ema36": 885.9231,
+   "ema90": 885.9521,
+   "close": 869.14
+  },
+  {
+   "ticker": "MDT",
+   "name": "Medtronic",
+   "type": "death",
+   "barTime": "2026-09-24T09:30",
+   "ema36": 91.5508,
+   "ema90": 91.626,
+   "close": 89.17
+  },
+  {
+   "ticker": "PWR",
+   "name": "Quanta Services",
+   "type": "golden",
+   "barTime": "2026-09-24T15:30",
+   "ema36": 634.5385,
+   "ema90": 634.318,
+   "close": 643.5
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "golden",
+   "barTime": "2026-09-24T13:30",
+   "ema36": 402.0304,
+   "ema90": 401.8054,
+   "close": 423.0
+  },
+  {
+   "ticker": "TRGP",
+   "name": "Targa Resources",
+   "type": "death",
+   "barTime": "2026-09-24T09:30",
+   "ema36": 287.9865,
+   "ema90": 287.9927,
+   "close": 284.8525
+  },
+  {
+   "ticker": "TRMB",
+   "name": "Trimble Inc.",
+   "type": "death",
+   "barTime": "2026-09-24T13:30",
+   "ema36": 58.4201,
+   "ema90": 58.4378,
+   "close": 57.69
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "AIZ",
+   "name": "Assurant",
+   "type": "below",
+   "close": 261.915,
+   "upper": 299.4629,
+   "lower": 264.3149,
+   "beta": 0.0477,
+   "betaMean": 0.0829
+  },
+  {
+   "ticker": "AMP",
+   "name": "Ameriprise Financial",
+   "type": "below",
+   "close": 484.94,
+   "upper": 606.0472,
+   "lower": 487.5641,
+   "beta": 0.6002,
+   "betaMean": 0.6338
+  },
+  {
+   "ticker": "FSLR",
+   "name": "First Solar",
+   "type": "below",
+   "close": 172.155,
+   "upper": 226.3189,
+   "lower": 178.1464,
+   "beta": 2.0788,
+   "betaMean": 2.1307
+  }
+ ]
+}
