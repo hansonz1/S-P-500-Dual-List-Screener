@@ -1,0 +1,157 @@
+{
+ "date": "2026-09-29",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AMAT",
+   "name": "Applied Materials",
+   "type": "golden",
+   "barTime": "2026-09-28T13:30",
+   "ema36": 464.5276,
+   "ema90": 464.2801,
+   "close": 485.47
+  },
+  {
+   "ticker": "AMGN",
+   "name": "Amgen",
+   "type": "golden",
+   "barTime": "2026-09-28T15:30",
+   "ema36": 404.3327,
+   "ema90": 404.0329,
+   "close": 418.34
+  },
+  {
+   "ticker": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "type": "death",
+   "barTime": "2026-09-28T09:30",
+   "ema36": 51.9627,
+   "ema90": 52.0334,
+   "close": 48.49
+  },
+  {
+   "ticker": "COHR",
+   "name": "Coherent Corp.",
+   "type": "death",
+   "barTime": "2026-09-28T11:30",
+   "ema36": 296.7044,
+   "ema90": 296.9896,
+   "close": 279.58
+  },
+  {
+   "ticker": "DGX",
+   "name": "Quest Diagnostics",
+   "type": "death",
+   "barTime": "2026-09-28T11:30",
+   "ema36": 238.3616,
+   "ema90": 238.4384,
+   "close": 235.57
+  },
+  {
+   "ticker": "DVN",
+   "name": "Devon Energy",
+   "type": "death",
+   "barTime": "2026-09-28T13:30",
+   "ema36": 48.0876,
+   "ema90": 48.1251,
+   "close": 46.735
+  },
+  {
+   "ticker": "FIX",
+   "name": "Comfort Systems USA",
+   "type": "golden",
+   "barTime": "2026-09-28T11:30",
+   "ema36": 1627.4412,
+   "ema90": 1627.4286,
+   "close": 1653.1801
+  },
+  {
+   "ticker": "GLW",
+   "name": "Corning Inc.",
+   "type": "death",
+   "barTime": "2026-09-28T09:30",
+   "ema36": 154.2566,
+   "ema90": 154.4092,
+   "close": 150.73
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "type": "death",
+   "barTime": "2026-09-28T11:30",
+   "ema36": 340.9666,
+   "ema90": 340.9937,
+   "close": 338.64
+  },
+  {
+   "ticker": "IEX",
+   "name": "IDEX Corporation",
+   "type": "golden",
+   "barTime": "2026-09-28T09:30",
+   "ema36": 226.8366,
+   "ema90": 226.791,
+   "close": 230.02
+  },
+  {
+   "ticker": "IT",
+   "name": "Gartner",
+   "type": "golden",
+   "barTime": "2026-09-28T15:30",
+   "ema36": 184.2316,
+   "ema90": 184.2302,
+   "close": 185.7
+  },
+  {
+   "ticker": "LLY",
+   "name": "Lilly (Eli)",
+   "type": "golden",
+   "barTime": "2026-09-28T09:30",
+   "ema36": 1164.5715,
+   "ema90": 1164.0806,
+   "close": 1187.8289
+  },
+  {
+   "ticker": "NEM",
+   "name": "Newmont",
+   "type": "death",
+   "barTime": "2026-09-28T09:30",
+   "ema36": 122.7733,
+   "ema90": 122.9229,
+   "close": 116.095
+  },
+  {
+   "ticker": "T",
+   "name": "AT&T",
+   "type": "death",
+   "barTime": "2026-09-28T11:30",
+   "ema36": 25.4848,
+   "ema90": 25.4939,
+   "close": 24.92
+  },
+  {
+   "ticker": "VRSN",
+   "name": "Verisign",
+   "type": "death",
+   "barTime": "2026-09-28T15:30",
+   "ema36": 292.9682,
+   "ema90": 292.9711,
+   "close": 282.23
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "BA",
+   "name": "Boeing",
+   "type": "below",
+   "close": 184.36,
+   "upper": 224.3134,
+   "lower": 185.3234,
+   "beta": 1.4262,
+   "betaMean": 1.5009
+  }
+ ]
+}
