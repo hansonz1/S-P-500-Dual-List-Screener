@@ -1,0 +1,119 @@
+{
+ "date": "2026-09-30",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "CRM",
+   "name": "Salesforce",
+   "type": "death",
+   "barTime": "2026-09-29T15:30",
+   "ema36": 235.4027,
+   "ema90": 235.6682,
+   "close": 225.41
+  },
+  {
+   "ticker": "CVX",
+   "name": "Chevron Corporation",
+   "type": "death",
+   "barTime": "2026-09-29T13:30",
+   "ema36": 206.6901,
+   "ema90": 206.742,
+   "close": 204.015
+  },
+  {
+   "ticker": "FCX",
+   "name": "Freeport-McMoRan",
+   "type": "death",
+   "barTime": "2026-09-29T13:30",
+   "ema36": 71.8179,
+   "ema90": 71.8221,
+   "close": 70.705
+  },
+  {
+   "ticker": "GEV",
+   "name": "GE Vernova",
+   "type": "golden",
+   "barTime": "2026-09-29T13:30",
+   "ema36": 947.0441,
+   "ema90": 946.7145,
+   "close": 963.07
+  },
+  {
+   "ticker": "GLW",
+   "name": "Corning Inc.",
+   "type": "golden",
+   "barTime": "2026-09-29T13:30",
+   "ema36": 154.5491,
+   "ema90": 154.4424,
+   "close": 158.79
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "death",
+   "barTime": "2026-09-29T09:30",
+   "ema36": 343.944,
+   "ema90": 344.1596,
+   "close": 338.86
+  },
+  {
+   "ticker": "HLT",
+   "name": "Hilton Worldwide",
+   "type": "golden",
+   "barTime": "2026-09-29T15:30",
+   "ema36": 313.5426,
+   "ema90": 313.4268,
+   "close": 323.58
+  },
+  {
+   "ticker": "INCY",
+   "name": "Incyte",
+   "type": "death",
+   "barTime": "2026-09-29T09:30",
+   "ema36": 124.576,
+   "ema90": 124.606,
+   "close": 122.19
+  },
+  {
+   "ticker": "JBL",
+   "name": "Jabil",
+   "type": "golden",
+   "barTime": "2026-09-29T15:30",
+   "ema36": 311.1793,
+   "ema90": 311.1545,
+   "close": 319.09
+  },
+  {
+   "ticker": "MET",
+   "name": "MetLife",
+   "type": "death",
+   "barTime": "2026-09-29T15:30",
+   "ema36": 96.5967,
+   "ema90": 96.6402,
+   "close": 95.2
+  },
+  {
+   "ticker": "TT",
+   "name": "Trane Technologies",
+   "type": "golden",
+   "barTime": "2026-09-29T15:30",
+   "ema36": 443.4091,
+   "ema90": 443.357,
+   "close": 455.64
+  },
+  {
+   "ticker": "WMT",
+   "name": "Walmart",
+   "type": "death",
+   "barTime": "2026-09-29T15:30",
+   "ema36": 107.9206,
+   "ema90": 107.9498,
+   "close": 106.83
+  }
+ ],
+ "bb": []
+}
