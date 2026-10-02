@@ -1,0 +1,148 @@
+{
+ "date": "2026-10-02",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "ACN",
+   "name": "Accenture",
+   "type": "golden",
+   "barTime": "2026-10-01T09:30",
+   "ema36": 182.7864,
+   "ema90": 182.6589,
+   "close": 216.555
+  },
+  {
+   "ticker": "CAT",
+   "name": "Caterpillar Inc.",
+   "type": "golden",
+   "barTime": "2026-10-01T11:30",
+   "ema36": 813.3753,
+   "ema90": 813.1919,
+   "close": 829.45
+  },
+  {
+   "ticker": "COHR",
+   "name": "Coherent Corp.",
+   "type": "golden",
+   "barTime": "2026-10-01T11:30",
+   "ema36": 295.9471,
+   "ema90": 295.6939,
+   "close": 321.13
+  },
+  {
+   "ticker": "EBAY",
+   "name": "eBay Inc.",
+   "type": "death",
+   "barTime": "2026-10-01T13:30",
+   "ema36": 107.3838,
+   "ema90": 107.4233,
+   "close": 106.05
+  },
+  {
+   "ticker": "GLW",
+   "name": "Corning Inc.",
+   "type": "golden",
+   "barTime": "2026-10-01T09:30",
+   "ema36": 154.7464,
+   "ema90": 154.5391,
+   "close": 158.55
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "type": "death",
+   "barTime": "2026-10-01T09:30",
+   "ema36": 340.7536,
+   "ema90": 341.0781,
+   "close": 337.6383
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "death",
+   "barTime": "2026-10-01T09:30",
+   "ema36": 344.1671,
+   "ema90": 344.4119,
+   "close": 340.5804
+  },
+  {
+   "ticker": "IFF",
+   "name": "International Flavors & Fragrances",
+   "type": "death",
+   "barTime": "2026-10-01T11:30",
+   "ema36": 84.7597,
+   "ema90": 84.7864,
+   "close": 83.01
+  },
+  {
+   "ticker": "JNJ",
+   "name": "Johnson & Johnson",
+   "type": "death",
+   "barTime": "2026-10-01T09:30",
+   "ema36": 268.5021,
+   "ema90": 268.5424,
+   "close": 261.825
+  },
+  {
+   "ticker": "PTC",
+   "name": "PTC Inc.",
+   "type": "golden",
+   "barTime": "2026-10-01T15:30",
+   "ema36": 139.7625,
+   "ema90": 139.5943,
+   "close": 146.39
+  },
+  {
+   "ticker": "Q",
+   "name": "Qnity Electronics",
+   "type": "golden",
+   "barTime": "2026-10-01T11:30",
+   "ema36": 123.8639,
+   "ema90": 123.7727,
+   "close": 126.4292
+  },
+  {
+   "ticker": "RL",
+   "name": "Ralph Lauren Corporation",
+   "type": "golden",
+   "barTime": "2026-10-01T11:30",
+   "ema36": 350.9244,
+   "ema90": 350.3747,
+   "close": 364.37
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "death",
+   "barTime": "2026-10-01T13:30",
+   "ema36": 362.2221,
+   "ema90": 362.2378,
+   "close": 357.13
+  },
+  {
+   "ticker": "WDAY",
+   "name": "Workday, Inc.",
+   "type": "death",
+   "barTime": "2026-10-01T09:30",
+   "ema36": 189.8685,
+   "ema90": 190.1709,
+   "close": 184.06
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "ACN",
+   "name": "Accenture",
+   "type": "above",
+   "close": 212.54,
+   "upper": 212.1987,
+   "lower": 159.252,
+   "beta": 0.009,
+   "betaMean": -0.1904
+  }
+ ]
+}
