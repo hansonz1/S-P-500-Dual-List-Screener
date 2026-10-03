@@ -1,0 +1,164 @@
+{
+ "date": "2026-10-03",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "BBY",
+   "name": "Best Buy",
+   "type": "death",
+   "barTime": "2026-10-02T13:30",
+   "ema36": 89.5022,
+   "ema90": 89.5601,
+   "close": 87.495
+  },
+  {
+   "ticker": "CCL",
+   "name": "Carnival Corporation",
+   "type": "golden",
+   "barTime": "2026-10-02T09:30",
+   "ema36": 23.6522,
+   "ema90": 23.6145,
+   "close": 25.545
+  },
+  {
+   "ticker": "CHRW",
+   "name": "C.H. Robinson",
+   "type": "golden",
+   "barTime": "2026-10-02T15:30",
+   "ema36": 151.3889,
+   "ema90": 151.2716,
+   "close": 157.69
+  },
+  {
+   "ticker": "CIEN",
+   "name": "Ciena",
+   "type": "golden",
+   "barTime": "2026-10-02T13:30",
+   "ema36": 360.8557,
+   "ema90": 359.8975,
+   "close": 393.71
+  },
+  {
+   "ticker": "ECHO",
+   "name": "EchoStar",
+   "type": "golden",
+   "barTime": "2026-10-02T15:30",
+   "ema36": 91.2111,
+   "ema90": 91.1447,
+   "close": 94.28
+  },
+  {
+   "ticker": "EME",
+   "name": "Emcor",
+   "type": "golden",
+   "barTime": "2026-10-02T09:30",
+   "ema36": 759.0098,
+   "ema90": 758.8058,
+   "close": 792.4
+  },
+  {
+   "ticker": "EXPD",
+   "name": "Expeditors International",
+   "type": "golden",
+   "barTime": "2026-10-02T09:30",
+   "ema36": 187.9106,
+   "ema90": 187.8073,
+   "close": 192.955
+  },
+  {
+   "ticker": "FLEX",
+   "name": "Flex Ltd.",
+   "type": "golden",
+   "barTime": "2026-10-02T11:30",
+   "ema36": 112.6876,
+   "ema90": 112.5931,
+   "close": 116.82
+  },
+  {
+   "ticker": "HST",
+   "name": "Host Hotels & Resorts",
+   "type": "golden",
+   "barTime": "2026-10-02T13:30",
+   "ema36": 22.3785,
+   "ema90": 22.3753,
+   "close": 22.535
+  },
+  {
+   "ticker": "HUBB",
+   "name": "Hubbell Incorporated",
+   "type": "golden",
+   "barTime": "2026-10-02T11:30",
+   "ema36": 461.0007,
+   "ema90": 460.8569,
+   "close": 472.355
+  },
+  {
+   "ticker": "LLY",
+   "name": "Lilly (Eli)",
+   "type": "death",
+   "barTime": "2026-10-02T09:30",
+   "ema36": 1166.4158,
+   "ema90": 1166.6421,
+   "close": 1145.54
+  },
+  {
+   "ticker": "PG",
+   "name": "Procter & Gamble",
+   "type": "death",
+   "barTime": "2026-10-02T13:30",
+   "ema36": 146.1715,
+   "ema90": 146.1799,
+   "close": 144.86
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "death",
+   "barTime": "2026-10-02T15:30",
+   "ema36": 190.1368,
+   "ema90": 190.2131,
+   "close": 187.5
+  },
+  {
+   "ticker": "ROST",
+   "name": "Ross Stores",
+   "type": "death",
+   "barTime": "2026-10-02T15:30",
+   "ema36": 232.6909,
+   "ema90": 232.7619,
+   "close": 228.63
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-02T09:30",
+   "ema36": 362.3815,
+   "ema90": 362.0805,
+   "close": 372.835
+  },
+  {
+   "ticker": "URI",
+   "name": "United Rentals",
+   "type": "golden",
+   "barTime": "2026-10-02T15:30",
+   "ema36": 1032.0171,
+   "ema90": 1031.0391,
+   "close": 1081.04
+  },
+  {
+   "ticker": "WSM",
+   "name": "Williams-Sonoma, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-01T15:30",
+   "ema36": 229.1664,
+   "ema90": 229.1426,
+   "close": 233.44
+  }
+ ],
+ "bb": []
+}
