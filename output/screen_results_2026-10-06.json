@@ -1,0 +1,122 @@
+{
+ "date": "2026-10-06",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "APA",
+   "name": "APA Corporation",
+   "type": "golden",
+   "barTime": "2026-10-05T09:30",
+   "ema36": 43.2146,
+   "ema90": 43.1994,
+   "close": 44.035
+  },
+  {
+   "ticker": "CHRW",
+   "name": "C.H. Robinson",
+   "type": "death",
+   "barTime": "2026-10-05T09:30",
+   "ema36": 150.5664,
+   "ema90": 151.0241,
+   "close": 136.1725
+  },
+  {
+   "ticker": "HON",
+   "name": "Honeywell Technologies",
+   "type": "golden",
+   "barTime": "2026-10-05T15:30",
+   "ema36": 211.907,
+   "ema90": 211.8474,
+   "close": 214.18
+  },
+  {
+   "ticker": "HUM",
+   "name": "Humana",
+   "type": "golden",
+   "barTime": "2026-10-05T15:30",
+   "ema36": 388.7939,
+   "ema90": 388.7632,
+   "close": 404.5
+  },
+  {
+   "ticker": "IR",
+   "name": "Ingersoll Rand",
+   "type": "golden",
+   "barTime": "2026-10-05T11:30",
+   "ema36": 75.7061,
+   "ema90": 75.6642,
+   "close": 78.67
+  },
+  {
+   "ticker": "LIN",
+   "name": "Linde plc",
+   "type": "golden",
+   "barTime": "2026-10-05T09:30",
+   "ema36": 472.3757,
+   "ema90": 472.3051,
+   "close": 483.31
+  },
+  {
+   "ticker": "MCK",
+   "name": "McKesson Corporation",
+   "type": "golden",
+   "barTime": "2026-10-05T11:30",
+   "ema36": 883.1557,
+   "ema90": 881.7778,
+   "close": 918.31
+  },
+  {
+   "ticker": "MRK",
+   "name": "Merck & Co.",
+   "type": "death",
+   "barTime": "2026-10-05T09:30",
+   "ema36": 146.0654,
+   "ema90": 146.3187,
+   "close": 139.39
+  },
+  {
+   "ticker": "PH",
+   "name": "Parker Hannifin",
+   "type": "golden",
+   "barTime": "2026-10-05T11:30",
+   "ema36": 966.1012,
+   "ema90": 965.9761,
+   "close": 978.66
+  },
+  {
+   "ticker": "RCL",
+   "name": "Royal Caribbean Group",
+   "type": "golden",
+   "barTime": "2026-10-05T15:30",
+   "ema36": 262.2141,
+   "ema90": 262.1815,
+   "close": 275.16
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "DOC",
+   "name": "Healthpeak Properties",
+   "type": "below",
+   "close": 18.84,
+   "upper": 21.6087,
+   "lower": 18.9456,
+   "beta": 0.0621,
+   "betaMean": 0.2015
+  },
+  {
+   "ticker": "PTC",
+   "name": "PTC Inc.",
+   "type": "above",
+   "close": 192.26,
+   "upper": 178.0761,
+   "lower": 101.9915,
+   "beta": 0.8505,
+   "betaMean": 0.2576
+  }
+ ]
+}
