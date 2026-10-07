@@ -1,0 +1,186 @@
+{
+ "date": "2026-10-07",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "CEG",
+   "name": "Constellation Energy",
+   "type": "golden",
+   "barTime": "2026-10-06T15:30",
+   "ema36": 270.0009,
+   "ema90": 269.2376,
+   "close": 300.16
+  },
+  {
+   "ticker": "COST",
+   "name": "Costco",
+   "type": "golden",
+   "barTime": "2026-10-06T09:30",
+   "ema36": 916.7881,
+   "ema90": 916.7193,
+   "close": 930.25
+  },
+  {
+   "ticker": "CSCO",
+   "name": "Cisco",
+   "type": "golden",
+   "barTime": "2026-10-06T09:30",
+   "ema36": 109.6647,
+   "ema90": 109.4954,
+   "close": 115.23
+  },
+  {
+   "ticker": "CVX",
+   "name": "Chevron Corporation",
+   "type": "golden",
+   "barTime": "2026-10-06T09:30",
+   "ema36": 206.4791,
+   "ema90": 206.4537,
+   "close": 207.36
+  },
+  {
+   "ticker": "ECL",
+   "name": "Ecolab",
+   "type": "golden",
+   "barTime": "2026-10-06T15:30",
+   "ema36": 276.5838,
+   "ema90": 276.5352,
+   "close": 280.835
+  },
+  {
+   "ticker": "FCX",
+   "name": "Freeport-McMoRan",
+   "type": "golden",
+   "barTime": "2026-10-06T11:30",
+   "ema36": 71.6853,
+   "ema90": 71.6449,
+   "close": 72.849
+  },
+  {
+   "ticker": "GILD",
+   "name": "Gilead Sciences",
+   "type": "death",
+   "barTime": "2026-10-06T11:30",
+   "ema36": 147.4297,
+   "ema90": 147.5085,
+   "close": 143.315
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "type": "golden",
+   "barTime": "2026-10-06T11:30",
+   "ema36": 341.0228,
+   "ema90": 340.9718,
+   "close": 343.57
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "golden",
+   "barTime": "2026-10-06T09:30",
+   "ema36": 344.1741,
+   "ema90": 344.1693,
+   "close": 348.275
+  },
+  {
+   "ticker": "PG",
+   "name": "Procter & Gamble",
+   "type": "golden",
+   "barTime": "2026-10-06T09:30",
+   "ema36": 146.1407,
+   "ema90": 146.1247,
+   "close": 148.644
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "death",
+   "barTime": "2026-10-06T13:30",
+   "ema36": 190.0827,
+   "ema90": 190.1094,
+   "close": 189.71
+  },
+  {
+   "ticker": "RCL",
+   "name": "Royal Caribbean Group",
+   "type": "golden",
+   "barTime": "2026-10-06T09:30",
+   "ema36": 263.4572,
+   "ema90": 262.6208,
+   "close": 285.21
+  },
+  {
+   "ticker": "TDY",
+   "name": "Teledyne Technologies",
+   "type": "golden",
+   "barTime": "2026-10-06T15:30",
+   "ema36": 615.3361,
+   "ema90": 615.3318,
+   "close": 622.2
+  },
+  {
+   "ticker": "TJX",
+   "name": "TJX Companies",
+   "type": "golden",
+   "barTime": "2026-10-06T13:30",
+   "ema36": 132.852,
+   "ema90": 132.7907,
+   "close": 136.0122
+  },
+  {
+   "ticker": "TRMB",
+   "name": "Trimble Inc.",
+   "type": "golden",
+   "barTime": "2026-10-06T09:30",
+   "ema36": 58.1444,
+   "ema90": 58.1318,
+   "close": 61.0
+  },
+  {
+   "ticker": "VST",
+   "name": "Vistra Corp.",
+   "type": "golden",
+   "barTime": "2026-10-06T11:30",
+   "ema36": 142.7091,
+   "ema90": 142.1247,
+   "close": 162.645
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "CIEN",
+   "name": "Ciena",
+   "type": "above",
+   "close": 443.66,
+   "upper": 431.4855,
+   "lower": 277.3702,
+   "beta": 2.2765,
+   "betaMean": 2.0857
+  },
+  {
+   "ticker": "PTC",
+   "name": "PTC Inc.",
+   "type": "above",
+   "close": 192.98,
+   "upper": 191.9145,
+   "lower": 91.9559,
+   "beta": 0.9173,
+   "betaMean": 0.2684
+  },
+  {
+   "ticker": "PWR",
+   "name": "Quanta Services",
+   "type": "above",
+   "close": 719.57,
+   "upper": 716.3845,
+   "lower": 570.069,
+   "beta": 1.5908,
+   "betaMean": 1.561
+  }
+ ]
+}
