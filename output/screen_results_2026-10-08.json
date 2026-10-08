@@ -1,0 +1,128 @@
+{
+ "date": "2026-10-08",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "type": "golden",
+   "barTime": "2026-10-07T15:30",
+   "ema36": 252.9799,
+   "ema90": 252.8316,
+   "close": 259.88
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "type": "golden",
+   "barTime": "2026-10-07T09:30",
+   "ema36": 360.0397,
+   "ema90": 359.7065,
+   "close": 373.02
+  },
+  {
+   "ticker": "CVX",
+   "name": "Chevron Corporation",
+   "type": "death",
+   "barTime": "2026-10-07T13:30",
+   "ema36": 206.5236,
+   "ema90": 206.5324,
+   "close": 205.84
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "death",
+   "barTime": "2026-10-07T09:30",
+   "ema36": 284.296,
+   "ema90": 284.4628,
+   "close": 275.95
+  },
+  {
+   "ticker": "HON",
+   "name": "Honeywell Technologies",
+   "type": "death",
+   "barTime": "2026-10-07T09:30",
+   "ema36": 211.797,
+   "ema90": 211.8824,
+   "close": 208.37
+  },
+  {
+   "ticker": "HOOD",
+   "name": "Robinhood Markets",
+   "type": "death",
+   "barTime": "2026-10-07T11:30",
+   "ema36": 113.9196,
+   "ema90": 113.9648,
+   "close": 108.855
+  },
+  {
+   "ticker": "KMI",
+   "name": "Kinder Morgan",
+   "type": "golden",
+   "barTime": "2026-10-07T11:30",
+   "ema36": 31.2412,
+   "ema90": 31.2223,
+   "close": 31.85
+  },
+  {
+   "ticker": "LLY",
+   "name": "Lilly (Eli)",
+   "type": "golden",
+   "barTime": "2026-10-07T13:30",
+   "ema36": 1165.2082,
+   "ema90": 1165.0456,
+   "close": 1187.47
+  },
+  {
+   "ticker": "PM",
+   "name": "Philip Morris International",
+   "type": "golden",
+   "barTime": "2026-10-07T09:30",
+   "ema36": 190.2188,
+   "ema90": 190.1314,
+   "close": 192.3
+  },
+  {
+   "ticker": "PNW",
+   "name": "Pinnacle West Capital",
+   "type": "golden",
+   "barTime": "2026-10-07T13:30",
+   "ema36": 95.3301,
+   "ema90": 95.2905,
+   "close": 98.0
+  },
+  {
+   "ticker": "STX",
+   "name": "Seagate Technology",
+   "type": "death",
+   "barTime": "2026-10-07T13:30",
+   "ema36": 862.9688,
+   "ema90": 864.8206,
+   "close": 800.325
+  },
+  {
+   "ticker": "TDY",
+   "name": "Teledyne Technologies",
+   "type": "death",
+   "barTime": "2026-10-07T09:30",
+   "ema36": 614.8395,
+   "ema90": 615.3053,
+   "close": 606.15
+  },
+  {
+   "ticker": "WRB",
+   "name": "W. R. Berkley Corporation",
+   "type": "golden",
+   "barTime": "2026-10-07T09:30",
+   "ema36": 69.02,
+   "ema90": 68.9933,
+   "close": 70.25
+  }
+ ],
+ "bb": []
+}
