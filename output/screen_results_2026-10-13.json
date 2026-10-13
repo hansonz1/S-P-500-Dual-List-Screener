@@ -1,0 +1,278 @@
+{
+ "date": "2026-10-13",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AMT",
+   "name": "American Tower",
+   "type": "golden",
+   "barTime": "2026-10-12T13:30",
+   "ema36": 170.7871,
+   "ema90": 170.5875,
+   "close": 182.22
+  },
+  {
+   "ticker": "BAX",
+   "name": "Baxter International",
+   "type": "golden",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 24.1037,
+   "ema90": 24.0932,
+   "close": 24.78
+  },
+  {
+   "ticker": "BDX",
+   "name": "Becton Dickinson",
+   "type": "golden",
+   "barTime": "2026-10-12T09:30",
+   "ema36": 181.4054,
+   "ema90": 181.1555,
+   "close": 187.27
+  },
+  {
+   "ticker": "CAT",
+   "name": "Caterpillar Inc.",
+   "type": "death",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 818.0838,
+   "ema90": 818.4872,
+   "close": 806.58
+  },
+  {
+   "ticker": "CB",
+   "name": "Chubb Limited",
+   "type": "golden",
+   "barTime": "2026-10-12T09:30",
+   "ema36": 336.9942,
+   "ema90": 336.7727,
+   "close": 345.74
+  },
+  {
+   "ticker": "CCI",
+   "name": "Crown Castle",
+   "type": "golden",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 71.2883,
+   "ema90": 71.0901,
+   "close": 79.96
+  },
+  {
+   "ticker": "CL",
+   "name": "Colgate-Palmolive",
+   "type": "golden",
+   "barTime": "2026-10-12T13:30",
+   "ema36": 87.3568,
+   "ema90": 87.3197,
+   "close": 89.68
+  },
+  {
+   "ticker": "CNC",
+   "name": "Centene Corporation",
+   "type": "golden",
+   "barTime": "2026-10-12T09:30",
+   "ema36": 64.2775,
+   "ema90": 64.2166,
+   "close": 66.475
+  },
+  {
+   "ticker": "CNP",
+   "name": "CenterPoint Energy",
+   "type": "golden",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 38.2595,
+   "ema90": 38.2505,
+   "close": 39.04
+  },
+  {
+   "ticker": "CTAS",
+   "name": "Cintas",
+   "type": "golden",
+   "barTime": "2026-10-12T09:30",
+   "ema36": 198.5591,
+   "ema90": 198.3123,
+   "close": 205.72
+  },
+  {
+   "ticker": "DAL",
+   "name": "Delta Air Lines",
+   "type": "death",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 82.2132,
+   "ema90": 82.2697,
+   "close": 80.11
+  },
+  {
+   "ticker": "DG",
+   "name": "Dollar General",
+   "type": "golden",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 123.5081,
+   "ema90": 123.479,
+   "close": 126.47
+  },
+  {
+   "ticker": "ED",
+   "name": "Consolidated Edison",
+   "type": "golden",
+   "barTime": "2026-10-12T13:30",
+   "ema36": 105.058,
+   "ema90": 105.0559,
+   "close": 107.19
+  },
+  {
+   "ticker": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "type": "golden",
+   "barTime": "2026-10-12T13:30",
+   "ema36": 95.4249,
+   "ema90": 95.3391,
+   "close": 99.95
+  },
+  {
+   "ticker": "EVRG",
+   "name": "Evergy",
+   "type": "golden",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 80.0355,
+   "ema90": 80.0202,
+   "close": 81.5
+  },
+  {
+   "ticker": "FDS",
+   "name": "FactSet",
+   "type": "golden",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 278.5669,
+   "ema90": 278.4328,
+   "close": 289.61
+  },
+  {
+   "ticker": "GLW",
+   "name": "Corning Inc.",
+   "type": "death",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 156.3836,
+   "ema90": 156.5632,
+   "close": 147.27
+  },
+  {
+   "ticker": "GWW",
+   "name": "W. W. Grainger",
+   "type": "golden",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 1277.4811,
+   "ema90": 1277.0654,
+   "close": 1302.41
+  },
+  {
+   "ticker": "ICE",
+   "name": "Intercontinental Exchange",
+   "type": "golden",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 154.5627,
+   "ema90": 154.5337,
+   "close": 157.42
+  },
+  {
+   "ticker": "INTC",
+   "name": "Intel",
+   "type": "death",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 110.3278,
+   "ema90": 110.5748,
+   "close": 101.33
+  },
+  {
+   "ticker": "KDP",
+   "name": "Keurig Dr Pepper",
+   "type": "golden",
+   "barTime": "2026-10-12T13:30",
+   "ema36": 31.2998,
+   "ema90": 31.2661,
+   "close": 32.655
+  },
+  {
+   "ticker": "NXPI",
+   "name": "NXP Semiconductors",
+   "type": "death",
+   "barTime": "2026-10-12T13:30",
+   "ema36": 233.0995,
+   "ema90": 233.336,
+   "close": 226.03
+  },
+  {
+   "ticker": "RDDT",
+   "name": "Reddit",
+   "type": "golden",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 152.9212,
+   "ema90": 152.8909,
+   "close": 155.57
+  },
+  {
+   "ticker": "STLD",
+   "name": "Steel Dynamics",
+   "type": "golden",
+   "barTime": "2026-10-12T09:30",
+   "ema36": 235.5572,
+   "ema90": 235.4777,
+   "close": 241.26
+  },
+  {
+   "ticker": "TRV",
+   "name": "Travelers Companies (The)",
+   "type": "golden",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 365.9844,
+   "ema90": 365.9257,
+   "close": 371.72
+  },
+  {
+   "ticker": "YUM",
+   "name": "Yum! Brands",
+   "type": "golden",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 141.7357,
+   "ema90": 141.6428,
+   "close": 146.795
+  },
+  {
+   "ticker": "ZTS",
+   "name": "Zoetis",
+   "type": "golden",
+   "barTime": "2026-10-12T11:30",
+   "ema36": 72.3191,
+   "ema90": 72.3126,
+   "close": 75.23
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "CHD",
+   "name": "Church & Dwight",
+   "type": "above",
+   "close": 99.86,
+   "upper": 99.8425,
+   "lower": 91.5875,
+   "beta": 0.0917,
+   "betaMean": -0.123
+  },
+  {
+   "ticker": "KDP",
+   "name": "Keurig Dr Pepper",
+   "type": "above",
+   "close": 32.76,
+   "upper": 32.7548,
+   "lower": 29.7498,
+   "beta": 0.1003,
+   "betaMean": 0.0531
+  }
+ ]
+}
