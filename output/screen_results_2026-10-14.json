@@ -1,0 +1,248 @@
+{
+ "date": "2026-10-14",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADP",
+   "name": "Automatic Data Processing",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 267.6734,
+   "ema90": 267.5406,
+   "close": 276.28
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "type": "death",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 360.5926,
+   "ema90": 360.6145,
+   "close": 353.03
+  },
+  {
+   "ticker": "BF-B",
+   "name": "Brown\u2013Forman",
+   "type": "golden",
+   "barTime": "2026-10-13T11:30",
+   "ema36": 26.4618,
+   "ema90": 26.4499,
+   "close": 27.3
+  },
+  {
+   "ticker": "CDW",
+   "name": "CDW Corporation",
+   "type": "golden",
+   "barTime": "2026-10-13T13:30",
+   "ema36": 140.5464,
+   "ema90": 140.3185,
+   "close": 151.275
+  },
+  {
+   "ticker": "CNP",
+   "name": "CenterPoint Energy",
+   "type": "golden",
+   "barTime": "2026-10-12T15:30",
+   "ema36": 38.2595,
+   "ema90": 38.2505,
+   "close": 39.04
+  },
+  {
+   "ticker": "CTSH",
+   "name": "Cognizant",
+   "type": "golden",
+   "barTime": "2026-10-13T15:30",
+   "ema36": 59.3176,
+   "ema90": 59.2607,
+   "close": 61.37
+  },
+  {
+   "ticker": "DECK",
+   "name": "Deckers Brands",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 81.5027,
+   "ema90": 81.4905,
+   "close": 84.58
+  },
+  {
+   "ticker": "ETR",
+   "name": "Entergy",
+   "type": "golden",
+   "barTime": "2026-10-13T13:30",
+   "ema36": 102.4949,
+   "ema90": 102.434,
+   "close": 105.16
+  },
+  {
+   "ticker": "GEHC",
+   "name": "GE HealthCare",
+   "type": "golden",
+   "barTime": "2026-10-13T15:30",
+   "ema36": 66.2246,
+   "ema90": 66.1814,
+   "close": 68.79
+  },
+  {
+   "ticker": "IFF",
+   "name": "International Flavors & Fragrances",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 84.5402,
+   "ema90": 84.4728,
+   "close": 87.69
+  },
+  {
+   "ticker": "KO",
+   "name": "Coca-Cola Company (The)",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 87.7012,
+   "ema90": 87.633,
+   "close": 90.195
+  },
+  {
+   "ticker": "LUV",
+   "name": "Southwest Airlines",
+   "type": "death",
+   "barTime": "2026-10-13T15:30",
+   "ema36": 41.3078,
+   "ema90": 41.3213,
+   "close": 40.655
+  },
+  {
+   "ticker": "MCHP",
+   "name": "Microchip Technology",
+   "type": "death",
+   "barTime": "2026-10-13T13:30",
+   "ema36": 76.2534,
+   "ema90": 76.2875,
+   "close": 74.135
+  },
+  {
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "type": "death",
+   "barTime": "2026-10-13T15:30",
+   "ema36": 1020.7696,
+   "ema90": 1022.6662,
+   "close": 953.19
+  },
+  {
+   "ticker": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "type": "golden",
+   "barTime": "2026-10-13T13:30",
+   "ema36": 15.1766,
+   "ema90": 15.1728,
+   "close": 15.34
+  },
+  {
+   "ticker": "NI",
+   "name": "NiSource",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 40.4264,
+   "ema90": 40.4202,
+   "close": 41.155
+  },
+  {
+   "ticker": "NUE",
+   "name": "Nucor",
+   "type": "golden",
+   "barTime": "2026-10-13T15:30",
+   "ema36": 249.0894,
+   "ema90": 249.0167,
+   "close": 253.87
+  },
+  {
+   "ticker": "RSG",
+   "name": "Republic Services",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 216.0506,
+   "ema90": 215.9979,
+   "close": 220.09
+  },
+  {
+   "ticker": "SBAC",
+   "name": "SBA Communications",
+   "type": "golden",
+   "barTime": "2026-10-13T13:30",
+   "ema36": 173.8915,
+   "ema90": 173.6532,
+   "close": 182.285
+  },
+  {
+   "ticker": "SO",
+   "name": "Southern Company",
+   "type": "golden",
+   "barTime": "2026-10-13T13:30",
+   "ema36": 85.7183,
+   "ema90": 85.713,
+   "close": 88.27
+  },
+  {
+   "ticker": "STZ",
+   "name": "Constellation Brands",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 119.7184,
+   "ema90": 119.6475,
+   "close": 126.8
+  },
+  {
+   "ticker": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "type": "golden",
+   "barTime": "2026-10-13T09:30",
+   "ema36": 353.4101,
+   "ema90": 353.1082,
+   "close": 364.8
+  },
+  {
+   "ticker": "TSCO",
+   "name": "Tractor Supply",
+   "type": "golden",
+   "barTime": "2026-10-13T11:30",
+   "ema36": 32.7296,
+   "ema90": 32.7205,
+   "close": 33.425
+  },
+  {
+   "ticker": "TSN",
+   "name": "Tyson Foods",
+   "type": "golden",
+   "barTime": "2026-10-13T15:30",
+   "ema36": 52.5426,
+   "ema90": 52.5191,
+   "close": 53.8
+  },
+  {
+   "ticker": "WEC",
+   "name": "WEC Energy Group",
+   "type": "golden",
+   "barTime": "2026-10-13T15:30",
+   "ema36": 103.6745,
+   "ema90": 103.6579,
+   "close": 105.91
+  },
+  {
+   "ticker": "XEL",
+   "name": "Xcel Energy",
+   "type": "golden",
+   "barTime": "2026-10-13T13:30",
+   "ema36": 72.8736,
+   "ema90": 72.8484,
+   "close": 74.725
+  }
+ ],
+ "bb": []
+}
