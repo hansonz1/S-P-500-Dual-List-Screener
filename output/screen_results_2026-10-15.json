@@ -1,0 +1,307 @@
+{
+ "date": "2026-10-15",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ACGL",
+   "name": "Arch Capital Group",
+   "type": "golden",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 95.8908,
+   "ema90": 95.8906,
+   "close": 97.32
+  },
+  {
+   "ticker": "AEE",
+   "name": "Ameren",
+   "type": "golden",
+   "barTime": "2026-10-14T13:30",
+   "ema36": 102.3641,
+   "ema90": 102.3378,
+   "close": 104.525
+  },
+  {
+   "ticker": "AFL",
+   "name": "Aflac",
+   "type": "golden",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 114.8418,
+   "ema90": 114.8239,
+   "close": 117.34
+  },
+  {
+   "ticker": "AMAT",
+   "name": "Applied Materials",
+   "type": "death",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 489.4309,
+   "ema90": 489.9315,
+   "close": 446.48
+  },
+  {
+   "ticker": "ATO",
+   "name": "Atmos Energy",
+   "type": "golden",
+   "barTime": "2026-10-14T13:30",
+   "ema36": 161.0868,
+   "ema90": 161.0043,
+   "close": 163.905
+  },
+  {
+   "ticker": "BE",
+   "name": "Bloom Energy",
+   "type": "death",
+   "barTime": "2026-10-14T13:30",
+   "ema36": 268.7156,
+   "ema90": 268.8854,
+   "close": 239.67
+  },
+  {
+   "ticker": "COHR",
+   "name": "Coherent Corp.",
+   "type": "death",
+   "barTime": "2026-10-14T09:30",
+   "ema36": 303.1492,
+   "ema90": 304.0911,
+   "close": 271.78
+  },
+  {
+   "ticker": "CSGP",
+   "name": "CoStar Group",
+   "type": "golden",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 28.9971,
+   "ema90": 28.9753,
+   "close": 30.12
+  },
+  {
+   "ticker": "DUK",
+   "name": "Duke Energy",
+   "type": "golden",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 116.8242,
+   "ema90": 116.7441,
+   "close": 119.66
+  },
+  {
+   "ticker": "ETN",
+   "name": "Eaton Corporation",
+   "type": "death",
+   "barTime": "2026-10-14T13:30",
+   "ema36": 427.117,
+   "ema90": 427.1195,
+   "close": 408.715
+  },
+  {
+   "ticker": "FANG",
+   "name": "Diamondback Energy",
+   "type": "golden",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 191.905,
+   "ema90": 191.7297,
+   "close": 198.51
+  },
+  {
+   "ticker": "FCX",
+   "name": "Freeport-McMoRan",
+   "type": "death",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 71.7271,
+   "ema90": 71.7712,
+   "close": 69.61
+  },
+  {
+   "ticker": "FE",
+   "name": "FirstEnergy",
+   "type": "golden",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 44.7719,
+   "ema90": 44.7625,
+   "close": 45.425
+  },
+  {
+   "ticker": "FIX",
+   "name": "Comfort Systems USA",
+   "type": "death",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 1663.4804,
+   "ema90": 1664.6335,
+   "close": 1526.175
+  },
+  {
+   "ticker": "FLEX",
+   "name": "Flex Ltd.",
+   "type": "death",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 113.6698,
+   "ema90": 114.0373,
+   "close": 100.805
+  },
+  {
+   "ticker": "L",
+   "name": "Loews Corporation",
+   "type": "golden",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 107.3654,
+   "ema90": 107.3224,
+   "close": 109.11
+  },
+  {
+   "ticker": "LNT",
+   "name": "Alliant Energy",
+   "type": "golden",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 65.7477,
+   "ema90": 65.6972,
+   "close": 67.32
+  },
+  {
+   "ticker": "LRCX",
+   "name": "Lam Research",
+   "type": "death",
+   "barTime": "2026-10-14T13:30",
+   "ema36": 312.7188,
+   "ema90": 313.3816,
+   "close": 286.25
+  },
+  {
+   "ticker": "MDLZ",
+   "name": "Mondelez International",
+   "type": "golden",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 60.5924,
+   "ema90": 60.5213,
+   "close": 62.64
+  },
+  {
+   "ticker": "MDT",
+   "name": "Medtronic",
+   "type": "golden",
+   "barTime": "2026-10-14T09:30",
+   "ema36": 89.4403,
+   "ema90": 89.419,
+   "close": 92.79
+  },
+  {
+   "ticker": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "type": "death",
+   "barTime": "2026-10-14T09:30",
+   "ema36": 15.1702,
+   "ema90": 15.1784,
+   "close": 14.935
+  },
+  {
+   "ticker": "Q",
+   "name": "Qnity Electronics",
+   "type": "death",
+   "barTime": "2026-10-14T09:30",
+   "ema36": 125.5204,
+   "ema90": 125.6008,
+   "close": 120.8298
+  },
+  {
+   "ticker": "ROK",
+   "name": "Rockwell Automation",
+   "type": "death",
+   "barTime": "2026-10-14T13:30",
+   "ema36": 434.3007,
+   "ema90": 434.5036,
+   "close": 422.87
+  },
+  {
+   "ticker": "SMCI",
+   "name": "Supermicro",
+   "type": "death",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 40.3462,
+   "ema90": 40.4858,
+   "close": 35.8
+  },
+  {
+   "ticker": "STE",
+   "name": "Steris",
+   "type": "golden",
+   "barTime": "2026-10-14T11:30",
+   "ema36": 213.8173,
+   "ema90": 213.7449,
+   "close": 216.65
+  },
+  {
+   "ticker": "TER",
+   "name": "Teradyne",
+   "type": "death",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 390.7186,
+   "ema90": 390.9693,
+   "close": 359.29
+  },
+  {
+   "ticker": "TYL",
+   "name": "Tyler Technologies",
+   "type": "golden",
+   "barTime": "2026-10-14T09:30",
+   "ema36": 335.1074,
+   "ema90": 334.7974,
+   "close": 348.8
+  },
+  {
+   "ticker": "VRSK",
+   "name": "Verisk Analytics",
+   "type": "golden",
+   "barTime": "2026-10-14T15:30",
+   "ema36": 174.2841,
+   "ema90": 174.091,
+   "close": 180.635
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "CHD",
+   "name": "Church & Dwight",
+   "type": "above",
+   "close": 102.63,
+   "upper": 102.141,
+   "lower": 90.4879,
+   "beta": 0.099,
+   "betaMean": -0.0679
+  },
+  {
+   "ticker": "CL",
+   "name": "Colgate-Palmolive",
+   "type": "above",
+   "close": 92.8,
+   "upper": 92.2803,
+   "lower": 81.9507,
+   "beta": -0.0938,
+   "betaMean": -0.1699
+  },
+  {
+   "ticker": "VLTO",
+   "name": "Veralto",
+   "type": "above",
+   "close": 100.69,
+   "upper": 100.6172,
+   "lower": 91.9181,
+   "beta": 0.109,
+   "betaMean": 0.029
+  },
+  {
+   "ticker": "VRT",
+   "name": "Vertiv",
+   "type": "below",
+   "close": 222.82,
+   "upper": 267.0476,
+   "lower": 222.9941,
+   "beta": 2.7516,
+   "betaMean": 2.8673
+  }
+ ]
+}
