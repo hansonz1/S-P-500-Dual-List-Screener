@@ -1,0 +1,446 @@
+{
+ "date": "2026-10-16",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ABT",
+   "name": "Abbott Laboratories",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 102.1737,
+   "ema90": 102.1498,
+   "close": 104.89
+  },
+  {
+   "ticker": "ADM",
+   "name": "Archer Daniels Midland",
+   "type": "golden",
+   "barTime": "2026-10-16T11:30",
+   "ema36": 82.3249,
+   "ema90": 82.3149,
+   "close": 83.225
+  },
+  {
+   "ticker": "AIZ",
+   "name": "Assurant",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 273.1341,
+   "ema90": 272.739,
+   "close": 285.25
+  },
+  {
+   "ticker": "AJG",
+   "name": "Arthur J. Gallagher & Co.",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 237.1884,
+   "ema90": 236.7797,
+   "close": 254.1
+  },
+  {
+   "ticker": "AMD",
+   "name": "Advanced Micro Devices",
+   "type": "death",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 582.714,
+   "ema90": 582.8203,
+   "close": 528.75
+  },
+  {
+   "ticker": "AOS",
+   "name": "A. O. Smith",
+   "type": "golden",
+   "barTime": "2026-10-16T11:30",
+   "ema36": 57.6924,
+   "ema90": 57.6748,
+   "close": 59.36
+  },
+  {
+   "ticker": "APH",
+   "name": "Amphenol",
+   "type": "death",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 83.6332,
+   "ema90": 83.7412,
+   "close": 79.36
+  },
+  {
+   "ticker": "CASY",
+   "name": "Casey's",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 645.0818,
+   "ema90": 644.5023,
+   "close": 683.75
+  },
+  {
+   "ticker": "CIEN",
+   "name": "Ciena",
+   "type": "death",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 378.6759,
+   "ema90": 379.8607,
+   "close": 333.05
+  },
+  {
+   "ticker": "CINF",
+   "name": "Cincinnati Financial",
+   "type": "golden",
+   "barTime": "2026-10-16T13:30",
+   "ema36": 165.7987,
+   "ema90": 165.7313,
+   "close": 170.08
+  },
+  {
+   "ticker": "CVS",
+   "name": "CVS Health",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 89.5043,
+   "ema90": 89.4164,
+   "close": 92.36
+  },
+  {
+   "ticker": "DRI",
+   "name": "Darden Restaurants",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 205.0048,
+   "ema90": 204.8242,
+   "close": 216.885
+  },
+  {
+   "ticker": "EXPE",
+   "name": "Expedia Group",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 274.7218,
+   "ema90": 274.563,
+   "close": 297.71
+  },
+  {
+   "ticker": "FERG",
+   "name": "Ferguson Enterprises",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 222.9345,
+   "ema90": 222.6024,
+   "close": 231.83
+  },
+  {
+   "ticker": "GEV",
+   "name": "GE Vernova",
+   "type": "death",
+   "barTime": "2026-10-16T11:30",
+   "ema36": 964.7329,
+   "ema90": 965.4106,
+   "close": 931.51
+  },
+  {
+   "ticker": "GM",
+   "name": "General Motors",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 82.6532,
+   "ema90": 82.5924,
+   "close": 85.5068
+  },
+  {
+   "ticker": "GNRC",
+   "name": "Generac",
+   "type": "death",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 206.5226,
+   "ema90": 206.8771,
+   "close": 192.69
+  },
+  {
+   "ticker": "HIG",
+   "name": "Hartford (The)",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 130.2417,
+   "ema90": 130.1363,
+   "close": 134.49
+  },
+  {
+   "ticker": "HONA",
+   "name": "Honeywell Aerospace",
+   "type": "golden",
+   "barTime": "2026-10-16T11:30",
+   "ema36": 159.0181,
+   "ema90": 158.8718,
+   "close": 168.875
+  },
+  {
+   "ticker": "IBM",
+   "name": "IBM",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 228.7156,
+   "ema90": 228.6911,
+   "close": 232.13
+  },
+  {
+   "ticker": "KMB",
+   "name": "Kimberly-Clark",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 99.2636,
+   "ema90": 99.1419,
+   "close": 105.42
+  },
+  {
+   "ticker": "LMT",
+   "name": "Lockheed Martin",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 521.7332,
+   "ema90": 521.4961,
+   "close": 551.86
+  },
+  {
+   "ticker": "LYB",
+   "name": "LyondellBasell",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 60.5615,
+   "ema90": 60.5562,
+   "close": 63.65
+  },
+  {
+   "ticker": "MRK",
+   "name": "Merck & Co.",
+   "type": "golden",
+   "barTime": "2026-10-16T11:30",
+   "ema36": 145.39,
+   "ema90": 145.348,
+   "close": 146.955
+  },
+  {
+   "ticker": "MRVL",
+   "name": "Marvell Technology",
+   "type": "death",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 254.3585,
+   "ema90": 254.9154,
+   "close": 227.76
+  },
+  {
+   "ticker": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "type": "death",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 15.1786,
+   "ema90": 15.1806,
+   "close": 15.04
+  },
+  {
+   "ticker": "NWS",
+   "name": "News Corp (Class B)",
+   "type": "golden",
+   "barTime": "2026-10-16T11:30",
+   "ema36": 32.3602,
+   "ema90": 32.3591,
+   "close": 32.81
+  },
+  {
+   "ticker": "OKE",
+   "name": "Oneok",
+   "type": "golden",
+   "barTime": "2026-10-16T11:30",
+   "ema36": 90.982,
+   "ema90": 90.98,
+   "close": 93.05
+  },
+  {
+   "ticker": "PANW",
+   "name": "Palo Alto Networks",
+   "type": "death",
+   "barTime": "2026-10-16T13:30",
+   "ema36": 384.0914,
+   "ema90": 384.9432,
+   "close": 343.9901
+  },
+  {
+   "ticker": "REGN",
+   "name": "Regeneron Pharmaceuticals",
+   "type": "golden",
+   "barTime": "2026-10-16T13:30",
+   "ema36": 769.3303,
+   "ema90": 769.2731,
+   "close": 790.04
+  },
+  {
+   "ticker": "ROL",
+   "name": "Rollins, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 32.4063,
+   "ema90": 32.3914,
+   "close": 33.445
+  },
+  {
+   "ticker": "ROP",
+   "name": "Roper Technologies",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 371.4102,
+   "ema90": 371.1947,
+   "close": 382.615
+  },
+  {
+   "ticker": "ROST",
+   "name": "Ross Stores",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 230.4629,
+   "ema90": 230.3548,
+   "close": 236.88
+  },
+  {
+   "ticker": "SHW",
+   "name": "Sherwin-Williams",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 325.2439,
+   "ema90": 324.9897,
+   "close": 338.465
+  },
+  {
+   "ticker": "SYK",
+   "name": "Stryker Corporation",
+   "type": "golden",
+   "barTime": "2026-10-16T13:30",
+   "ema36": 283.9972,
+   "ema90": 283.9263,
+   "close": 294.335
+  },
+  {
+   "ticker": "TDG",
+   "name": "TransDigm Group",
+   "type": "golden",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 1115.676,
+   "ema90": 1115.2151,
+   "close": 1139.34
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "death",
+   "barTime": "2026-10-16T15:30",
+   "ema36": 367.6389,
+   "ema90": 367.8693,
+   "close": 354.67
+  },
+  {
+   "ticker": "WMB",
+   "name": "Williams Companies",
+   "type": "death",
+   "barTime": "2026-10-16T13:30",
+   "ema36": 71.6741,
+   "ema90": 71.6828,
+   "close": 70.59
+  },
+  {
+   "ticker": "XYZ",
+   "name": "Block, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-16T09:30",
+   "ema36": 76.82,
+   "ema90": 76.7882,
+   "close": 79.15
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "ACGL",
+   "name": "Arch Capital Group",
+   "type": "above",
+   "close": 101.27,
+   "upper": 101.266,
+   "lower": 90.4468,
+   "beta": -0.3631,
+   "betaMean": -0.3957
+  },
+  {
+   "ticker": "AZO",
+   "name": "AutoZone",
+   "type": "above",
+   "close": 3122.3799,
+   "upper": 3114.4481,
+   "lower": 2659.2697,
+   "beta": -0.0462,
+   "betaMean": -0.107
+  },
+  {
+   "ticker": "BLK",
+   "name": "BlackRock",
+   "type": "above",
+   "close": 1133.86,
+   "upper": 1130.4056,
+   "lower": 1016.6689,
+   "beta": 1.2391,
+   "betaMean": 1.026
+  },
+  {
+   "ticker": "EG",
+   "name": "Everest Group",
+   "type": "above",
+   "close": 389.08,
+   "upper": 387.9013,
+   "lower": 356.461,
+   "beta": -0.2582,
+   "betaMean": -0.2941
+  },
+  {
+   "ticker": "KMB",
+   "name": "Kimberly-Clark",
+   "type": "above",
+   "close": 105.563,
+   "upper": 105.2214,
+   "lower": 90.9805,
+   "beta": 0.1726,
+   "betaMean": -0.0358
+  },
+  {
+   "ticker": "KVUE",
+   "name": "Kenvue",
+   "type": "above",
+   "close": 18.9,
+   "upper": 18.8465,
+   "lower": 16.7012,
+   "beta": 0.074,
+   "betaMean": -0.0732
+  },
+  {
+   "ticker": "VMC",
+   "name": "Vulcan Materials Company",
+   "type": "above",
+   "close": 257.57,
+   "upper": 255.8319,
+   "lower": 234.4489,
+   "beta": 0.8651,
+   "betaMean": 0.8148
+  },
+  {
+   "ticker": "WM",
+   "name": "Waste Management",
+   "type": "above",
+   "close": 226.86,
+   "upper": 226.2183,
+   "lower": 193.5981,
+   "beta": -0.4781,
+   "betaMean": -0.6144
+  }
+ ]
+}
