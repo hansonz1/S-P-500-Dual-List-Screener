@@ -1,0 +1,275 @@
+{
+ "date": "2026-10-20",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADM",
+   "name": "Archer Daniels Midland",
+   "type": "death",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 82.2755,
+   "ema90": 82.3463,
+   "close": 80.86
+  },
+  {
+   "ticker": "ALL",
+   "name": "Allstate",
+   "type": "golden",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 236.4441,
+   "ema90": 236.2864,
+   "close": 245.66
+  },
+  {
+   "ticker": "ALLE",
+   "name": "Allegion",
+   "type": "golden",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 153.5905,
+   "ema90": 153.5904,
+   "close": 155.355
+  },
+  {
+   "ticker": "AMCR",
+   "name": "Amcor",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 42.668,
+   "ema90": 42.6599,
+   "close": 44.365
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike",
+   "type": "death",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 251.027,
+   "ema90": 251.4407,
+   "close": 229.79
+  },
+  {
+   "ticker": "CSCO",
+   "name": "Cisco",
+   "type": "death",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 111.6911,
+   "ema90": 111.7104,
+   "close": 107.2
+  },
+  {
+   "ticker": "ERIE",
+   "name": "Erie Indemnity",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 231.5739,
+   "ema90": 231.5153,
+   "close": 238.76
+  },
+  {
+   "ticker": "EXR",
+   "name": "Extra Space Storage",
+   "type": "golden",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 135.677,
+   "ema90": 135.6302,
+   "close": 137.84
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "golden",
+   "barTime": "2026-10-19T15:30",
+   "ema36": 281.1459,
+   "ema90": 281.1399,
+   "close": 286.25
+  },
+  {
+   "ticker": "HD",
+   "name": "Home Depot (The)",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 298.0619,
+   "ema90": 298.0033,
+   "close": 309.43
+  },
+  {
+   "ticker": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "type": "death",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 63.2398,
+   "ema90": 63.4826,
+   "close": 56.12
+  },
+  {
+   "ticker": "ITW",
+   "name": "Illinois Tool Works",
+   "type": "golden",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 268.3418,
+   "ema90": 268.3301,
+   "close": 270.67
+  },
+  {
+   "ticker": "JKHY",
+   "name": "Jack Henry & Associates",
+   "type": "golden",
+   "barTime": "2026-10-19T13:30",
+   "ema36": 151.5458,
+   "ema90": 151.5418,
+   "close": 152.98
+  },
+  {
+   "ticker": "KEYS",
+   "name": "Keysight Technologies",
+   "type": "death",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 356.5179,
+   "ema90": 357.0924,
+   "close": 337.84
+  },
+  {
+   "ticker": "LOW",
+   "name": "Lowe's",
+   "type": "golden",
+   "barTime": "2026-10-19T13:30",
+   "ema36": 190.8119,
+   "ema90": 190.6856,
+   "close": 196.355
+  },
+  {
+   "ticker": "MRK",
+   "name": "Merck & Co.",
+   "type": "death",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 145.3842,
+   "ema90": 145.3856,
+   "close": 144.415
+  },
+  {
+   "ticker": "NCLH",
+   "name": "Norwegian Cruise Line Holdings",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 15.1865,
+   "ema90": 15.1799,
+   "close": 15.325
+  },
+  {
+   "ticker": "NKE",
+   "name": "Nike, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-19T13:30",
+   "ema36": 35.9739,
+   "ema90": 35.9332,
+   "close": 37.225
+  },
+  {
+   "ticker": "PODD",
+   "name": "Insulet Corporation",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 137.5658,
+   "ema90": 137.451,
+   "close": 141.375
+  },
+  {
+   "ticker": "PWR",
+   "name": "Quanta Services",
+   "type": "death",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 658.9951,
+   "ema90": 659.7092,
+   "close": 618.4592
+  },
+  {
+   "ticker": "SWK",
+   "name": "Stanley Black & Decker",
+   "type": "golden",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 90.6305,
+   "ema90": 90.6083,
+   "close": 91.665
+  },
+  {
+   "ticker": "TDY",
+   "name": "Teledyne Technologies",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 613.74,
+   "ema90": 613.5852,
+   "close": 620.805
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 367.6668,
+   "ema90": 367.6411,
+   "close": 368.1548
+  },
+  {
+   "ticker": "TWLO",
+   "name": "Twilio",
+   "type": "death",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 270.5622,
+   "ema90": 270.5891,
+   "close": 258.085
+  },
+  {
+   "ticker": "URI",
+   "name": "United Rentals",
+   "type": "death",
+   "barTime": "2026-10-19T15:30",
+   "ema36": 1041.9945,
+   "ema90": 1042.4939,
+   "close": 1024.67
+  },
+  {
+   "ticker": "VMC",
+   "name": "Vulcan Materials Company",
+   "type": "golden",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 248.6925,
+   "ema90": 248.6298,
+   "close": 257.055
+  },
+  {
+   "ticker": "WELL",
+   "name": "Welltower",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 231.0454,
+   "ema90": 230.9891,
+   "close": 234.345
+  },
+  {
+   "ticker": "WTW",
+   "name": "Willis Towers Watson",
+   "type": "golden",
+   "barTime": "2026-10-19T11:30",
+   "ema36": 303.2762,
+   "ema90": 303.0008,
+   "close": 313.105
+  },
+  {
+   "ticker": "ZBH",
+   "name": "Zimmer Biomet",
+   "type": "golden",
+   "barTime": "2026-10-19T09:30",
+   "ema36": 92.2484,
+   "ema90": 92.2157,
+   "close": 94.83
+  }
+ ],
+ "bb": []
+}
