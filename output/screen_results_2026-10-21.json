@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-21",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADBE",
+   "name": "Adobe Inc.",
+   "type": "golden",
+   "barTime": "2026-10-20T13:30",
+   "ema36": 244.4284,
+   "ema90": 244.2408,
+   "close": 254.9
+  },
+  {
+   "ticker": "AWK",
+   "name": "American Water Works",
+   "type": "golden",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 132.1617,
+   "ema90": 132.1091,
+   "close": 135.45
+  },
+  {
+   "ticker": "AXP",
+   "name": "American Express",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 311.3021,
+   "ema90": 311.2355,
+   "close": 320.95
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "golden",
+   "barTime": "2026-10-20T13:30",
+   "ema36": 43.9262,
+   "ema90": 43.9171,
+   "close": 45.545
+  },
+  {
+   "ticker": "CEG",
+   "name": "Constellation Energy",
+   "type": "death",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 275.5922,
+   "ema90": 276.1086,
+   "close": 259.01
+  },
+  {
+   "ticker": "CPAY",
+   "name": "Corpay",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 400.183,
+   "ema90": 399.9823,
+   "close": 408.85
+  },
+  {
+   "ticker": "EFX",
+   "name": "Equifax",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 154.3082,
+   "ema90": 153.699,
+   "close": 177.155
+  },
+  {
+   "ticker": "FOX",
+   "name": "Fox Corporation (Class B)",
+   "type": "golden",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 56.9829,
+   "ema90": 56.9325,
+   "close": 59.38
+  },
+  {
+   "ticker": "FOXA",
+   "name": "Fox Corporation (Class A)",
+   "type": "golden",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 63.7803,
+   "ema90": 63.6792,
+   "close": 66.78
+  },
+  {
+   "ticker": "GM",
+   "name": "General Motors",
+   "type": "death",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 82.5664,
+   "ema90": 82.6088,
+   "close": 78.015
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. (Class C)",
+   "type": "death",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 343.2183,
+   "ema90": 343.2872,
+   "close": 338.195
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. (Class A)",
+   "type": "death",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 346.7156,
+   "ema90": 346.7486,
+   "close": 341.24
+  },
+  {
+   "ticker": "GPC",
+   "name": "Genuine Parts Company",
+   "type": "death",
+   "barTime": "2026-10-20T15:30",
+   "ema36": 129.5289,
+   "ema90": 129.6051,
+   "close": 123.445
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 281.5528,
+   "ema90": 281.2756,
+   "close": 288.675
+  },
+  {
+   "ticker": "LYV",
+   "name": "Live Nation Entertainment",
+   "type": "golden",
+   "barTime": "2026-10-20T15:30",
+   "ema36": 171.6656,
+   "ema90": 171.6032,
+   "close": 174.82
+  },
+  {
+   "ticker": "MLM",
+   "name": "Martin Marietta Materials",
+   "type": "golden",
+   "barTime": "2026-10-20T13:30",
+   "ema36": 490.9871,
+   "ema90": 490.8919,
+   "close": 512.31
+  },
+  {
+   "ticker": "MRK",
+   "name": "Merck & Co.",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 145.3728,
+   "ema90": 145.3548,
+   "close": 148.06
+  },
+  {
+   "ticker": "MSI",
+   "name": "Motorola Solutions",
+   "type": "golden",
+   "barTime": "2026-10-20T15:30",
+   "ema36": 456.4693,
+   "ema90": 456.2639,
+   "close": 463.48
+  },
+  {
+   "ticker": "NDAQ",
+   "name": "Nasdaq, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 93.2609,
+   "ema90": 93.2398,
+   "close": 94.405
+  },
+  {
+   "ticker": "NOC",
+   "name": "Northrop Grumman",
+   "type": "golden",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 501.9598,
+   "ema90": 501.9572,
+   "close": 534.69
+  },
+  {
+   "ticker": "PAYX",
+   "name": "Paychex",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 107.8615,
+   "ema90": 107.6974,
+   "close": 112.7
+  },
+  {
+   "ticker": "PEP",
+   "name": "PepsiCo",
+   "type": "golden",
+   "barTime": "2026-10-20T13:30",
+   "ema36": 129.9959,
+   "ema90": 129.9243,
+   "close": 134.3109
+  },
+  {
+   "ticker": "PKG",
+   "name": "Packaging Corporation of America",
+   "type": "golden",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 233.237,
+   "ema90": 233.2064,
+   "close": 238.43
+  },
+  {
+   "ticker": "PPG",
+   "name": "PPG Industries",
+   "type": "golden",
+   "barTime": "2026-10-20T11:30",
+   "ema36": 106.4258,
+   "ema90": 106.402,
+   "close": 108.2275
+  },
+  {
+   "ticker": "PSA",
+   "name": "Public Storage",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 292.3587,
+   "ema90": 292.062,
+   "close": 301.125
+  },
+  {
+   "ticker": "SBUX",
+   "name": "Starbucks",
+   "type": "golden",
+   "barTime": "2026-10-20T15:30",
+   "ema36": 95.9402,
+   "ema90": 95.8858,
+   "close": 99.37
+  },
+  {
+   "ticker": "UPS",
+   "name": "United Parcel Service",
+   "type": "golden",
+   "barTime": "2026-10-20T13:30",
+   "ema36": 96.3856,
+   "ema90": 96.3129,
+   "close": 98.67
+  },
+  {
+   "ticker": "URI",
+   "name": "United Rentals",
+   "type": "golden",
+   "barTime": "2026-10-20T09:30",
+   "ema36": 1042.0549,
+   "ema90": 1041.9454,
+   "close": 1043.12
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "HAS",
+   "name": "Hasbro",
+   "type": "above",
+   "close": 109.53,
+   "upper": 107.5225,
+   "lower": 76.6018,
+   "beta": 0.818,
+   "betaMean": 0.6649
+  },
+  {
+   "ticker": "WDAY",
+   "name": "Workday, Inc.",
+   "type": "above",
+   "close": 204.04,
+   "upper": 202.2506,
+   "lower": 177.7884,
+   "beta": 0.8343,
+   "betaMean": 0.4973
+  }
+ ]
+}
