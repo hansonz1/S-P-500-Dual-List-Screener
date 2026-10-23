@@ -1,0 +1,455 @@
+{
+ "date": "2026-10-23",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AME",
+   "name": "Ametek",
+   "type": "death",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 246.8361,
+   "ema90": 246.9851,
+   "close": 236.24
+  },
+  {
+   "ticker": "AON",
+   "name": "Aon plc",
+   "type": "golden",
+   "barTime": "2026-10-22T09:30",
+   "ema36": 287.7554,
+   "ema90": 287.3869,
+   "close": 305.57
+  },
+  {
+   "ticker": "CDNS",
+   "name": "Cadence Design Systems",
+   "type": "death",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 328.2084,
+   "ema90": 328.7669,
+   "close": 312.645
+  },
+  {
+   "ticker": "CLX",
+   "name": "Clorox",
+   "type": "golden",
+   "barTime": "2026-10-22T15:30",
+   "ema36": 85.7416,
+   "ema90": 85.6493,
+   "close": 88.66
+  },
+  {
+   "ticker": "COO",
+   "name": "Cooper Companies (The)",
+   "type": "golden",
+   "barTime": "2026-10-22T09:30",
+   "ema36": 57.5284,
+   "ema90": 57.5036,
+   "close": 60.92
+  },
+  {
+   "ticker": "CPT",
+   "name": "Camden Property Trust",
+   "type": "golden",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 99.1307,
+   "ema90": 99.1098,
+   "close": 102.635
+  },
+  {
+   "ticker": "D",
+   "name": "Dominion Energy",
+   "type": "golden",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 62.6743,
+   "ema90": 62.6365,
+   "close": 64.38
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "golden",
+   "barTime": "2026-10-22T09:30",
+   "ema36": 138.0031,
+   "ema90": 137.8538,
+   "close": 145.925
+  },
+  {
+   "ticker": "DVA",
+   "name": "DaVita",
+   "type": "golden",
+   "barTime": "2026-10-22T15:30",
+   "ema36": 181.8763,
+   "ema90": 181.7173,
+   "close": 186.27
+  },
+  {
+   "ticker": "EIX",
+   "name": "Edison International",
+   "type": "golden",
+   "barTime": "2026-10-22T09:30",
+   "ema36": 55.8796,
+   "ema90": 55.8203,
+   "close": 57.535
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "golden",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 272.5684,
+   "ema90": 272.3357,
+   "close": 282.04
+  },
+  {
+   "ticker": "FDX",
+   "name": "FedEx",
+   "type": "golden",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 295.7627,
+   "ema90": 295.5575,
+   "close": 304.325
+  },
+  {
+   "ticker": "FITB",
+   "name": "Fifth Third Bancorp",
+   "type": "golden",
+   "barTime": "2026-10-22T15:30",
+   "ema36": 51.6482,
+   "ema90": 51.6107,
+   "close": 53.215
+  },
+  {
+   "ticker": "GD",
+   "name": "General Dynamics",
+   "type": "golden",
+   "barTime": "2026-10-22T15:30",
+   "ema36": 341.5227,
+   "ema90": 341.4631,
+   "close": 350.81
+  },
+  {
+   "ticker": "HPQ",
+   "name": "HP Inc.",
+   "type": "golden",
+   "barTime": "2026-10-22T15:30",
+   "ema36": 31.3076,
+   "ema90": 31.2506,
+   "close": 33.79
+  },
+  {
+   "ticker": "HRL",
+   "name": "Hormel Foods",
+   "type": "golden",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 20.2844,
+   "ema90": 20.2727,
+   "close": 21.25
+  },
+  {
+   "ticker": "J",
+   "name": "Jacobs Solutions",
+   "type": "golden",
+   "barTime": "2026-10-22T09:30",
+   "ema36": 140.4086,
+   "ema90": 140.381,
+   "close": 144.54
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "death",
+   "barTime": "2026-10-22T09:30",
+   "ema36": 149.7793,
+   "ema90": 149.9143,
+   "close": 143.3667
+  },
+  {
+   "ticker": "KEY",
+   "name": "KeyCorp",
+   "type": "golden",
+   "barTime": "2026-10-22T15:30",
+   "ema36": 20.4799,
+   "ema90": 20.4572,
+   "close": 21.225
+  },
+  {
+   "ticker": "KHC",
+   "name": "Kraft Heinz",
+   "type": "golden",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 23.3326,
+   "ema90": 23.2846,
+   "close": 24.75
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms",
+   "type": "death",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 709.7587,
+   "ema90": 710.7652,
+   "close": 647.615
+  },
+  {
+   "ticker": "NEE",
+   "name": "NextEra Energy",
+   "type": "golden",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 78.8296,
+   "ema90": 78.7335,
+   "close": 81.94
+  },
+  {
+   "ticker": "RTX",
+   "name": "RTX Corporation",
+   "type": "golden",
+   "barTime": "2026-10-22T15:30",
+   "ema36": 190.0582,
+   "ema90": 190.0293,
+   "close": 194.78
+  },
+  {
+   "ticker": "SPG",
+   "name": "Simon Property Group",
+   "type": "golden",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 204.1261,
+   "ema90": 203.8795,
+   "close": 211.615
+  },
+  {
+   "ticker": "SYF",
+   "name": "Synchrony Financial",
+   "type": "golden",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 73.5124,
+   "ema90": 73.4797,
+   "close": 74.64
+  },
+  {
+   "ticker": "TEL",
+   "name": "TE Connectivity",
+   "type": "death",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 212.9593,
+   "ema90": 213.0402,
+   "close": 207.625
+  },
+  {
+   "ticker": "UDR",
+   "name": "UDR, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-22T09:30",
+   "ema36": 34.3395,
+   "ema90": 34.3154,
+   "close": 36.08
+  },
+  {
+   "ticker": "VMRK",
+   "name": "Vivmark Residential",
+   "type": "golden",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 61.5966,
+   "ema90": 61.5831,
+   "close": 63.7
+  },
+  {
+   "ticker": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "type": "golden",
+   "barTime": "2026-10-22T13:30",
+   "ema36": 512.9624,
+   "ema90": 512.1932,
+   "close": 536.51
+  },
+  {
+   "ticker": "XYL",
+   "name": "Xylem Inc.",
+   "type": "golden",
+   "barTime": "2026-10-22T11:30",
+   "ema36": 104.4416,
+   "ema90": 104.4261,
+   "close": 108.245
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "ADBE",
+   "name": "Adobe Inc.",
+   "type": "above",
+   "close": 270.65,
+   "upper": 268.5611,
+   "lower": 214.8123,
+   "beta": 0.2611,
+   "betaMean": 0.1859
+  },
+  {
+   "ticker": "AWK",
+   "name": "American Water Works",
+   "type": "above",
+   "close": 143.24,
+   "upper": 141.5953,
+   "lower": 121.0955,
+   "beta": -0.3017,
+   "betaMean": -0.3338
+  },
+  {
+   "ticker": "COO",
+   "name": "Cooper Companies (The)",
+   "type": "above",
+   "close": 61.64,
+   "upper": 61.6068,
+   "lower": 51.3955,
+   "beta": 0.1661,
+   "betaMean": 0.1547
+  },
+  {
+   "ticker": "CPT",
+   "name": "Camden Property Trust",
+   "type": "above",
+   "close": 102.74,
+   "upper": 102.2114,
+   "lower": 93.6733,
+   "beta": 0.0163,
+   "betaMean": -0.0691
+  },
+  {
+   "ticker": "D",
+   "name": "Dominion Energy",
+   "type": "above",
+   "close": 65.39,
+   "upper": 65.1834,
+   "lower": 58.4317,
+   "beta": -0.018,
+   "betaMean": -0.0743
+  },
+  {
+   "ticker": "DOW",
+   "name": "Dow Inc.",
+   "type": "above",
+   "close": 31.805,
+   "upper": 31.8023,
+   "lower": 25.6719,
+   "beta": -0.4517,
+   "betaMean": -0.7085
+  },
+  {
+   "ticker": "DXCM",
+   "name": "Dexcom",
+   "type": "below",
+   "close": 78.33,
+   "upper": 92.1772,
+   "lower": 78.4865,
+   "beta": 0.1106,
+   "betaMean": 0.1644
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "above",
+   "close": 282.61,
+   "upper": 280.3275,
+   "lower": 262.7501,
+   "beta": 0.054,
+   "betaMean": -0.038
+  },
+  {
+   "ticker": "FCX",
+   "name": "Freeport-McMoRan",
+   "type": "below",
+   "close": 64.555,
+   "upper": 77.0795,
+   "lower": 64.8248,
+   "beta": 2.2972,
+   "betaMean": 2.3679
+  },
+  {
+   "ticker": "FISV",
+   "name": "Fiserv",
+   "type": "above",
+   "close": 50.82,
+   "upper": 50.383,
+   "lower": 42.3946,
+   "beta": 0.3964,
+   "betaMean": 0.069
+  },
+  {
+   "ticker": "FOX",
+   "name": "Fox Corporation (Class B)",
+   "type": "above",
+   "close": 60.8,
+   "upper": 60.7832,
+   "lower": 52.7375,
+   "beta": 0.2056,
+   "betaMean": -0.1628
+  },
+  {
+   "ticker": "HWM",
+   "name": "Howmet Aerospace",
+   "type": "below",
+   "close": 193.25,
+   "upper": 250.0626,
+   "lower": 194.999,
+   "beta": 0.7317,
+   "betaMean": 0.7688
+  },
+  {
+   "ticker": "KIM",
+   "name": "Kimco Realty",
+   "type": "above",
+   "close": 23.58,
+   "upper": 23.4911,
+   "lower": 21.352,
+   "beta": 0.0251,
+   "betaMean": -0.0914
+  },
+  {
+   "ticker": "KR",
+   "name": "Kroger",
+   "type": "above",
+   "close": 67.875,
+   "upper": 67.6317,
+   "lower": 54.257,
+   "beta": -0.4966,
+   "betaMean": -0.5927
+  },
+  {
+   "ticker": "SPG",
+   "name": "Simon Property Group",
+   "type": "above",
+   "close": 212.05,
+   "upper": 211.7606,
+   "lower": 193.9063,
+   "beta": 0.1352,
+   "betaMean": 0.0088
+  },
+  {
+   "ticker": "UDR",
+   "name": "UDR, Inc.",
+   "type": "above",
+   "close": 36.175,
+   "upper": 35.7816,
+   "lower": 32.1963,
+   "beta": -0.0167,
+   "betaMean": -0.0351
+  },
+  {
+   "ticker": "WDAY",
+   "name": "Workday, Inc.",
+   "type": "above",
+   "close": 209.9855,
+   "upper": 209.5059,
+   "lower": 172.905,
+   "beta": 0.7265,
+   "betaMean": 0.524
+  }
+ ]
+}
