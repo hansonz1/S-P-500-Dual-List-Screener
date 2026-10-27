@@ -1,0 +1,161 @@
+{
+ "date": "2026-10-27",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "type": "death",
+   "barTime": "2026-10-26T09:30",
+   "ema36": 255.1071,
+   "ema90": 255.2778,
+   "close": 249.69
+  },
+  {
+   "ticker": "CARR",
+   "name": "Carrier Global",
+   "type": "golden",
+   "barTime": "2026-10-26T09:30",
+   "ema36": 55.7963,
+   "ema90": 55.7682,
+   "close": 56.67
+  },
+  {
+   "ticker": "CPRT",
+   "name": "Copart",
+   "type": "golden",
+   "barTime": "2026-10-26T11:30",
+   "ema36": 28.0922,
+   "ema90": 28.0703,
+   "close": 29.015
+  },
+  {
+   "ticker": "CRH",
+   "name": "CRH plc",
+   "type": "golden",
+   "barTime": "2026-10-26T15:30",
+   "ema36": 84.4325,
+   "ema90": 84.4064,
+   "close": 85.435
+  },
+  {
+   "ticker": "FTNT",
+   "name": "Fortinet",
+   "type": "golden",
+   "barTime": "2026-10-26T11:30",
+   "ema36": 177.9151,
+   "ema90": 177.7395,
+   "close": 183.8199
+  },
+  {
+   "ticker": "JNJ",
+   "name": "Johnson & Johnson",
+   "type": "golden",
+   "barTime": "2026-10-26T15:30",
+   "ema36": 260.9233,
+   "ema90": 260.7721,
+   "close": 266.35
+  },
+  {
+   "ticker": "LULU",
+   "name": "Lululemon Athletica",
+   "type": "golden",
+   "barTime": "2026-10-26T09:30",
+   "ema36": 98.3878,
+   "ema90": 98.2763,
+   "close": 102.315
+  },
+  {
+   "ticker": "LUV",
+   "name": "Southwest Airlines",
+   "type": "golden",
+   "barTime": "2026-10-26T11:30",
+   "ema36": 40.9004,
+   "ema90": 40.8552,
+   "close": 42.47
+  },
+  {
+   "ticker": "MRK",
+   "name": "Merck & Co.",
+   "type": "death",
+   "barTime": "2026-10-26T13:30",
+   "ema36": 145.6952,
+   "ema90": 145.8122,
+   "close": 140.245
+  },
+  {
+   "ticker": "O",
+   "name": "Realty Income",
+   "type": "golden",
+   "barTime": "2026-10-26T11:30",
+   "ema36": 56.0099,
+   "ema90": 55.9898,
+   "close": 56.86
+  },
+  {
+   "ticker": "SLB",
+   "name": "Schlumberger",
+   "type": "golden",
+   "barTime": "2026-10-26T11:30",
+   "ema36": 50.4144,
+   "ema90": 50.3323,
+   "close": 52.725
+  },
+  {
+   "ticker": "VICI",
+   "name": "Vici Properties",
+   "type": "golden",
+   "barTime": "2026-10-26T15:30",
+   "ema36": 23.5192,
+   "ema90": 23.5108,
+   "close": 24.03
+  },
+  {
+   "ticker": "VTR",
+   "name": "Ventas",
+   "type": "golden",
+   "barTime": "2026-10-26T09:30",
+   "ema36": 85.636,
+   "ema90": 85.5697,
+   "close": 87.35
+  },
+  {
+   "ticker": "XYZ",
+   "name": "Block, Inc.",
+   "type": "death",
+   "barTime": "2026-10-26T13:30",
+   "ema36": 77.1374,
+   "ema90": 77.1757,
+   "close": 74.2
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "DASH",
+   "name": "DoorDash",
+   "type": "below",
+   "close": 168.35,
+   "upper": 204.5015,
+   "lower": 170.8087,
+   "beta": 1.269,
+   "betaMean": 1.5278
+  },
+  {
+   "ticker": "PCAR",
+   "name": "Paccar",
+   "type": "below",
+   "close": 104.265,
+   "upper": 114.321,
+   "lower": 104.4279,
+   "beta": 0.4576,
+   "betaMean": 0.8327
+  }
+ ]
+}
