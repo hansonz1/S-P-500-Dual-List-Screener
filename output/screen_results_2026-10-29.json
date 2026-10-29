@@ -1,0 +1,207 @@
+{
+ "date": "2026-10-29",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ARES",
+   "name": "Ares Management",
+   "type": "golden",
+   "barTime": "2026-10-28T09:30",
+   "ema36": 119.6899,
+   "ema90": 119.6578,
+   "close": 122.735
+  },
+  {
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "type": "death",
+   "barTime": "2026-10-28T11:30",
+   "ema36": 61.0257,
+   "ema90": 61.0461,
+   "close": 60.56
+  },
+  {
+   "ticker": "CPAY",
+   "name": "Corpay",
+   "type": "death",
+   "barTime": "2026-10-28T13:30",
+   "ema36": 401.5138,
+   "ema90": 401.6427,
+   "close": 394.73
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "death",
+   "barTime": "2026-10-28T13:30",
+   "ema36": 272.9468,
+   "ema90": 273.0398,
+   "close": 262.1
+  },
+  {
+   "ticker": "FFIV",
+   "name": "F5, Inc.",
+   "type": "death",
+   "barTime": "2026-10-28T11:30",
+   "ema36": 448.3455,
+   "ema90": 450.4764,
+   "close": 365.68
+  },
+  {
+   "ticker": "HSY",
+   "name": "Hershey Company (The)",
+   "type": "death",
+   "barTime": "2026-10-28T13:30",
+   "ema36": 166.9956,
+   "ema90": 167.0005,
+   "close": 163.25
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "golden",
+   "barTime": "2026-10-28T09:30",
+   "ema36": 149.5745,
+   "ema90": 149.4971,
+   "close": 157.565
+  },
+  {
+   "ticker": "LII",
+   "name": "Lennox International",
+   "type": "death",
+   "barTime": "2026-10-28T11:30",
+   "ema36": 363.5675,
+   "ema90": 364.4582,
+   "close": 333.955
+  },
+  {
+   "ticker": "ODFL",
+   "name": "Old Dominion",
+   "type": "death",
+   "barTime": "2026-10-28T13:30",
+   "ema36": 183.9279,
+   "ema90": 184.0146,
+   "close": 173.86
+  },
+  {
+   "ticker": "PNC",
+   "name": "PNC Financial Services",
+   "type": "golden",
+   "barTime": "2026-10-28T11:30",
+   "ema36": 223.7158,
+   "ema90": 223.648,
+   "close": 228.0
+  },
+  {
+   "ticker": "QCOM",
+   "name": "Qualcomm",
+   "type": "golden",
+   "barTime": "2026-10-28T15:30",
+   "ema36": 178.468,
+   "ema90": 178.366,
+   "close": 182.99
+  },
+  {
+   "ticker": "ROK",
+   "name": "Rockwell Automation",
+   "type": "golden",
+   "barTime": "2026-10-28T09:30",
+   "ema36": 431.7422,
+   "ema90": 431.6253,
+   "close": 441.95
+  },
+  {
+   "ticker": "ROST",
+   "name": "Ross Stores",
+   "type": "death",
+   "barTime": "2026-10-28T13:30",
+   "ema36": 232.0193,
+   "ema90": 232.0224,
+   "close": 227.17
+  },
+  {
+   "ticker": "TSCO",
+   "name": "Tractor Supply",
+   "type": "death",
+   "barTime": "2026-10-28T09:30",
+   "ema36": 32.8702,
+   "ema90": 32.874,
+   "close": 31.8
+  },
+  {
+   "ticker": "TT",
+   "name": "Trane Technologies",
+   "type": "death",
+   "barTime": "2026-10-28T13:30",
+   "ema36": 458.7848,
+   "ema90": 459.1959,
+   "close": 452.295
+  },
+  {
+   "ticker": "VLO",
+   "name": "Valero Energy",
+   "type": "death",
+   "barTime": "2026-10-28T11:30",
+   "ema36": 418.697,
+   "ema90": 418.7688,
+   "close": 387.215
+  },
+  {
+   "ticker": "WELL",
+   "name": "Welltower",
+   "type": "death",
+   "barTime": "2026-10-28T15:30",
+   "ema36": 232.2236,
+   "ema90": 232.2421,
+   "close": 227.0
+  },
+  {
+   "ticker": "WFC",
+   "name": "Wells Fargo",
+   "type": "golden",
+   "barTime": "2026-10-28T15:30",
+   "ema36": 82.7848,
+   "ema90": 82.7736,
+   "close": 83.74
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "BA",
+   "name": "Boeing",
+   "type": "below",
+   "close": 167.14,
+   "upper": 206.2744,
+   "lower": 168.0689,
+   "beta": 1.0045,
+   "betaMean": 1.3824
+  },
+  {
+   "ticker": "LH",
+   "name": "Labcorp",
+   "type": "above",
+   "close": 360.48,
+   "upper": 355.7625,
+   "lower": 282.1591,
+   "beta": 0.1577,
+   "betaMean": 0.0146
+  },
+  {
+   "ticker": "XYL",
+   "name": "Xylem Inc.",
+   "type": "below",
+   "close": 88.25,
+   "upper": 115.5989,
+   "lower": 89.56,
+   "beta": 0.3182,
+   "betaMean": 0.648
+  }
+ ]
+}
