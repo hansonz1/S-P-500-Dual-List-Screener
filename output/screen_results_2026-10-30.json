@@ -1,0 +1,215 @@
+{
+ "date": "2026-10-30",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AME",
+   "name": "Ametek",
+   "type": "golden",
+   "barTime": "2026-10-29T11:30",
+   "ema36": 246.2709,
+   "ema90": 246.1942,
+   "close": 251.425
+  },
+  {
+   "ticker": "BNY",
+   "name": "BNY Mellon",
+   "type": "golden",
+   "barTime": "2026-10-29T11:30",
+   "ema36": 146.3981,
+   "ema90": 146.3554,
+   "close": 149.67
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "death",
+   "barTime": "2026-10-29T15:30",
+   "ema36": 44.0399,
+   "ema90": 44.0833,
+   "close": 42.68
+  },
+  {
+   "ticker": "BX",
+   "name": "Blackstone Inc.",
+   "type": "golden",
+   "barTime": "2026-10-29T11:30",
+   "ema36": 115.5653,
+   "ema90": 115.4815,
+   "close": 119.605
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "golden",
+   "barTime": "2026-10-29T13:30",
+   "ema36": 61.0739,
+   "ema90": 61.0275,
+   "close": 62.9
+  },
+  {
+   "ticker": "CFG",
+   "name": "Citizens Financial Group",
+   "type": "golden",
+   "barTime": "2026-10-29T09:30",
+   "ema36": 64.9388,
+   "ema90": 64.9057,
+   "close": 66.265
+  },
+  {
+   "ticker": "ECHO",
+   "name": "EchoStar",
+   "type": "golden",
+   "barTime": "2026-10-29T11:30",
+   "ema36": 91.0364,
+   "ema90": 90.8355,
+   "close": 97.75
+  },
+  {
+   "ticker": "FRT",
+   "name": "Federal Realty Investment Trust",
+   "type": "golden",
+   "barTime": "2026-10-29T13:30",
+   "ema36": 108.4211,
+   "ema90": 108.2793,
+   "close": 111.71
+  },
+  {
+   "ticker": "FTNT",
+   "name": "Fortinet",
+   "type": "death",
+   "barTime": "2026-10-29T09:30",
+   "ema36": 176.8736,
+   "ema90": 177.4788,
+   "close": 136.125
+  },
+  {
+   "ticker": "GEN",
+   "name": "Gen Digital",
+   "type": "golden",
+   "barTime": "2026-10-29T11:30",
+   "ema36": 24.5705,
+   "ema90": 24.5193,
+   "close": 27.705
+  },
+  {
+   "ticker": "INVH",
+   "name": "Invitation Homes",
+   "type": "death",
+   "barTime": "2026-10-29T09:30",
+   "ema36": 27.0294,
+   "ema90": 27.0375,
+   "close": 26.39
+  },
+  {
+   "ticker": "IP",
+   "name": "International Paper",
+   "type": "golden",
+   "barTime": "2026-10-29T09:30",
+   "ema36": 33.586,
+   "ema90": 33.512,
+   "close": 36.265
+  },
+  {
+   "ticker": "IRM",
+   "name": "Iron Mountain",
+   "type": "golden",
+   "barTime": "2026-10-29T09:30",
+   "ema36": 113.6569,
+   "ema90": 113.5691,
+   "close": 119.44
+  },
+  {
+   "ticker": "NDSN",
+   "name": "Nordson Corporation",
+   "type": "golden",
+   "barTime": "2026-10-29T11:30",
+   "ema36": 325.0095,
+   "ema90": 324.871,
+   "close": 329.92
+  },
+  {
+   "ticker": "PFG",
+   "name": "Principal Financial Group",
+   "type": "golden",
+   "barTime": "2026-10-29T11:30",
+   "ema36": 110.2371,
+   "ema90": 110.2051,
+   "close": 113.42
+  },
+  {
+   "ticker": "PRU",
+   "name": "Prudential Financial",
+   "type": "golden",
+   "barTime": "2026-10-29T09:30",
+   "ema36": 115.342,
+   "ema90": 115.34,
+   "close": 117.01
+  },
+  {
+   "ticker": "TROW",
+   "name": "T. Rowe Price",
+   "type": "golden",
+   "barTime": "2026-10-29T15:30",
+   "ema36": 103.7888,
+   "ema90": 103.7369,
+   "close": 106.595
+  },
+  {
+   "ticker": "TSCO",
+   "name": "Tractor Supply",
+   "type": "golden",
+   "barTime": "2026-10-29T15:30",
+   "ema36": 32.8295,
+   "ema90": 32.819,
+   "close": 33.645
+  },
+  {
+   "ticker": "UHS",
+   "name": "Universal Health Services",
+   "type": "death",
+   "barTime": "2026-10-29T13:30",
+   "ema36": 180.0823,
+   "ema90": 180.1003,
+   "close": 176.41
+  },
+  {
+   "ticker": "WELL",
+   "name": "Welltower",
+   "type": "golden",
+   "barTime": "2026-10-29T09:30",
+   "ema36": 232.272,
+   "ema90": 232.1987,
+   "close": 233.12
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "LH",
+   "name": "Labcorp",
+   "type": "above",
+   "close": 368.18,
+   "upper": 367.0179,
+   "lower": 275.8479,
+   "beta": 0.1652,
+   "betaMean": 0.018
+  },
+  {
+   "ticker": "NOW",
+   "name": "ServiceNow",
+   "type": "below",
+   "close": 109.65,
+   "upper": 173.8463,
+   "lower": 111.23,
+   "beta": 0.9653,
+   "betaMean": 0.9753
+  }
+ ]
+}
