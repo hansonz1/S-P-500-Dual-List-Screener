@@ -1,0 +1,241 @@
+{
+ "date": "2026-10-31",
+ "stats": {
+  "total": 503,
+  "ok": 501,
+  "failed": [
+   "SKYD",
+   "VYLR"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AME",
+   "name": "Ametek",
+   "type": "death",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 246.1902,
+   "ema90": 246.3777,
+   "close": 240.41
+  },
+  {
+   "ticker": "BAX",
+   "name": "Baxter International",
+   "type": "death",
+   "barTime": "2026-10-30T11:30",
+   "ema36": 24.6333,
+   "ema90": 24.6835,
+   "close": 22.575
+  },
+  {
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "type": "golden",
+   "barTime": "2026-10-30T09:30",
+   "ema36": 61.0428,
+   "ema90": 61.0391,
+   "close": 62.735
+  },
+  {
+   "ticker": "CARR",
+   "name": "Carrier Global",
+   "type": "death",
+   "barTime": "2026-10-30T09:30",
+   "ema36": 55.8298,
+   "ema90": 55.8399,
+   "close": 53.315
+  },
+  {
+   "ticker": "CF",
+   "name": "CF Industries",
+   "type": "golden",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 119.3872,
+   "ema90": 119.304,
+   "close": 122.35
+  },
+  {
+   "ticker": "CFG",
+   "name": "Citizens Financial Group",
+   "type": "death",
+   "barTime": "2026-10-30T11:30",
+   "ema36": 64.9443,
+   "ema90": 64.9613,
+   "close": 63.7205
+  },
+  {
+   "ticker": "CMCSA",
+   "name": "Comcast",
+   "type": "golden",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 22.1452,
+   "ema90": 22.1442,
+   "close": 23.065
+  },
+  {
+   "ticker": "CVNA",
+   "name": "Carvana",
+   "type": "golden",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 62.1023,
+   "ema90": 61.9755,
+   "close": 69.48
+  },
+  {
+   "ticker": "DDOG",
+   "name": "Datadog",
+   "type": "death",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 265.3155,
+   "ema90": 265.6694,
+   "close": 234.61
+  },
+  {
+   "ticker": "FOX",
+   "name": "Fox Corporation (Class B)",
+   "type": "death",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 57.5059,
+   "ema90": 57.5341,
+   "close": 56.11
+  },
+  {
+   "ticker": "GM",
+   "name": "General Motors",
+   "type": "golden",
+   "barTime": "2026-10-30T09:30",
+   "ema36": 81.0187,
+   "ema90": 80.9616,
+   "close": 87.13
+  },
+  {
+   "ticker": "GPN",
+   "name": "Global Payments",
+   "type": "golden",
+   "barTime": "2026-10-30T09:30",
+   "ema36": 83.6108,
+   "ema90": 83.5995,
+   "close": 86.12
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "death",
+   "barTime": "2026-10-30T11:30",
+   "ema36": 283.7364,
+   "ema90": 283.9328,
+   "close": 275.52
+  },
+  {
+   "ticker": "INCY",
+   "name": "Incyte",
+   "type": "golden",
+   "barTime": "2026-10-30T15:30",
+   "ema36": 116.412,
+   "ema90": 116.3126,
+   "close": 120.36
+  },
+  {
+   "ticker": "IR",
+   "name": "Ingersoll Rand",
+   "type": "golden",
+   "barTime": "2026-10-30T11:30",
+   "ema36": 76.8576,
+   "ema90": 76.8447,
+   "close": 79.915
+  },
+  {
+   "ticker": "JPM",
+   "name": "JPMorgan Chase",
+   "type": "death",
+   "barTime": "2026-10-30T09:30",
+   "ema36": 337.4112,
+   "ema90": 337.4987,
+   "close": 338.88
+  },
+  {
+   "ticker": "KKR",
+   "name": "KKR & Co.",
+   "type": "golden",
+   "barTime": "2026-10-30T09:30",
+   "ema36": 92.126,
+   "ema90": 92.1017,
+   "close": 95.1
+  },
+  {
+   "ticker": "MRK",
+   "name": "Merck & Co.",
+   "type": "golden",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 145.4079,
+   "ema90": 145.4036,
+   "close": 149.3
+  },
+  {
+   "ticker": "NDSN",
+   "name": "Nordson Corporation",
+   "type": "death",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 324.9544,
+   "ema90": 325.0277,
+   "close": 321.3
+  },
+  {
+   "ticker": "NOW",
+   "name": "ServiceNow",
+   "type": "death",
+   "barTime": "2026-10-30T09:30",
+   "ema36": 141.2501,
+   "ema90": 142.4202,
+   "close": 105.815
+  },
+  {
+   "ticker": "NWS",
+   "name": "News Corp (Class B)",
+   "type": "death",
+   "barTime": "2026-10-30T11:30",
+   "ema36": 32.6953,
+   "ema90": 32.7121,
+   "close": 31.95
+  },
+  {
+   "ticker": "PANW",
+   "name": "Palo Alto Networks",
+   "type": "death",
+   "barTime": "2026-10-30T13:30",
+   "ema36": 377.5991,
+   "ema90": 377.8345,
+   "close": 363.3375
+  },
+  {
+   "ticker": "QCOM",
+   "name": "Qualcomm",
+   "type": "death",
+   "barTime": "2026-10-30T11:30",
+   "ema36": 177.9453,
+   "ema90": 178.3351,
+   "close": 164.145
+  },
+  {
+   "ticker": "ZBRA",
+   "name": "Zebra Technologies",
+   "type": "death",
+   "barTime": "2026-10-30T15:30",
+   "ema36": 376.1361,
+   "ema90": 376.4302,
+   "close": 361.145
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "APP",
+   "name": "AppLovin",
+   "type": "below",
+   "close": 228.5,
+   "upper": 303.3736,
+   "lower": 234.5675,
+   "beta": 1.8106,
+   "betaMean": 1.8916
+  }
+ ]
+}
