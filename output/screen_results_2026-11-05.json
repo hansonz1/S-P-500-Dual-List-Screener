@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-05",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "SKYD"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AME",
+   "name": "Ametek",
+   "type": "death",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 245.7824,
+   "ema90": 246.5736,
+   "close": 233.195
+  },
+  {
+   "ticker": "AMP",
+   "name": "Ameriprise Financial",
+   "type": "golden",
+   "barTime": "2026-11-04T11:30",
+   "ema36": 499.3137,
+   "ema90": 499.0597,
+   "close": 523.13
+  },
+  {
+   "ticker": "APO",
+   "name": "Apollo Global Management",
+   "type": "golden",
+   "barTime": "2026-11-04T15:30",
+   "ema36": 116.8465,
+   "ema90": 116.6999,
+   "close": 122.8
+  },
+  {
+   "ticker": "BAX",
+   "name": "Baxter International",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 24.638,
+   "ema90": 24.5815,
+   "close": 26.815
+  },
+  {
+   "ticker": "BEN",
+   "name": "Franklin Resources",
+   "type": "golden",
+   "barTime": "2026-11-04T11:30",
+   "ema36": 31.9739,
+   "ema90": 31.9034,
+   "close": 33.68
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "golden",
+   "barTime": "2026-11-04T11:30",
+   "ema36": 43.9965,
+   "ema90": 43.9724,
+   "close": 46.005
+  },
+  {
+   "ticker": "CBRE",
+   "name": "CBRE Group",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 131.3806,
+   "ema90": 131.2169,
+   "close": 141.08
+  },
+  {
+   "ticker": "CF",
+   "name": "CF Industries",
+   "type": "death",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 119.1192,
+   "ema90": 119.3097,
+   "close": 114.375
+  },
+  {
+   "ticker": "CFG",
+   "name": "Citizens Financial Group",
+   "type": "golden",
+   "barTime": "2026-11-04T15:30",
+   "ema36": 64.9525,
+   "ema90": 64.9414,
+   "close": 65.91
+  },
+  {
+   "ticker": "CHTR",
+   "name": "Charter Communications",
+   "type": "golden",
+   "barTime": "2026-11-04T13:30",
+   "ema36": 111.9095,
+   "ema90": 111.8986,
+   "close": 119.86
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike",
+   "type": "death",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 250.3756,
+   "ema90": 250.5275,
+   "close": 240.04
+  },
+  {
+   "ticker": "CVS",
+   "name": "CVS Health",
+   "type": "death",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 90.2529,
+   "ema90": 90.6819,
+   "close": 80.59
+  },
+  {
+   "ticker": "DLR",
+   "name": "Digital Realty",
+   "type": "golden",
+   "barTime": "2026-11-04T11:30",
+   "ema36": 178.0842,
+   "ema90": 177.9172,
+   "close": 183.19
+  },
+  {
+   "ticker": "DOC",
+   "name": "Healthpeak Properties",
+   "type": "golden",
+   "barTime": "2026-11-04T13:30",
+   "ema36": 19.2616,
+   "ema90": 19.2385,
+   "close": 20.0799
+  },
+  {
+   "ticker": "DVN",
+   "name": "Devon Energy",
+   "type": "death",
+   "barTime": "2026-11-04T11:30",
+   "ema36": 49.5128,
+   "ema90": 49.6304,
+   "close": 44.8
+  },
+  {
+   "ticker": "EQIX",
+   "name": "Equinix",
+   "type": "golden",
+   "barTime": "2026-11-04T13:30",
+   "ema36": 1006.0846,
+   "ema90": 1004.5514,
+   "close": 1050.14
+  },
+  {
+   "ticker": "EXE",
+   "name": "Expand Energy",
+   "type": "death",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 90.9465,
+   "ema90": 91.0856,
+   "close": 87.14
+  },
+  {
+   "ticker": "F",
+   "name": "Ford Motor Company",
+   "type": "golden",
+   "barTime": "2026-11-04T15:30",
+   "ema36": 12.2797,
+   "ema90": 12.279,
+   "close": 12.67
+  },
+  {
+   "ticker": "FANG",
+   "name": "Diamondback Energy",
+   "type": "death",
+   "barTime": "2026-11-04T15:30",
+   "ema36": 198.4103,
+   "ema90": 198.7718,
+   "close": 182.86
+  },
+  {
+   "ticker": "FIS",
+   "name": "Fidelity National Information Services",
+   "type": "death",
+   "barTime": "2026-11-04T15:30",
+   "ema36": 36.1969,
+   "ema90": 36.205,
+   "close": 29.77
+  },
+  {
+   "ticker": "FSLR",
+   "name": "First Solar",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 179.6338,
+   "ema90": 179.3081,
+   "close": 203.555
+  },
+  {
+   "ticker": "HSIC",
+   "name": "Henry Schein",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 85.2219,
+   "ema90": 85.2207,
+   "close": 88.07
+  },
+  {
+   "ticker": "IQV",
+   "name": "IQVIA",
+   "type": "death",
+   "barTime": "2026-11-04T15:30",
+   "ema36": 267.7666,
+   "ema90": 267.8174,
+   "close": 263.74
+  },
+  {
+   "ticker": "JCI",
+   "name": "Johnson Controls",
+   "type": "death",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 149.8935,
+   "ema90": 150.2099,
+   "close": 139.09
+  },
+  {
+   "ticker": "LVS",
+   "name": "Las Vegas Sands",
+   "type": "golden",
+   "barTime": "2026-11-04T11:30",
+   "ema36": 37.626,
+   "ema90": 37.6194,
+   "close": 40.6
+  },
+  {
+   "ticker": "MAA",
+   "name": "Mid-America Apartment Communities",
+   "type": "golden",
+   "barTime": "2026-11-04T13:30",
+   "ema36": 118.4174,
+   "ema90": 118.3901,
+   "close": 122.055
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 525.7278,
+   "ema90": 524.621,
+   "close": 552.74
+  },
+  {
+   "ticker": "NWSA",
+   "name": "News Corp (Class A)",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 29.7511,
+   "ema90": 29.7362,
+   "close": 30.145
+  },
+  {
+   "ticker": "OXY",
+   "name": "Occidental Petroleum",
+   "type": "death",
+   "barTime": "2026-11-04T15:30",
+   "ema36": 61.1791,
+   "ema90": 61.2498,
+   "close": 57.33
+  },
+  {
+   "ticker": "PSX",
+   "name": "Phillips 66",
+   "type": "death",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 276.8512,
+   "ema90": 277.1569,
+   "close": 256.2374
+  },
+  {
+   "ticker": "RJF",
+   "name": "Raymond James Financial",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 159.7186,
+   "ema90": 159.4735,
+   "close": 166.67
+  },
+  {
+   "ticker": "ROST",
+   "name": "Ross Stores",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 232.025,
+   "ema90": 231.7993,
+   "close": 245.23
+  },
+  {
+   "ticker": "SW",
+   "name": "Smurfit Westrock",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 42.4645,
+   "ema90": 42.3707,
+   "close": 45.69
+  },
+  {
+   "ticker": "TGT",
+   "name": "Target Corporation",
+   "type": "golden",
+   "barTime": "2026-11-04T11:30",
+   "ema36": 154.0461,
+   "ema90": 154.0201,
+   "close": 161.28
+  },
+  {
+   "ticker": "UHS",
+   "name": "Universal Health Services",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 179.7766,
+   "ema90": 179.7332,
+   "close": 191.37
+  },
+  {
+   "ticker": "WMB",
+   "name": "Williams Companies",
+   "type": "death",
+   "barTime": "2026-11-04T13:30",
+   "ema36": 72.1133,
+   "ema90": 72.1714,
+   "close": 66.6
+  },
+  {
+   "ticker": "XYZ",
+   "name": "Block, Inc.",
+   "type": "golden",
+   "barTime": "2026-11-04T09:30",
+   "ema36": 77.0571,
+   "ema90": 76.8703,
+   "close": 87.18
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "ABT",
+   "name": "Abbott Laboratories",
+   "type": "above",
+   "close": 115.55,
+   "upper": 115.4757,
+   "lower": 91.4853,
+   "beta": 0.025,
+   "betaMean": -0.2531
+  },
+  {
+   "ticker": "CLX",
+   "name": "Clorox",
+   "type": "above",
+   "close": 99.21,
+   "upper": 98.0911,
+   "lower": 75.4183,
+   "beta": 0.6339,
+   "betaMean": 0.2074
+  },
+  {
+   "ticker": "CMI",
+   "name": "Cummins",
+   "type": "below",
+   "close": 471.69,
+   "upper": 564.357,
+   "lower": 478.0444,
+   "beta": 0.9679,
+   "betaMean": 1.3336
+  },
+  {
+   "ticker": "CVS",
+   "name": "CVS Health",
+   "type": "below",
+   "close": 80.0,
+   "upper": 99.8111,
+   "lower": 80.2697,
+   "beta": -0.4211,
+   "betaMean": -0.0629
+  },
+  {
+   "ticker": "DOC",
+   "name": "Healthpeak Properties",
+   "type": "above",
+   "close": 20.16,
+   "upper": 20.0533,
+   "lower": 17.8876,
+   "beta": 0.1549,
+   "betaMean": 0.0992
+  },
+  {
+   "ticker": "DPZ",
+   "name": "Domino's",
+   "type": "above",
+   "close": 340.715,
+   "upper": 338.7305,
+   "lower": 282.2542,
+   "beta": 0.317,
+   "betaMean": 0.1916
+  },
+  {
+   "ticker": "DVN",
+   "name": "Devon Energy",
+   "type": "below",
+   "close": 44.105,
+   "upper": 54.6174,
+   "lower": 44.5695,
+   "beta": -1.0189,
+   "betaMean": -0.8803
+  },
+  {
+   "ticker": "FISV",
+   "name": "Fiserv",
+   "type": "above",
+   "close": 62.06,
+   "upper": 60.7717,
+   "lower": 36.7122,
+   "beta": 0.6675,
+   "betaMean": 0.1563
+  },
+  {
+   "ticker": "GWW",
+   "name": "W. W. Grainger",
+   "type": "above",
+   "close": 1489.34,
+   "upper": 1482.8215,
+   "lower": 1192.4563,
+   "beta": 0.3331,
+   "betaMean": 0.1605
+  },
+  {
+   "ticker": "HCA",
+   "name": "HCA Healthcare",
+   "type": "above",
+   "close": 510.85,
+   "upper": 507.696,
+   "lower": 414.9743,
+   "beta": 0.4052,
+   "betaMean": 0.0452
+  },
+  {
+   "ticker": "JPM",
+   "name": "JPMorgan Chase",
+   "type": "above",
+   "close": 352.19,
+   "upper": 350.4415,
+   "lower": 321.6924,
+   "beta": 0.6985,
+   "betaMean": 0.6181
+  },
+  {
+   "ticker": "LVS",
+   "name": "Las Vegas Sands",
+   "type": "above",
+   "close": 40.745,
+   "upper": 40.5551,
+   "lower": 33.5899,
+   "beta": 0.4767,
+   "betaMean": -0.0026
+  },
+  {
+   "ticker": "MGM",
+   "name": "MGM Resorts",
+   "type": "above",
+   "close": 32.81,
+   "upper": 32.76,
+   "lower": 25.9865,
+   "beta": 0.728,
+   "betaMean": 0.579
+  },
+  {
+   "ticker": "MMM",
+   "name": "3M",
+   "type": "above",
+   "close": 193.99,
+   "upper": 193.2727,
+   "lower": 146.4744,
+   "beta": 0.7968,
+   "betaMean": 0.6463
+  },
+  {
+   "ticker": "PFG",
+   "name": "Principal Financial Group",
+   "type": "above",
+   "close": 117.28,
+   "upper": 117.2778,
+   "lower": 102.5105,
+   "beta": 0.6741,
+   "betaMean": 0.3695
+  },
+  {
+   "ticker": "PRU",
+   "name": "Prudential Financial",
+   "type": "above",
+   "close": 126.69,
+   "upper": 124.3153,
+   "lower": 106.7872,
+   "beta": 0.688,
+   "betaMean": 0.457
+  },
+  {
+   "ticker": "RJF",
+   "name": "Raymond James Financial",
+   "type": "above",
+   "close": 168.74,
+   "upper": 167.0949,
+   "lower": 149.8237,
+   "beta": 0.7346,
+   "betaMean": 0.6437
+  },
+  {
+   "ticker": "TGT",
+   "name": "Target Corporation",
+   "type": "above",
+   "close": 163.09,
+   "upper": 162.8781,
+   "lower": 144.4661,
+   "beta": 0.4865,
+   "betaMean": 0.2196
+  },
+  {
+   "ticker": "TKO",
+   "name": "TKO Group Holdings",
+   "type": "above",
+   "close": 193.48,
+   "upper": 192.8994,
+   "lower": 162.1317,
+   "beta": 0.4438,
+   "betaMean": 0.3364
+  },
+  {
+   "ticker": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "type": "below",
+   "close": 287.4,
+   "upper": 390.3686,
+   "lower": 293.101,
+   "beta": -0.0071,
+   "betaMean": 0.3796
+  },
+  {
+   "ticker": "TROW",
+   "name": "T. Rowe Price",
+   "type": "above",
+   "close": 112.5,
+   "upper": 111.5409,
+   "lower": 95.9056,
+   "beta": 0.9027,
+   "betaMean": 0.805
+  },
+  {
+   "ticker": "WYNN",
+   "name": "Wynn Resorts",
+   "type": "above",
+   "close": 82.4,
+   "upper": 82.1343,
+   "lower": 68.9366,
+   "beta": 0.8258,
+   "betaMean": 0.3294
+  },
+  {
+   "ticker": "XYZ",
+   "name": "Block, Inc.",
+   "type": "above",
+   "close": 87.57,
+   "upper": 85.3097,
+   "lower": 69.1815,
+   "beta": 1.7396,
+   "betaMean": 1.7216
+  },
+  {
+   "ticker": "ZBH",
+   "name": "Zimmer Biomet",
+   "type": "above",
+   "close": 110.16,
+   "upper": 108.7141,
+   "lower": 81.182,
+   "beta": 0.468,
+   "betaMean": -0.0154
+  }
+ ]
+}
