@@ -1,0 +1,292 @@
+{
+ "date": "2026-11-06",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "SKYD"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "AES",
+   "name": "AES Corporation",
+   "type": "death",
+   "barTime": "2026-11-05T11:30",
+   "ema36": 14.9292,
+   "ema90": 14.9307,
+   "close": 14.88
+  },
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "type": "golden",
+   "barTime": "2026-11-05T11:30",
+   "ema36": 253.8581,
+   "ema90": 253.7515,
+   "close": 259.5199
+  },
+  {
+   "ticker": "APA",
+   "name": "APA Corporation",
+   "type": "death",
+   "barTime": "2026-11-05T15:30",
+   "ema36": 47.9876,
+   "ema90": 48.0293,
+   "close": 43.44
+  },
+  {
+   "ticker": "APO",
+   "name": "Apollo Global Management",
+   "type": "golden",
+   "barTime": "2026-11-05T15:30",
+   "ema36": 116.8457,
+   "ema90": 116.8401,
+   "close": 117.32
+  },
+  {
+   "ticker": "APP",
+   "name": "AppLovin",
+   "type": "golden",
+   "barTime": "2026-11-05T15:30",
+   "ema36": 274.5182,
+   "ema90": 273.3321,
+   "close": 356.36
+  },
+  {
+   "ticker": "CDNS",
+   "name": "Cadence Design Systems",
+   "type": "death",
+   "barTime": "2026-11-05T11:30",
+   "ema36": 328.4758,
+   "ema90": 328.8983,
+   "close": 313.63
+  },
+  {
+   "ticker": "CFG",
+   "name": "Citizens Financial Group",
+   "type": "death",
+   "barTime": "2026-11-05T09:30",
+   "ema36": 64.9394,
+   "ema90": 64.9857,
+   "close": 64.7099
+  },
+  {
+   "ticker": "IEX",
+   "name": "IDEX Corporation",
+   "type": "death",
+   "barTime": "2026-11-05T13:30",
+   "ema36": 233.4447,
+   "ema90": 233.5937,
+   "close": 222.6375
+  },
+  {
+   "ticker": "INVH",
+   "name": "Invitation Homes",
+   "type": "golden",
+   "barTime": "2026-11-05T11:30",
+   "ema36": 26.993,
+   "ema90": 26.9901,
+   "close": 27.335
+  },
+  {
+   "ticker": "IRM",
+   "name": "Iron Mountain",
+   "type": "death",
+   "barTime": "2026-11-05T15:30",
+   "ema36": 113.9237,
+   "ema90": 114.096,
+   "close": 105.31
+  },
+  {
+   "ticker": "KMI",
+   "name": "Kinder Morgan",
+   "type": "death",
+   "barTime": "2026-11-05T09:30",
+   "ema36": 32.9717,
+   "ema90": 32.9736,
+   "close": 31.29
+  },
+  {
+   "ticker": "MCHP",
+   "name": "Microchip Technology",
+   "type": "death",
+   "barTime": "2026-11-05T11:30",
+   "ema36": 76.3431,
+   "ema90": 76.5445,
+   "close": 67.65
+  },
+  {
+   "ticker": "MOS",
+   "name": "Mosaic Company (The)",
+   "type": "golden",
+   "barTime": "2026-11-05T15:30",
+   "ema36": 19.5903,
+   "ema90": 19.519,
+   "close": 22.35
+  },
+  {
+   "ticker": "NDSN",
+   "name": "Nordson Corporation",
+   "type": "death",
+   "barTime": "2026-11-05T13:30",
+   "ema36": 325.6287,
+   "ema90": 325.8106,
+   "close": 312.83
+  },
+  {
+   "ticker": "NWSA",
+   "name": "News Corp (Class A)",
+   "type": "death",
+   "barTime": "2026-11-05T09:30",
+   "ema36": 29.707,
+   "ema90": 29.772,
+   "close": 27.14
+  },
+  {
+   "ticker": "OKE",
+   "name": "Oneok",
+   "type": "death",
+   "barTime": "2026-11-05T09:30",
+   "ema36": 92.8153,
+   "ema90": 92.8718,
+   "close": 89.19
+  },
+  {
+   "ticker": "ROK",
+   "name": "Rockwell Automation",
+   "type": "death",
+   "barTime": "2026-11-05T13:30",
+   "ema36": 432.3656,
+   "ema90": 433.8761,
+   "close": 381.285
+  },
+  {
+   "ticker": "STLD",
+   "name": "Steel Dynamics",
+   "type": "death",
+   "barTime": "2026-11-05T15:30",
+   "ema36": 241.6185,
+   "ema90": 242.2151,
+   "close": 221.91
+  },
+  {
+   "ticker": "TRGP",
+   "name": "Targa Resources",
+   "type": "death",
+   "barTime": "2026-11-05T15:30",
+   "ema36": 293.9666,
+   "ema90": 294.4647,
+   "close": 271.66
+  },
+  {
+   "ticker": "TRMB",
+   "name": "Trimble Inc.",
+   "type": "death",
+   "barTime": "2026-11-05T13:30",
+   "ema36": 60.9847,
+   "ema90": 61.2219,
+   "close": 52.985
+  },
+  {
+   "ticker": "VZ",
+   "name": "Verizon",
+   "type": "golden",
+   "barTime": "2026-11-05T11:30",
+   "ema36": 44.9874,
+   "ema90": 44.955,
+   "close": 46.54
+  },
+  {
+   "ticker": "WYNN",
+   "name": "Wynn Resorts",
+   "type": "golden",
+   "barTime": "2026-11-05T13:30",
+   "ema36": 77.1664,
+   "ema90": 77.1526,
+   "close": 78.87
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "ADI",
+   "name": "Analog Devices",
+   "type": "below",
+   "close": 361.19,
+   "upper": 446.7117,
+   "lower": 366.6847,
+   "beta": 1.7002,
+   "betaMean": 1.891
+  },
+  {
+   "ticker": "CHTR",
+   "name": "Charter Communications",
+   "type": "above",
+   "close": 125.85,
+   "upper": 123.9982,
+   "lower": 94.464,
+   "beta": 0.3205,
+   "betaMean": 0.3077
+  },
+  {
+   "ticker": "CMI",
+   "name": "Cummins",
+   "type": "below",
+   "close": 448.49,
+   "upper": 577.1001,
+   "lower": 458.7107,
+   "beta": 0.8701,
+   "betaMean": 1.2734
+  },
+  {
+   "ticker": "DVN",
+   "name": "Devon Energy",
+   "type": "below",
+   "close": 42.84,
+   "upper": 55.5662,
+   "lower": 43.2403,
+   "beta": -0.851,
+   "betaMean": -0.8266
+  },
+  {
+   "ticker": "MCHP",
+   "name": "Microchip Technology",
+   "type": "below",
+   "close": 64.895,
+   "upper": 84.687,
+   "lower": 66.7702,
+   "beta": 2.395,
+   "betaMean": 2.8192
+  },
+  {
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "type": "below",
+   "close": 658.7,
+   "upper": 1169.2651,
+   "lower": 664.1929,
+   "beta": 2.4033,
+   "betaMean": 3.2593
+  },
+  {
+   "ticker": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "type": "below",
+   "close": 272.18,
+   "upper": 400.6679,
+   "lower": 276.6045,
+   "beta": 0.0506,
+   "betaMean": 0.4069
+  },
+  {
+   "ticker": "WDC",
+   "name": "Western Digital",
+   "type": "below",
+   "close": 267.31,
+   "upper": 453.4276,
+   "lower": 274.7663,
+   "beta": 2.0443,
+   "betaMean": 2.835
+  }
+ ]
+}
