@@ -1,0 +1,279 @@
+{
+ "date": "2026-11-07",
+ "stats": {
+  "total": 503,
+  "ok": 502,
+  "failed": [
+   "SKYD"
+  ]
+ },
+ "cross": [
+  {
+   "ticker": "ADBE",
+   "name": "Adobe Inc.",
+   "type": "death",
+   "barTime": "2026-11-06T11:30",
+   "ema36": 248.7479,
+   "ema90": 248.8995,
+   "close": 240.9
+  },
+  {
+   "ticker": "ADI",
+   "name": "Analog Devices",
+   "type": "death",
+   "barTime": "2026-11-06T09:30",
+   "ema36": 403.128,
+   "ema90": 404.6745,
+   "close": 362.255
+  },
+  {
+   "ticker": "APO",
+   "name": "Apollo Global Management",
+   "type": "death",
+   "barTime": "2026-11-06T15:30",
+   "ema36": 116.8111,
+   "ema90": 116.816,
+   "close": 116.775
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "death",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 44.0725,
+   "ema90": 44.0796,
+   "close": 42.815
+  },
+  {
+   "ticker": "DLR",
+   "name": "Digital Realty",
+   "type": "death",
+   "barTime": "2026-11-06T11:30",
+   "ema36": 177.9808,
+   "ema90": 178.1582,
+   "close": 173.18
+  },
+  {
+   "ticker": "EOG",
+   "name": "EOG Resources",
+   "type": "death",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 154.0003,
+   "ema90": 154.1705,
+   "close": 148.2
+  },
+  {
+   "ticker": "EQT",
+   "name": "EQT Corporation",
+   "type": "death",
+   "barTime": "2026-11-06T09:30",
+   "ema36": 53.6175,
+   "ema90": 53.6786,
+   "close": 51.27
+  },
+  {
+   "ticker": "EXPD",
+   "name": "Expeditors International",
+   "type": "death",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 195.4346,
+   "ema90": 195.6797,
+   "close": 185.29
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "golden",
+   "barTime": "2026-11-06T15:30",
+   "ema36": 283.1823,
+   "ema90": 283.1751,
+   "close": 285.74
+  },
+  {
+   "ticker": "HAL",
+   "name": "Halliburton",
+   "type": "death",
+   "barTime": "2026-11-06T09:30",
+   "ema36": 33.9583,
+   "ema90": 33.9706,
+   "close": 32.585
+  },
+  {
+   "ticker": "IFF",
+   "name": "International Flavors & Fragrances",
+   "type": "death",
+   "barTime": "2026-11-06T15:30",
+   "ema36": 89.0465,
+   "ema90": 89.2195,
+   "close": 82.61
+  },
+  {
+   "ticker": "IQV",
+   "name": "IQVIA",
+   "type": "golden",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 267.6839,
+   "ema90": 267.6172,
+   "close": 271.98
+  },
+  {
+   "ticker": "MGM",
+   "name": "MGM Resorts",
+   "type": "golden",
+   "barTime": "2026-11-06T11:30",
+   "ema36": 30.6862,
+   "ema90": 30.6335,
+   "close": 32.13
+  },
+  {
+   "ticker": "MTB",
+   "name": "M&T Bank",
+   "type": "death",
+   "barTime": "2026-11-06T11:30",
+   "ema36": 221.524,
+   "ema90": 221.6159,
+   "close": 218.33
+  },
+  {
+   "ticker": "NEM",
+   "name": "Newmont",
+   "type": "golden",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 114.4987,
+   "ema90": 114.4447,
+   "close": 121.07
+  },
+  {
+   "ticker": "SNA",
+   "name": "Snap-on",
+   "type": "golden",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 363.8941,
+   "ema90": 363.8348,
+   "close": 368.0325
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "death",
+   "barTime": "2026-11-06T11:30",
+   "ema36": 459.0341,
+   "ema90": 459.3589,
+   "close": 444.53
+  },
+  {
+   "ticker": "SOLV",
+   "name": "Solventum",
+   "type": "golden",
+   "barTime": "2026-11-06T11:30",
+   "ema36": 86.2488,
+   "ema90": 86.1217,
+   "close": 91.365
+  },
+  {
+   "ticker": "SRE",
+   "name": "Sempra",
+   "type": "death",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 82.9043,
+   "ema90": 82.9617,
+   "close": 78.965
+  },
+  {
+   "ticker": "TEL",
+   "name": "TE Connectivity",
+   "type": "death",
+   "barTime": "2026-11-06T11:30",
+   "ema36": 215.1077,
+   "ema90": 215.1926,
+   "close": 206.59
+  },
+  {
+   "ticker": "TJX",
+   "name": "TJX Companies",
+   "type": "death",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 140.6964,
+   "ema90": 140.8155,
+   "close": 135.485
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "death",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 380.279,
+   "ema90": 380.462,
+   "close": 360.5925
+  },
+  {
+   "ticker": "TTWO",
+   "name": "Take-Two Interactive",
+   "type": "golden",
+   "barTime": "2026-11-06T15:30",
+   "ema36": 204.7414,
+   "ema90": 204.4339,
+   "close": 214.78
+  },
+  {
+   "ticker": "VYLR",
+   "name": "Vylor",
+   "type": "death",
+   "barTime": "2026-11-06T15:30",
+   "ema36": 71.7827,
+   "ema90": 71.8136,
+   "close": 70.16
+  },
+  {
+   "ticker": "XOM",
+   "name": "ExxonMobil",
+   "type": "death",
+   "barTime": "2026-11-06T13:30",
+   "ema36": 174.797,
+   "ema90": 174.8438,
+   "close": 166.2299
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "ABNB",
+   "name": "Airbnb",
+   "type": "above",
+   "close": 190.02,
+   "upper": 189.2877,
+   "lower": 152.0871,
+   "beta": 1.2586,
+   "betaMean": 1.2407
+  },
+  {
+   "ticker": "AXON",
+   "name": "Axon Enterprise",
+   "type": "below",
+   "close": 312.77,
+   "upper": 482.8976,
+   "lower": 334.1516,
+   "beta": 1.2645,
+   "betaMean": 1.7632
+  },
+  {
+   "ticker": "EXPD",
+   "name": "Expeditors International",
+   "type": "below",
+   "close": 184.61,
+   "upper": 207.4008,
+   "lower": 184.7633,
+   "beta": 0.3088,
+   "betaMean": 0.354
+  },
+  {
+   "ticker": "MCHP",
+   "name": "Microchip Technology",
+   "type": "below",
+   "close": 58.34,
+   "upper": 88.8189,
+   "lower": 60.7131,
+   "beta": 2.0825,
+   "betaMean": 2.8612
+  }
+ ]
+}
