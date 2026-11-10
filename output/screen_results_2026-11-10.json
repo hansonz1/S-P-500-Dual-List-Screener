@@ -1,0 +1,158 @@
+{
+ "date": "2026-11-10",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "BKNG",
+   "name": "Booking Holdings",
+   "type": "golden",
+   "barTime": "2026-11-09T09:30",
+   "ema36": 159.9871,
+   "ema90": 159.979,
+   "close": 162.105
+  },
+  {
+   "ticker": "COP",
+   "name": "ConocoPhillips",
+   "type": "death",
+   "barTime": "2026-11-09T11:30",
+   "ema36": 141.748,
+   "ema90": 141.852,
+   "close": 135.54
+  },
+  {
+   "ticker": "CVX",
+   "name": "Chevron Corporation",
+   "type": "death",
+   "barTime": "2026-11-09T11:30",
+   "ema36": 220.9215,
+   "ema90": 221.1908,
+   "close": 210.885
+  },
+  {
+   "ticker": "DLR",
+   "name": "Digital Realty",
+   "type": "golden",
+   "barTime": "2026-11-09T15:30",
+   "ema36": 178.1675,
+   "ema90": 178.1166,
+   "close": 180.05
+  },
+  {
+   "ticker": "EXPE",
+   "name": "Expedia Group",
+   "type": "death",
+   "barTime": "2026-11-09T09:30",
+   "ema36": 282.0041,
+   "ema90": 282.9345,
+   "close": 256.79
+  },
+  {
+   "ticker": "IT",
+   "name": "Gartner",
+   "type": "death",
+   "barTime": "2026-11-09T09:30",
+   "ema36": 207.9414,
+   "ema90": 208.2173,
+   "close": 188.565
+  },
+  {
+   "ticker": "LYB",
+   "name": "LyondellBasell",
+   "type": "death",
+   "barTime": "2026-11-09T11:30",
+   "ema36": 63.6108,
+   "ema90": 63.6276,
+   "close": 59.94
+  },
+  {
+   "ticker": "MTB",
+   "name": "M&T Bank",
+   "type": "golden",
+   "barTime": "2026-11-09T13:30",
+   "ema36": 221.6631,
+   "ema90": 221.6056,
+   "close": 223.97
+  },
+  {
+   "ticker": "NUE",
+   "name": "Nucor",
+   "type": "death",
+   "barTime": "2026-11-09T11:30",
+   "ema36": 260.6118,
+   "ema90": 260.7751,
+   "close": 248.895
+  },
+  {
+   "ticker": "RMD",
+   "name": "ResMed",
+   "type": "death",
+   "barTime": "2026-11-09T15:30",
+   "ema36": 237.4807,
+   "ema90": 237.5613,
+   "close": 235.67
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "golden",
+   "barTime": "2026-11-09T11:30",
+   "ema36": 459.051,
+   "ema90": 458.9023,
+   "close": 467.815
+  },
+  {
+   "ticker": "TEL",
+   "name": "TE Connectivity",
+   "type": "golden",
+   "barTime": "2026-11-09T13:30",
+   "ema36": 214.9536,
+   "ema90": 214.8842,
+   "close": 220.215
+  },
+  {
+   "ticker": "TMUS",
+   "name": "T-Mobile US",
+   "type": "golden",
+   "barTime": "2026-11-09T09:30",
+   "ema36": 157.5416,
+   "ema90": 157.3499,
+   "close": 166.78
+  },
+  {
+   "ticker": "VYLR",
+   "name": "Vylor",
+   "type": "golden",
+   "barTime": "2026-11-09T11:30",
+   "ema36": 71.798,
+   "ema90": 71.7749,
+   "close": 72.285
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "AXON",
+   "name": "Axon Enterprise",
+   "type": "below",
+   "close": 303.01,
+   "upper": 502.1227,
+   "lower": 305.9244,
+   "beta": 1.1464,
+   "betaMean": 1.7611
+  },
+  {
+   "ticker": "BEN",
+   "name": "Franklin Resources",
+   "type": "above",
+   "close": 35.87,
+   "upper": 35.4209,
+   "lower": 28.357,
+   "beta": 1.4285,
+   "betaMean": 1.0537
+  }
+ ]
+}
