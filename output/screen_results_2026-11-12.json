@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-12",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "CDNS",
+   "name": "Cadence Design Systems",
+   "type": "golden",
+   "barTime": "2026-11-11T11:30",
+   "ema36": 328.4554,
+   "ema90": 328.2973,
+   "close": 333.37
+  },
+  {
+   "ticker": "HWM",
+   "name": "Howmet Aerospace",
+   "type": "golden",
+   "barTime": "2026-11-11T13:30",
+   "ema36": 213.0242,
+   "ema90": 212.8443,
+   "close": 224.35
+  },
+  {
+   "ticker": "PH",
+   "name": "Parker Hannifin",
+   "type": "golden",
+   "barTime": "2026-11-11T11:30",
+   "ema36": 938.0034,
+   "ema90": 937.7241,
+   "close": 974.58
+  },
+  {
+   "ticker": "PLD",
+   "name": "Prologis",
+   "type": "golden",
+   "barTime": "2026-11-11T11:30",
+   "ema36": 129.0474,
+   "ema90": 128.993,
+   "close": 130.22
+  },
+  {
+   "ticker": "Q",
+   "name": "Qnity Electronics",
+   "type": "golden",
+   "barTime": "2026-11-11T09:30",
+   "ema36": 119.7882,
+   "ema90": 119.7324,
+   "close": 127.66
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "golden",
+   "barTime": "2026-11-11T09:30",
+   "ema36": 379.511,
+   "ema90": 379.3484,
+   "close": 393.0
+  }
+ ],
+ "bb": []
+}
