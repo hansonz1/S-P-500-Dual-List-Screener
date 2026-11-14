@@ -1,0 +1,92 @@
+{
+ "date": "2026-11-14",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AMCR",
+   "name": "Amcor",
+   "type": "death",
+   "barTime": "2026-11-13T13:30",
+   "ema36": 45.151,
+   "ema90": 45.1517,
+   "close": 43.825
+  },
+  {
+   "ticker": "CDNS",
+   "name": "Cadence Design Systems",
+   "type": "death",
+   "barTime": "2026-11-13T11:30",
+   "ema36": 328.4759,
+   "ema90": 328.5259,
+   "close": 322.77
+  },
+  {
+   "ticker": "EOG",
+   "name": "EOG Resources",
+   "type": "golden",
+   "barTime": "2026-11-13T11:30",
+   "ema36": 153.6631,
+   "ema90": 153.6063,
+   "close": 157.35
+  },
+  {
+   "ticker": "FSLR",
+   "name": "First Solar",
+   "type": "death",
+   "barTime": "2026-11-13T09:30",
+   "ema36": 182.2231,
+   "ema90": 182.7062,
+   "close": 169.06
+  },
+  {
+   "ticker": "MS",
+   "name": "Morgan Stanley",
+   "type": "golden",
+   "barTime": "2026-11-13T15:30",
+   "ema36": 188.2717,
+   "ema90": 188.1851,
+   "close": 190.67
+  },
+  {
+   "ticker": "NDSN",
+   "name": "Nordson Corporation",
+   "type": "death",
+   "barTime": "2026-11-13T09:30",
+   "ema36": 324.7812,
+   "ema90": 324.8352,
+   "close": 325.05
+  },
+  {
+   "ticker": "PCG",
+   "name": "PG&E Corporation",
+   "type": "golden",
+   "barTime": "2026-11-13T13:30",
+   "ema36": 13.122,
+   "ema90": 13.1176,
+   "close": 13.235
+  },
+  {
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "type": "death",
+   "barTime": "2026-11-13T09:30",
+   "ema36": 29.4972,
+   "ema90": 29.5035,
+   "close": 28.67
+  },
+  {
+   "ticker": "PLD",
+   "name": "Prologis",
+   "type": "death",
+   "barTime": "2026-11-13T11:30",
+   "ema36": 129.0376,
+   "ema90": 129.0511,
+   "close": 128.22
+  }
+ ],
+ "bb": []
+}
