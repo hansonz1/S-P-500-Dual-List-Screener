@@ -1,0 +1,137 @@
+{
+ "date": "2026-11-17",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "ARE",
+   "name": "Alexandria Real Estate Equities",
+   "type": "death",
+   "barTime": "2026-11-16T13:30",
+   "ema36": 44.0063,
+   "ema90": 44.0094,
+   "close": 43.3
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "type": "death",
+   "barTime": "2026-11-16T11:30",
+   "ema36": 336.3393,
+   "ema90": 336.5903,
+   "close": 331.275
+  },
+  {
+   "ticker": "BKNG",
+   "name": "Booking Holdings",
+   "type": "death",
+   "barTime": "2026-11-16T11:30",
+   "ema36": 160.2603,
+   "ema90": 160.406,
+   "close": 156.58
+  },
+  {
+   "ticker": "CTSH",
+   "name": "Cognizant",
+   "type": "death",
+   "barTime": "2026-11-16T09:30",
+   "ema36": 64.4556,
+   "ema90": 64.4834,
+   "close": 63.01
+  },
+  {
+   "ticker": "GS",
+   "name": "Goldman Sachs",
+   "type": "death",
+   "barTime": "2026-11-16T11:30",
+   "ema36": 907.1797,
+   "ema90": 907.5142,
+   "close": 888.67
+  },
+  {
+   "ticker": "IP",
+   "name": "International Paper",
+   "type": "death",
+   "barTime": "2026-11-16T15:30",
+   "ema36": 34.4164,
+   "ema90": 34.4288,
+   "close": 33.235
+  },
+  {
+   "ticker": "JBHT",
+   "name": "J.B. Hunt",
+   "type": "golden",
+   "barTime": "2026-11-16T13:30",
+   "ema36": 227.2592,
+   "ema90": 227.2111,
+   "close": 231.905
+  },
+  {
+   "ticker": "MS",
+   "name": "Morgan Stanley",
+   "type": "death",
+   "barTime": "2026-11-16T09:30",
+   "ema36": 188.1613,
+   "ema90": 188.1754,
+   "close": 186.23
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "type": "death",
+   "barTime": "2026-11-16T11:30",
+   "ema36": 528.6122,
+   "ema90": 528.6453,
+   "close": 521.13
+  },
+  {
+   "ticker": "NEM",
+   "name": "Newmont",
+   "type": "death",
+   "barTime": "2026-11-16T13:30",
+   "ema36": 115.4659,
+   "ema90": 115.5164,
+   "close": 110.6999
+  },
+  {
+   "ticker": "Q",
+   "name": "Qnity Electronics",
+   "type": "death",
+   "barTime": "2026-11-16T13:30",
+   "ema36": 119.918,
+   "ema90": 120.0123,
+   "close": 114.7
+  },
+  {
+   "ticker": "ROST",
+   "name": "Ross Stores",
+   "type": "death",
+   "barTime": "2026-11-16T13:30",
+   "ema36": 234.0145,
+   "ema90": 234.1836,
+   "close": 224.455
+  },
+  {
+   "ticker": "RVTY",
+   "name": "Revvity",
+   "type": "death",
+   "barTime": "2026-11-16T13:30",
+   "ema36": 156.6148,
+   "ema90": 156.7169,
+   "close": 150.07
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys",
+   "type": "death",
+   "barTime": "2026-11-16T09:30",
+   "ema36": 458.8522,
+   "ema90": 459.3043,
+   "close": 446.405
+  }
+ ],
+ "bb": []
+}
