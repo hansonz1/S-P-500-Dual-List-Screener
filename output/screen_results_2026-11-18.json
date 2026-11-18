@@ -1,0 +1,182 @@
+{
+ "date": "2026-11-18",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AES",
+   "name": "AES Corporation",
+   "type": "golden",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 14.9256,
+   "ema90": 14.9249,
+   "close": 14.965
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "type": "golden",
+   "barTime": "2026-11-17T15:30",
+   "ema36": 336.6413,
+   "ema90": 336.5172,
+   "close": 341.69
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "death",
+   "barTime": "2026-11-17T11:30",
+   "ema36": 44.097,
+   "ema90": 44.1208,
+   "close": 43.155
+  },
+  {
+   "ticker": "CSGP",
+   "name": "CoStar Group",
+   "type": "golden",
+   "barTime": "2026-11-17T11:30",
+   "ema36": 30.8442,
+   "ema90": 30.8122,
+   "close": 31.41
+  },
+  {
+   "ticker": "GRMN",
+   "name": "Garmin",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 284.4023,
+   "ema90": 284.7303,
+   "close": 275.255
+  },
+  {
+   "ticker": "HBAN",
+   "name": "Huntington Bancshares",
+   "type": "death",
+   "barTime": "2026-11-17T09:30",
+   "ema36": 15.745,
+   "ema90": 15.7532,
+   "close": 15.3061
+  },
+  {
+   "ticker": "HSIC",
+   "name": "Henry Schein",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 85.9987,
+   "ema90": 86.0011,
+   "close": 83.385
+  },
+  {
+   "ticker": "IBM",
+   "name": "IBM",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 244.5266,
+   "ema90": 244.5556,
+   "close": 231.17
+  },
+  {
+   "ticker": "IQV",
+   "name": "IQVIA",
+   "type": "death",
+   "barTime": "2026-11-17T09:30",
+   "ema36": 268.8266,
+   "ema90": 269.1741,
+   "close": 258.845
+  },
+  {
+   "ticker": "JBHT",
+   "name": "J.B. Hunt",
+   "type": "death",
+   "barTime": "2026-11-17T09:30",
+   "ema36": 227.3564,
+   "ema90": 227.3854,
+   "close": 224.37
+  },
+  {
+   "ticker": "JPM",
+   "name": "JPMorgan Chase",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 340.0058,
+   "ema90": 340.1257,
+   "close": 329.905
+  },
+  {
+   "ticker": "LDOS",
+   "name": "Leidos",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 132.6344,
+   "ema90": 132.6914,
+   "close": 128.18
+  },
+  {
+   "ticker": "MNST",
+   "name": "Monster Beverage",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 45.9126,
+   "ema90": 45.9745,
+   "close": 44.39
+  },
+  {
+   "ticker": "MRK",
+   "name": "Merck & Co.",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 146.4443,
+   "ema90": 146.4941,
+   "close": 143.61
+  },
+  {
+   "ticker": "NSC",
+   "name": "Norfolk Southern",
+   "type": "death",
+   "barTime": "2026-11-17T09:30",
+   "ema36": 330.1492,
+   "ema90": 330.3701,
+   "close": 322.72
+  },
+  {
+   "ticker": "SW",
+   "name": "Smurfit Westrock",
+   "type": "death",
+   "barTime": "2026-11-17T11:30",
+   "ema36": 42.955,
+   "ema90": 42.9679,
+   "close": 41.43
+  },
+  {
+   "ticker": "TEL",
+   "name": "TE Connectivity",
+   "type": "death",
+   "barTime": "2026-11-17T13:30",
+   "ema36": 215.5349,
+   "ema90": 215.6785,
+   "close": 211.04
+  },
+  {
+   "ticker": "VEEV",
+   "name": "Veeva Systems",
+   "type": "death",
+   "barTime": "2026-11-17T09:30",
+   "ema36": 303.8205,
+   "ema90": 304.2552,
+   "close": 291.82
+  },
+  {
+   "ticker": "VYLR",
+   "name": "Vylor",
+   "type": "death",
+   "barTime": "2026-11-17T11:30",
+   "ema36": 71.8359,
+   "ema90": 71.849,
+   "close": 70.99
+  }
+ ],
+ "bb": []
+}
