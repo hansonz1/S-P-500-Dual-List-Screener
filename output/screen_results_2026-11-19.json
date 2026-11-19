@@ -1,0 +1,221 @@
+{
+ "date": "2026-11-19",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "AXP",
+   "name": "American Express",
+   "type": "death",
+   "barTime": "2026-11-18T09:30",
+   "ema36": 319.9758,
+   "ema90": 319.9997,
+   "close": 314.38
+  },
+  {
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 61.8744,
+   "ema90": 61.9541,
+   "close": 59.55
+  },
+  {
+   "ticker": "BX",
+   "name": "Blackstone Inc.",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 118.514,
+   "ema90": 118.5317,
+   "close": 115.71
+  },
+  {
+   "ticker": "CBRE",
+   "name": "CBRE Group",
+   "type": "death",
+   "barTime": "2026-11-18T11:30",
+   "ema36": 133.1294,
+   "ema90": 133.1428,
+   "close": 130.52
+  },
+  {
+   "ticker": "CF",
+   "name": "CF Industries",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 119.9528,
+   "ema90": 120.0544,
+   "close": 113.73
+  },
+  {
+   "ticker": "CI",
+   "name": "Cigna",
+   "type": "death",
+   "barTime": "2026-11-18T13:30",
+   "ema36": 295.6093,
+   "ema90": 296.1088,
+   "close": 283.19
+  },
+  {
+   "ticker": "CSGP",
+   "name": "CoStar Group",
+   "type": "death",
+   "barTime": "2026-11-18T09:30",
+   "ema36": 30.7679,
+   "ema90": 30.8224,
+   "close": 29.6
+  },
+  {
+   "ticker": "DE",
+   "name": "Deere & Company",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 664.0591,
+   "ema90": 664.5217,
+   "close": 644.55
+  },
+  {
+   "ticker": "EMR",
+   "name": "Emerson Electric",
+   "type": "death",
+   "barTime": "2026-11-18T13:30",
+   "ema36": 164.0192,
+   "ema90": 164.0484,
+   "close": 162.285
+  },
+  {
+   "ticker": "EOG",
+   "name": "EOG Resources",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 153.8133,
+   "ema90": 153.9219,
+   "close": 149.68
+  },
+  {
+   "ticker": "INTU",
+   "name": "Intuit",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 333.8738,
+   "ema90": 334.0116,
+   "close": 313.22
+  },
+  {
+   "ticker": "ISRG",
+   "name": "Intuitive Surgical",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 440.1147,
+   "ema90": 440.2925,
+   "close": 420.94
+  },
+  {
+   "ticker": "MRNA",
+   "name": "Moderna",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 223.5589,
+   "ema90": 224.2303,
+   "close": 196.76
+  },
+  {
+   "ticker": "NKE",
+   "name": "Nike, Inc.",
+   "type": "death",
+   "barTime": "2026-11-18T09:30",
+   "ema36": 37.9775,
+   "ema90": 37.9809,
+   "close": 36.58
+  },
+  {
+   "ticker": "PH",
+   "name": "Parker Hannifin",
+   "type": "death",
+   "barTime": "2026-11-18T09:30",
+   "ema36": 940.5718,
+   "ema90": 940.9652,
+   "close": 920.09
+  },
+  {
+   "ticker": "PNC",
+   "name": "PNC Financial Services",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 227.6924,
+   "ema90": 227.8734,
+   "close": 221.12
+  },
+  {
+   "ticker": "SBAC",
+   "name": "SBA Communications",
+   "type": "death",
+   "barTime": "2026-11-18T13:30",
+   "ema36": 184.8327,
+   "ema90": 184.9861,
+   "close": 174.17
+  },
+  {
+   "ticker": "TDY",
+   "name": "Teledyne Technologies",
+   "type": "death",
+   "barTime": "2026-11-18T11:30",
+   "ema36": 634.8793,
+   "ema90": 635.0186,
+   "close": 624.27
+  },
+  {
+   "ticker": "UNH",
+   "name": "UnitedHealth Group",
+   "type": "death",
+   "barTime": "2026-11-18T09:30",
+   "ema36": 400.1203,
+   "ema90": 401.2709,
+   "close": 362.73
+  },
+  {
+   "ticker": "URI",
+   "name": "United Rentals",
+   "type": "death",
+   "barTime": "2026-11-18T15:30",
+   "ema36": 1106.7647,
+   "ema90": 1107.133,
+   "close": 1087.8101
+  },
+  {
+   "ticker": "WFC",
+   "name": "Wells Fargo",
+   "type": "death",
+   "barTime": "2026-11-18T13:30",
+   "ema36": 84.256,
+   "ema90": 84.3287,
+   "close": 81.04
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "HBAN",
+   "name": "Huntington Bancshares",
+   "type": "below",
+   "close": 14.915,
+   "upper": 16.4436,
+   "lower": 14.9792,
+   "beta": 0.8177,
+   "betaMean": 0.8458
+  },
+  {
+   "ticker": "VEEV",
+   "name": "Veeva Systems",
+   "type": "below",
+   "close": 277.19,
+   "upper": 338.9247,
+   "lower": 278.2687,
+   "beta": 0.5753,
+   "betaMean": 0.6835
+  }
+ ]
+}
