@@ -1,0 +1,367 @@
+{
+ "date": "2026-11-20",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "ACN",
+   "name": "Accenture",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 242.227,
+   "ema90": 242.3126,
+   "close": 218.28
+  },
+  {
+   "ticker": "AEP",
+   "name": "American Electric Power",
+   "type": "death",
+   "barTime": "2026-11-19T15:30",
+   "ema36": 127.4815,
+   "ema90": 127.5147,
+   "close": 125.01
+  },
+  {
+   "ticker": "BX",
+   "name": "Blackstone Inc.",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 118.4273,
+   "ema90": 118.4808,
+   "close": 117.1925
+  },
+  {
+   "ticker": "CEG",
+   "name": "Constellation Energy",
+   "type": "death",
+   "barTime": "2026-11-19T15:30",
+   "ema36": 266.2846,
+   "ema90": 266.6278,
+   "close": 251.975
+  },
+  {
+   "ticker": "CHRW",
+   "name": "C.H. Robinson",
+   "type": "golden",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 134.9913,
+   "ema90": 134.9225,
+   "close": 138.89
+  },
+  {
+   "ticker": "CNP",
+   "name": "CenterPoint Energy",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 40.5832,
+   "ema90": 40.6457,
+   "close": 39.04
+  },
+  {
+   "ticker": "DECK",
+   "name": "Deckers Brands",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 84.6926,
+   "ema90": 84.7587,
+   "close": 81.53
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "death",
+   "barTime": "2026-11-19T15:30",
+   "ema36": 145.7007,
+   "ema90": 145.7878,
+   "close": 142.67
+  },
+  {
+   "ticker": "DLR",
+   "name": "Digital Realty",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 178.7443,
+   "ema90": 178.7635,
+   "close": 176.57
+  },
+  {
+   "ticker": "DOW",
+   "name": "Dow Inc.",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 31.7006,
+   "ema90": 31.7311,
+   "close": 30.385
+  },
+  {
+   "ticker": "ELV",
+   "name": "Elevance Health",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 423.7761,
+   "ema90": 424.6347,
+   "close": 387.72
+  },
+  {
+   "ticker": "FITB",
+   "name": "Fifth Third Bancorp",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 53.2515,
+   "ema90": 53.3354,
+   "close": 51.2
+  },
+  {
+   "ticker": "GD",
+   "name": "General Dynamics",
+   "type": "death",
+   "barTime": "2026-11-19T15:30",
+   "ema36": 356.5807,
+   "ema90": 356.8148,
+   "close": 347.27
+  },
+  {
+   "ticker": "GDDY",
+   "name": "GoDaddy",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 110.2282,
+   "ema90": 110.2386,
+   "close": 103.08
+  },
+  {
+   "ticker": "GM",
+   "name": "General Motors",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 84.8926,
+   "ema90": 84.9791,
+   "close": 81.43
+  },
+  {
+   "ticker": "GNRC",
+   "name": "Generac",
+   "type": "golden",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 194.422,
+   "ema90": 194.3549,
+   "close": 205.42
+  },
+  {
+   "ticker": "GPN",
+   "name": "Global Payments",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 90.5942,
+   "ema90": 90.6749,
+   "close": 84.01
+  },
+  {
+   "ticker": "HONA",
+   "name": "Honeywell Aerospace",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 161.4658,
+   "ema90": 161.5065,
+   "close": 156.4
+  },
+  {
+   "ticker": "HUM",
+   "name": "Humana",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 423.2205,
+   "ema90": 424.2536,
+   "close": 379.63
+  },
+  {
+   "ticker": "IEX",
+   "name": "IDEX Corporation",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 234.0312,
+   "ema90": 234.1324,
+   "close": 227.85
+  },
+  {
+   "ticker": "KEY",
+   "name": "KeyCorp",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 21.0217,
+   "ema90": 21.0594,
+   "close": 20.155
+  },
+  {
+   "ticker": "LEN",
+   "name": "Lennar",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 84.4705,
+   "ema90": 84.5417,
+   "close": 80.995
+  },
+  {
+   "ticker": "MCO",
+   "name": "Moody's Corporation",
+   "type": "death",
+   "barTime": "2026-11-19T15:30",
+   "ema36": 493.1422,
+   "ema90": 493.4608,
+   "close": 471.86
+  },
+  {
+   "ticker": "MET",
+   "name": "MetLife",
+   "type": "death",
+   "barTime": "2026-11-19T15:30",
+   "ema36": 100.5636,
+   "ema90": 100.661,
+   "close": 97.62
+  },
+  {
+   "ticker": "MLM",
+   "name": "Martin Marietta Materials",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 516.9016,
+   "ema90": 516.9437,
+   "close": 508.06
+  },
+  {
+   "ticker": "PFG",
+   "name": "Principal Financial Group",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 112.1741,
+   "ema90": 112.3347,
+   "close": 107.64
+  },
+  {
+   "ticker": "PKG",
+   "name": "Packaging Corporation of America",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 247.7105,
+   "ema90": 247.7827,
+   "close": 236.31
+  },
+  {
+   "ticker": "PODD",
+   "name": "Insulet Corporation",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 146.9735,
+   "ema90": 147.3351,
+   "close": 137.0
+  },
+  {
+   "ticker": "RF",
+   "name": "Regions Financial Corporation",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 28.4089,
+   "ema90": 28.4342,
+   "close": 27.445
+  },
+  {
+   "ticker": "SNA",
+   "name": "Snap-on",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 365.9886,
+   "ema90": 366.0657,
+   "close": 358.28
+  },
+  {
+   "ticker": "TFC",
+   "name": "Truist Financial",
+   "type": "death",
+   "barTime": "2026-11-19T11:30",
+   "ema36": 49.0175,
+   "ema90": 49.0443,
+   "close": 46.89
+  },
+  {
+   "ticker": "UBER",
+   "name": "Uber",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 68.7607,
+   "ema90": 68.8858,
+   "close": 65.445
+  },
+  {
+   "ticker": "USB",
+   "name": "U.S. Bancorp",
+   "type": "death",
+   "barTime": "2026-11-19T09:30",
+   "ema36": 59.7596,
+   "ema90": 59.8328,
+   "close": 57.56
+  },
+  {
+   "ticker": "WSM",
+   "name": "Williams-Sonoma, Inc.",
+   "type": "death",
+   "barTime": "2026-11-19T13:30",
+   "ema36": 251.1188,
+   "ema90": 252.149,
+   "close": 219.6
+  },
+  {
+   "ticker": "WY",
+   "name": "Weyerhaeuser",
+   "type": "death",
+   "barTime": "2026-11-19T15:30",
+   "ema36": 20.3035,
+   "ema90": 20.3232,
+   "close": 19.545
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "HBAN",
+   "name": "Huntington Bancshares",
+   "type": "below",
+   "close": 14.705,
+   "upper": 16.6146,
+   "lower": 14.7498,
+   "beta": 0.797,
+   "betaMean": 0.8529
+  },
+  {
+   "ticker": "USB",
+   "name": "U.S. Bancorp",
+   "type": "below",
+   "close": 57.265,
+   "upper": 62.4862,
+   "lower": 57.314,
+   "beta": 0.6565,
+   "betaMean": 0.6586
+  },
+  {
+   "ticker": "VEEV",
+   "name": "Veeva Systems",
+   "type": "below",
+   "close": 262.92,
+   "upper": 345.5371,
+   "lower": 267.0438,
+   "beta": 0.6343,
+   "betaMean": 0.6605
+  },
+  {
+   "ticker": "WSM",
+   "name": "Williams-Sonoma, Inc.",
+   "type": "below",
+   "close": 220.95,
+   "upper": 279.6243,
+   "lower": 229.6551,
+   "beta": 0.9602,
+   "betaMean": 1.2167
+  }
+ ]
+}
