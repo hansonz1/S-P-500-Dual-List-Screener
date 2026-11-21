@@ -1,0 +1,413 @@
+{
+ "date": "2026-11-21",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "A",
+   "name": "Agilent Technologies",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 174.3015,
+   "ema90": 174.3182,
+   "close": 170.39
+  },
+  {
+   "ticker": "ABT",
+   "name": "Abbott Laboratories",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 106.6599,
+   "ema90": 106.7074,
+   "close": 104.31
+  },
+  {
+   "ticker": "AMP",
+   "name": "Ameriprise Financial",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 506.8958,
+   "ema90": 507.3899,
+   "close": 492.13
+  },
+  {
+   "ticker": "ANET",
+   "name": "Arista Networks",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 186.0456,
+   "ema90": 186.5363,
+   "close": 166.885
+  },
+  {
+   "ticker": "APO",
+   "name": "Apollo Global Management",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 118.4431,
+   "ema90": 118.615,
+   "close": 112.58
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 338.6648,
+   "ema90": 338.716,
+   "close": 306.95
+  },
+  {
+   "ticker": "BNY",
+   "name": "BNY Mellon",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 148.9077,
+   "ema90": 149.0526,
+   "close": 143.165
+  },
+  {
+   "ticker": "CNC",
+   "name": "Centene Corporation",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 69.3842,
+   "ema90": 69.4507,
+   "close": 65.455
+  },
+  {
+   "ticker": "CRL",
+   "name": "Charles River Laboratories",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 334.606,
+   "ema90": 334.626,
+   "close": 315.5
+  },
+  {
+   "ticker": "DHI",
+   "name": "D. R. Horton",
+   "type": "golden",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 145.8366,
+   "ema90": 145.7745,
+   "close": 148.215
+  },
+  {
+   "ticker": "DHR",
+   "name": "Danaher Corporation",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 229.6485,
+   "ema90": 229.6554,
+   "close": 224.29
+  },
+  {
+   "ticker": "DOC",
+   "name": "Healthpeak Properties",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 19.6086,
+   "ema90": 19.6216,
+   "close": 19.25
+  },
+  {
+   "ticker": "DOV",
+   "name": "Dover Corporation",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 204.8262,
+   "ema90": 204.8679,
+   "close": 196.19
+  },
+  {
+   "ticker": "ECHO",
+   "name": "EchoStar",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 96.0813,
+   "ema90": 96.1744,
+   "close": 84.73
+  },
+  {
+   "ticker": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 106.9603,
+   "ema90": 107.0291,
+   "close": 101.45
+  },
+  {
+   "ticker": "EQIX",
+   "name": "Equinix",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 1025.7803,
+   "ema90": 1025.8199,
+   "close": 968.44
+  },
+  {
+   "ticker": "ETR",
+   "name": "Entergy",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 108.4483,
+   "ema90": 108.5368,
+   "close": 104.38
+  },
+  {
+   "ticker": "FOX",
+   "name": "Fox Corporation (Class B)",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 58.9231,
+   "ema90": 58.9429,
+   "close": 56.31
+  },
+  {
+   "ticker": "FOXA",
+   "name": "Fox Corporation (Class A)",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 65.9692,
+   "ema90": 66.0432,
+   "close": 63.005
+  },
+  {
+   "ticker": "INCY",
+   "name": "Incyte",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 118.6104,
+   "ema90": 118.6402,
+   "close": 115.03
+  },
+  {
+   "ticker": "KKR",
+   "name": "KKR & Co.",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 95.296,
+   "ema90": 95.4878,
+   "close": 89.99
+  },
+  {
+   "ticker": "L",
+   "name": "Loews Corporation",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 110.5995,
+   "ema90": 110.6087,
+   "close": 109.43
+  },
+  {
+   "ticker": "LHX",
+   "name": "L3Harris",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 261.2135,
+   "ema90": 261.2739,
+   "close": 249.9
+  },
+  {
+   "ticker": "LMT",
+   "name": "Lockheed Martin",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 586.2008,
+   "ema90": 586.2421,
+   "close": 571.31
+  },
+  {
+   "ticker": "MOS",
+   "name": "Mosaic Company (The)",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 20.4583,
+   "ema90": 20.5019,
+   "close": 18.66
+  },
+  {
+   "ticker": "MPWR",
+   "name": "Monolithic Power Systems",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 1294.2818,
+   "ema90": 1298.1983,
+   "close": 1143.37
+  },
+  {
+   "ticker": "NTRS",
+   "name": "Northern Trust",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 172.8895,
+   "ema90": 173.1116,
+   "close": 166.4
+  },
+  {
+   "ticker": "PYPL",
+   "name": "PayPal",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 57.6341,
+   "ema90": 57.6663,
+   "close": 53.56
+  },
+  {
+   "ticker": "RJF",
+   "name": "Raymond James Financial",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 163.1828,
+   "ema90": 163.224,
+   "close": 156.4
+  },
+  {
+   "ticker": "RL",
+   "name": "Ralph Lauren Corporation",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 385.6153,
+   "ema90": 385.6689,
+   "close": 372.36
+  },
+  {
+   "ticker": "SOLV",
+   "name": "Solventum",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 87.2048,
+   "ema90": 87.2082,
+   "close": 85.59
+  },
+  {
+   "ticker": "SWKS",
+   "name": "Skyworks Solutions",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 84.1344,
+   "ema90": 84.1697,
+   "close": 77.865
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 380.8109,
+   "ema90": 381.7962,
+   "close": 358.21
+  },
+  {
+   "ticker": "TXN",
+   "name": "Texas Instruments",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 294.5666,
+   "ema90": 295.0909,
+   "close": 273.71
+  },
+  {
+   "ticker": "UAL",
+   "name": "United Airlines Holdings",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 109.2267,
+   "ema90": 109.3256,
+   "close": 101.98
+  },
+  {
+   "ticker": "UHS",
+   "name": "Universal Health Services",
+   "type": "death",
+   "barTime": "2026-11-20T15:30",
+   "ema36": 187.1776,
+   "ema90": 187.1993,
+   "close": 179.5
+  },
+  {
+   "ticker": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "type": "death",
+   "barTime": "2026-11-20T13:30",
+   "ema36": 533.8312,
+   "ema90": 534.156,
+   "close": 517.08
+  },
+  {
+   "ticker": "WAB",
+   "name": "Wabtec",
+   "type": "death",
+   "barTime": "2026-11-20T11:30",
+   "ema36": 289.4909,
+   "ema90": 289.8758,
+   "close": 271.165
+  },
+  {
+   "ticker": "XYZ",
+   "name": "Block, Inc.",
+   "type": "death",
+   "barTime": "2026-11-20T09:30",
+   "ema36": 80.2116,
+   "ema90": 80.531,
+   "close": 71.67
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "FITB",
+   "name": "Fifth Third Bancorp",
+   "type": "below",
+   "close": 49.39,
+   "upper": 56.9545,
+   "lower": 49.897,
+   "beta": 0.6996,
+   "betaMean": 0.7288
+  },
+  {
+   "ticker": "HBAN",
+   "name": "Huntington Bancshares",
+   "type": "below",
+   "close": 14.295,
+   "upper": 16.8302,
+   "lower": 14.4308,
+   "beta": 0.7821,
+   "betaMean": 0.8478
+  },
+  {
+   "ticker": "RF",
+   "name": "Regions Financial Corporation",
+   "type": "below",
+   "close": 26.61,
+   "upper": 29.9066,
+   "lower": 27.0141,
+   "beta": 0.6213,
+   "betaMean": 0.6302
+  },
+  {
+   "ticker": "USB",
+   "name": "U.S. Bancorp",
+   "type": "below",
+   "close": 56.05,
+   "upper": 63.0235,
+   "lower": 56.559,
+   "beta": 0.631,
+   "betaMean": 0.6545
+  },
+  {
+   "ticker": "WSM",
+   "name": "Williams-Sonoma, Inc.",
+   "type": "below",
+   "close": 210.78,
+   "upper": 288.2623,
+   "lower": 217.5105,
+   "beta": 0.9738,
+   "betaMean": 1.1913
+  }
+ ]
+}
