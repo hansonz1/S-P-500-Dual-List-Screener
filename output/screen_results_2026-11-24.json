@@ -1,0 +1,218 @@
+{
+ "date": "2026-11-24",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "A",
+   "name": "Agilent Technologies",
+   "type": "golden",
+   "barTime": "2026-11-23T09:30",
+   "ema36": 174.4116,
+   "ema90": 174.3972,
+   "close": 176.34
+  },
+  {
+   "ticker": "AMT",
+   "name": "American Tower",
+   "type": "death",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 185.6356,
+   "ema90": 185.807,
+   "close": 179.57
+  },
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "type": "death",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 259.2775,
+   "ema90": 259.2883,
+   "close": 257.05
+  },
+  {
+   "ticker": "BLK",
+   "name": "BlackRock",
+   "type": "death",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 1167.6536,
+   "ema90": 1167.7427,
+   "close": 1152.38
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "death",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 62.8742,
+   "ema90": 62.8887,
+   "close": 61.77
+  },
+  {
+   "ticker": "CCI",
+   "name": "Crown Castle",
+   "type": "death",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 85.2214,
+   "ema90": 85.3198,
+   "close": 81.5
+  },
+  {
+   "ticker": "CCL",
+   "name": "Carnival Corporation",
+   "type": "death",
+   "barTime": "2026-11-23T15:30",
+   "ema36": 28.4611,
+   "ema90": 28.4753,
+   "close": 27.92
+  },
+  {
+   "ticker": "COO",
+   "name": "Cooper Companies (The)",
+   "type": "death",
+   "barTime": "2026-11-23T15:30",
+   "ema36": 60.8433,
+   "ema90": 60.8623,
+   "close": 60.19
+  },
+  {
+   "ticker": "DOC",
+   "name": "Healthpeak Properties",
+   "type": "golden",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 19.6208,
+   "ema90": 19.6162,
+   "close": 19.8657
+  },
+  {
+   "ticker": "EBAY",
+   "name": "eBay Inc.",
+   "type": "death",
+   "barTime": "2026-11-23T11:30",
+   "ema36": 119.6014,
+   "ema90": 119.6245,
+   "close": 118.39
+  },
+  {
+   "ticker": "EQIX",
+   "name": "Equinix",
+   "type": "death",
+   "barTime": "2026-11-23T11:30",
+   "ema36": 1024.7207,
+   "ema90": 1025.4221,
+   "close": 1010.16
+  },
+  {
+   "ticker": "ESS",
+   "name": "Essex Property Trust",
+   "type": "golden",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 271.8174,
+   "ema90": 271.8073,
+   "close": 272.83
+  },
+  {
+   "ticker": "FDS",
+   "name": "FactSet",
+   "type": "death",
+   "barTime": "2026-11-23T15:30",
+   "ema36": 319.7167,
+   "ema90": 319.8837,
+   "close": 312.51
+  },
+  {
+   "ticker": "HII",
+   "name": "Huntington Ingalls Industries",
+   "type": "death",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 293.5144,
+   "ema90": 293.5452,
+   "close": 287.445
+  },
+  {
+   "ticker": "MPWR",
+   "name": "Monolithic Power Systems",
+   "type": "golden",
+   "barTime": "2026-11-23T15:30",
+   "ema36": 1300.9967,
+   "ema90": 1299.9563,
+   "close": 1333.87
+  },
+  {
+   "ticker": "PNW",
+   "name": "Pinnacle West Capital",
+   "type": "death",
+   "barTime": "2026-11-23T09:30",
+   "ema36": 104.0687,
+   "ema90": 104.1297,
+   "close": 102.08
+  },
+  {
+   "ticker": "REG",
+   "name": "Regency Centers",
+   "type": "death",
+   "barTime": "2026-11-23T15:30",
+   "ema36": 74.7937,
+   "ema90": 74.8077,
+   "close": 73.74
+  },
+  {
+   "ticker": "RTX",
+   "name": "RTX Corporation",
+   "type": "death",
+   "barTime": "2026-11-23T09:30",
+   "ema36": 195.7869,
+   "ema90": 195.8002,
+   "close": 194.4401
+  },
+  {
+   "ticker": "TDG",
+   "name": "TransDigm Group",
+   "type": "death",
+   "barTime": "2026-11-23T11:30",
+   "ema36": 1177.6842,
+   "ema90": 1178.1296,
+   "close": 1143.24
+  },
+  {
+   "ticker": "TXT",
+   "name": "Textron",
+   "type": "death",
+   "barTime": "2026-11-23T13:30",
+   "ema36": 82.4336,
+   "ema90": 82.4385,
+   "close": 81.715
+  },
+  {
+   "ticker": "UNP",
+   "name": "Union Pacific Corporation",
+   "type": "death",
+   "barTime": "2026-11-23T11:30",
+   "ema36": 296.4429,
+   "ema90": 296.67,
+   "close": 289.21
+  },
+  {
+   "ticker": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "type": "golden",
+   "barTime": "2026-11-23T15:30",
+   "ema36": 533.6596,
+   "ema90": 533.6012,
+   "close": 538.53
+  },
+  {
+   "ticker": "WAT",
+   "name": "Waters Corporation",
+   "type": "death",
+   "barTime": "2026-11-23T09:30",
+   "ema36": 457.135,
+   "ema90": 457.2244,
+   "close": 455.41
+  }
+ ],
+ "bb": []
+}
