@@ -1,0 +1,229 @@
+{
+ "date": "2026-11-25",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "COO",
+   "name": "Cooper Companies (The)",
+   "type": "golden",
+   "barTime": "2026-11-24T09:30",
+   "ema36": 60.9056,
+   "ema90": 60.8402,
+   "close": 61.995
+  },
+  {
+   "ticker": "CRL",
+   "name": "Charles River Laboratories",
+   "type": "golden",
+   "barTime": "2026-11-24T11:30",
+   "ema36": 334.3955,
+   "ema90": 334.1233,
+   "close": 341.62
+  },
+  {
+   "ticker": "CSGP",
+   "name": "CoStar Group",
+   "type": "golden",
+   "barTime": "2026-11-24T15:30",
+   "ema36": 30.6727,
+   "ema90": 30.6258,
+   "close": 32.635
+  },
+  {
+   "ticker": "CSX",
+   "name": "CSX Corporation",
+   "type": "death",
+   "barTime": "2026-11-24T13:30",
+   "ema36": 50.6312,
+   "ema90": 50.651,
+   "close": 50.015
+  },
+  {
+   "ticker": "EXPD",
+   "name": "Expeditors International",
+   "type": "golden",
+   "barTime": "2026-11-24T15:30",
+   "ema36": 194.2714,
+   "ema90": 194.2473,
+   "close": 197.87
+  },
+  {
+   "ticker": "FAST",
+   "name": "Fastenal",
+   "type": "death",
+   "barTime": "2026-11-24T13:30",
+   "ema36": 53.1077,
+   "ema90": 53.1347,
+   "close": 52.05
+  },
+  {
+   "ticker": "FDS",
+   "name": "FactSet",
+   "type": "golden",
+   "barTime": "2026-11-24T09:30",
+   "ema36": 319.7555,
+   "ema90": 319.7227,
+   "close": 320.43
+  },
+  {
+   "ticker": "FDXF",
+   "name": "FedEx Freight",
+   "type": "death",
+   "barTime": "2026-11-24T15:30",
+   "ema36": 123.541,
+   "ema90": 123.6126,
+   "close": 114.97
+  },
+  {
+   "ticker": "GPN",
+   "name": "Global Payments",
+   "type": "golden",
+   "barTime": "2026-11-24T11:30",
+   "ema36": 90.6325,
+   "ema90": 90.4848,
+   "close": 94.775
+  },
+  {
+   "ticker": "HWM",
+   "name": "Howmet Aerospace",
+   "type": "death",
+   "barTime": "2026-11-24T15:30",
+   "ema36": 215.0393,
+   "ema90": 215.0726,
+   "close": 210.89
+  },
+  {
+   "ticker": "INCY",
+   "name": "Incyte",
+   "type": "golden",
+   "barTime": "2026-11-24T11:30",
+   "ema36": 118.578,
+   "ema90": 118.4616,
+   "close": 122.7
+  },
+  {
+   "ticker": "L",
+   "name": "Loews Corporation",
+   "type": "golden",
+   "barTime": "2026-11-24T15:30",
+   "ema36": 110.5727,
+   "ema90": 110.5691,
+   "close": 110.74
+  },
+  {
+   "ticker": "MKC",
+   "name": "McCormick & Company",
+   "type": "golden",
+   "barTime": "2026-11-24T11:30",
+   "ema36": 47.2923,
+   "ema90": 47.259,
+   "close": 49.28
+  },
+  {
+   "ticker": "MLM",
+   "name": "Martin Marietta Materials",
+   "type": "golden",
+   "barTime": "2026-11-24T13:30",
+   "ema36": 516.8984,
+   "ema90": 516.6166,
+   "close": 525.72
+  },
+  {
+   "ticker": "MPWR",
+   "name": "Monolithic Power Systems",
+   "type": "death",
+   "barTime": "2026-11-24T09:30",
+   "ema36": 1294.7936,
+   "ema90": 1299.5174,
+   "close": 1186.22
+  },
+  {
+   "ticker": "NXPI",
+   "name": "NXP Semiconductors",
+   "type": "death",
+   "barTime": "2026-11-24T13:30",
+   "ema36": 251.5863,
+   "ema90": 252.0065,
+   "close": 239.82
+  },
+  {
+   "ticker": "OKTA",
+   "name": "Okta, Inc.",
+   "type": "golden",
+   "barTime": "2026-11-24T09:30",
+   "ema36": 193.5156,
+   "ema90": 193.2397,
+   "close": 205.88
+  },
+  {
+   "ticker": "REG",
+   "name": "Regency Centers",
+   "type": "golden",
+   "barTime": "2026-11-24T15:30",
+   "ema36": 74.7705,
+   "ema90": 74.767,
+   "close": 74.96
+  },
+  {
+   "ticker": "RL",
+   "name": "Ralph Lauren Corporation",
+   "type": "golden",
+   "barTime": "2026-11-24T13:30",
+   "ema36": 384.9921,
+   "ema90": 384.9506,
+   "close": 395.39
+  },
+  {
+   "ticker": "T",
+   "name": "AT&T",
+   "type": "golden",
+   "barTime": "2026-11-24T11:30",
+   "ema36": 22.2214,
+   "ema90": 22.214,
+   "close": 22.8099
+  },
+  {
+   "ticker": "TJX",
+   "name": "TJX Companies",
+   "type": "golden",
+   "barTime": "2026-11-24T11:30",
+   "ema36": 138.7174,
+   "ema90": 138.6968,
+   "close": 144.145
+  },
+  {
+   "ticker": "TMO",
+   "name": "Thermo Fisher Scientific",
+   "type": "golden",
+   "barTime": "2026-11-24T11:30",
+   "ema36": 691.5446,
+   "ema90": 691.2645,
+   "close": 696.78
+  },
+  {
+   "ticker": "WST",
+   "name": "West Pharmaceutical Services",
+   "type": "death",
+   "barTime": "2026-11-24T15:30",
+   "ema36": 401.5309,
+   "ema90": 401.5765,
+   "close": 389.04
+  }
+ ],
+ "bb": [
+  {
+   "ticker": "BIIB",
+   "name": "Biogen",
+   "type": "above",
+   "close": 269.27,
+   "upper": 265.9287,
+   "lower": 238.3842,
+   "beta": 0.4414,
+   "betaMean": 0.2256
+  }
+ ]
+}
