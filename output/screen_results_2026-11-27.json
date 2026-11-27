@@ -1,0 +1,173 @@
+{
+ "date": "2026-11-27",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "ABNB",
+   "name": "Airbnb",
+   "type": "death",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 176.4665,
+   "ema90": 176.6328,
+   "close": 172.24
+  },
+  {
+   "ticker": "BXP",
+   "name": "BXP, Inc.",
+   "type": "golden",
+   "barTime": "2026-11-25T11:30",
+   "ema36": 62.7914,
+   "ema90": 62.7874,
+   "close": 64.38
+  },
+  {
+   "ticker": "CRL",
+   "name": "Charles River Laboratories",
+   "type": "death",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 333.9234,
+   "ema90": 333.9624,
+   "close": 332.17
+  },
+  {
+   "ticker": "CSX",
+   "name": "CSX Corporation",
+   "type": "golden",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 50.6405,
+   "ema90": 50.615,
+   "close": 51.285
+  },
+  {
+   "ticker": "CVNA",
+   "name": "Carvana",
+   "type": "death",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 68.5196,
+   "ema90": 68.5214,
+   "close": 67.92
+  },
+  {
+   "ticker": "DAL",
+   "name": "Delta Air Lines",
+   "type": "death",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 84.3243,
+   "ema90": 84.3485,
+   "close": 83.125
+  },
+  {
+   "ticker": "DXCM",
+   "name": "Dexcom",
+   "type": "golden",
+   "barTime": "2026-11-25T11:30",
+   "ema36": 82.3152,
+   "ema90": 82.2814,
+   "close": 84.95
+  },
+  {
+   "ticker": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "type": "golden",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 106.5467,
+   "ema90": 106.5292,
+   "close": 109.61
+  },
+  {
+   "ticker": "HAS",
+   "name": "Hasbro",
+   "type": "death",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 114.9923,
+   "ema90": 114.9972,
+   "close": 110.525
+  },
+  {
+   "ticker": "HII",
+   "name": "Huntington Ingalls Industries",
+   "type": "golden",
+   "barTime": "2026-11-25T09:30",
+   "ema36": 293.4806,
+   "ema90": 293.3116,
+   "close": 296.56
+  },
+  {
+   "ticker": "HSIC",
+   "name": "Henry Schein",
+   "type": "golden",
+   "barTime": "2026-11-25T09:30",
+   "ema36": 85.6167,
+   "ema90": 85.5951,
+   "close": 88.36
+  },
+  {
+   "ticker": "INVH",
+   "name": "Invitation Homes",
+   "type": "golden",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 26.8684,
+   "ema90": 26.8512,
+   "close": 27.795
+  },
+  {
+   "ticker": "LEN",
+   "name": "Lennar",
+   "type": "golden",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 84.2779,
+   "ema90": 84.2231,
+   "close": 86.77
+  },
+  {
+   "ticker": "LMT",
+   "name": "Lockheed Martin",
+   "type": "golden",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 584.9736,
+   "ema90": 584.7702,
+   "close": 598.13
+  },
+  {
+   "ticker": "RTX",
+   "name": "RTX Corporation",
+   "type": "golden",
+   "barTime": "2026-11-25T11:30",
+   "ema36": 195.6909,
+   "ema90": 195.6441,
+   "close": 196.74
+  },
+  {
+   "ticker": "SCHW",
+   "name": "Charles Schwab Corporation",
+   "type": "golden",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 92.6151,
+   "ema90": 92.6105,
+   "close": 93.47
+  },
+  {
+   "ticker": "SYY",
+   "name": "Sysco",
+   "type": "golden",
+   "barTime": "2026-11-25T11:30",
+   "ema36": 78.9509,
+   "ema90": 78.8436,
+   "close": 81.73
+  },
+  {
+   "ticker": "TMO",
+   "name": "Thermo Fisher Scientific",
+   "type": "death",
+   "barTime": "2026-11-25T09:30",
+   "ema36": 690.9198,
+   "ema90": 691.2286,
+   "close": 672.165
+  }
+ ],
+ "bb": []
+}
