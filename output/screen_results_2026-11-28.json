@@ -1,0 +1,182 @@
+{
+ "date": "2026-11-28",
+ "stats": {
+  "total": 503,
+  "ok": 503,
+  "failed": []
+ },
+ "cross": [
+  {
+   "ticker": "ABNB",
+   "name": "Airbnb",
+   "type": "death",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 176.4665,
+   "ema90": 176.6328,
+   "close": 172.24
+  },
+  {
+   "ticker": "ABT",
+   "name": "Abbott Laboratories",
+   "type": "golden",
+   "barTime": "2026-11-27T11:30",
+   "ema36": 106.3872,
+   "ema90": 106.3643,
+   "close": 108.21
+  },
+  {
+   "ticker": "APO",
+   "name": "Apollo Global Management",
+   "type": "golden",
+   "barTime": "2026-11-27T09:30",
+   "ema36": 118.4751,
+   "ema90": 118.3257,
+   "close": 123.11
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "type": "golden",
+   "barTime": "2026-11-27T11:30",
+   "ema36": 43.8835,
+   "ema90": 43.8413,
+   "close": 45.25
+  },
+  {
+   "ticker": "CBRE",
+   "name": "CBRE Group",
+   "type": "golden",
+   "barTime": "2026-11-27T09:30",
+   "ema36": 132.7758,
+   "ema90": 132.5359,
+   "close": 139.59
+  },
+  {
+   "ticker": "CRL",
+   "name": "Charles River Laboratories",
+   "type": "golden",
+   "barTime": "2026-11-27T11:30",
+   "ema36": 334.163,
+   "ema90": 334.1563,
+   "close": 336.41
+  },
+  {
+   "ticker": "CSX",
+   "name": "CSX Corporation",
+   "type": "golden",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 50.6405,
+   "ema90": 50.615,
+   "close": 51.285
+  },
+  {
+   "ticker": "CVNA",
+   "name": "Carvana",
+   "type": "golden",
+   "barTime": "2026-11-27T09:30",
+   "ema36": 68.5589,
+   "ema90": 68.5171,
+   "close": 69.89
+  },
+  {
+   "ticker": "DAL",
+   "name": "Delta Air Lines",
+   "type": "death",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 84.3243,
+   "ema90": 84.3485,
+   "close": 83.125
+  },
+  {
+   "ticker": "EL",
+   "name": "Est\u00e9e Lauder Companies (The)",
+   "type": "golden",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 106.5467,
+   "ema90": 106.5292,
+   "close": 109.61
+  },
+  {
+   "ticker": "HAS",
+   "name": "Hasbro",
+   "type": "death",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 114.9923,
+   "ema90": 114.9972,
+   "close": 110.525
+  },
+  {
+   "ticker": "INVH",
+   "name": "Invitation Homes",
+   "type": "golden",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 26.8684,
+   "ema90": 26.8512,
+   "close": 27.795
+  },
+  {
+   "ticker": "LEN",
+   "name": "Lennar",
+   "type": "golden",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 84.2779,
+   "ema90": 84.2231,
+   "close": 86.77
+  },
+  {
+   "ticker": "LMT",
+   "name": "Lockheed Martin",
+   "type": "golden",
+   "barTime": "2026-11-25T13:30",
+   "ema36": 584.9736,
+   "ema90": 584.7702,
+   "close": 598.13
+  },
+  {
+   "ticker": "SCHW",
+   "name": "Charles Schwab Corporation",
+   "type": "golden",
+   "barTime": "2026-11-25T15:30",
+   "ema36": 92.6151,
+   "ema90": 92.6105,
+   "close": 93.47
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "type": "golden",
+   "barTime": "2026-11-27T11:30",
+   "ema36": 380.5083,
+   "ema90": 380.4273,
+   "close": 399.19
+  },
+  {
+   "ticker": "UHS",
+   "name": "Universal Health Services",
+   "type": "golden",
+   "barTime": "2026-11-27T09:30",
+   "ema36": 186.7932,
+   "ema90": 186.7298,
+   "close": 191.4
+  },
+  {
+   "ticker": "WAT",
+   "name": "Waters Corporation",
+   "type": "golden",
+   "barTime": "2026-11-27T11:30",
+   "ema36": 457.0388,
+   "ema90": 456.8824,
+   "close": 462.66
+  },
+  {
+   "ticker": "WY",
+   "name": "Weyerhaeuser",
+   "type": "golden",
+   "barTime": "2026-11-27T09:30",
+   "ema36": 20.2622,
+   "ema90": 20.2608,
+   "close": 20.9401
+  }
+ ],
+ "bb": []
+}
